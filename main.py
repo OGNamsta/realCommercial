@@ -1,5 +1,6 @@
 import httpx
 import asyncio
+import json
 
 
 headers = {
@@ -31,6 +32,9 @@ json_data = {
     'page-size': 10,
 }
 
+# In-memory cache for storing the response.
+response_cache = {}
+
 
 async def fetch_data():
     async with httpx.AsyncClient() as client:
@@ -40,7 +44,18 @@ async def fetch_data():
 
 async def main():
     response = await fetch_data()
-    print(response.text)
+    # Check if response is cached.
+    if json_data["page"] in response_cache:
+        print('Response is cached.')
+        response = response_cache[json_data["page"]]
+    else:
+        # If not in the cache, fetch the data and store it in the cache.
+        print('Response is not cached.')
+        response = await fetch_data()
+        response_cache[json_data["page"]] = response
+    # Save response to file. Filename is the page number.
+    with open(f'{json_data["page"]}.json', 'w', encoding='utf-8') as f:
+        f.write(response.text)
 
 
 if __name__ == '__main__':

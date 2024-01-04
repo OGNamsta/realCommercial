@@ -1,0 +1,1527 @@
+{
+  "listings" : [
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "CVAMEL",
+          "name" : "CVA Property Consultants - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "2557302",
+              "name" : "Ben Quennell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg"
+            },
+            {
+              "id" : "80033",
+              "name" : "Ian Angelico",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg"
+            },
+            {
+              "id" : "2916519",
+              "name" : "Anders Skoglund",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 63,
+      "agents" : [
+        {
+          "name" : "Ben Quennell",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg"
+        },
+        {
+          "name" : "Ian Angelico",
+          "avatar" : "https://i1.au.reastatic.net/71x88/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg"
+        },
+        {
+          "name" : "Anders Skoglund",
+          "avatar" : "https://i1.au.reastatic.net/71x88/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "575 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504456484",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-117-119-thistlethwaite-street-south-melbourne-vic-3205-504456484",
+      "title" : "STRATEGICALLY POSITIONED SOUTH MELBOURNE STANDOUT.",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3205",
+        "agencyIds" : "CVAMEL",
+        "subscription" : "",
+        "suburb" : "South Melbourne",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "CVAMEL"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "117-119 Thistlethwaite Street",
+        "postcode" : "3205",
+        "suburb" : "South Melbourne",
+        "suburbAddress" : "South Melbourne, VIC 3205"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "117-119 Thistlethwaite Street",
+        "suburbAddress" : "South Melbourne, VIC 3205"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "CVA Property Consultants - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/12df43b35438fcf3af01a289177bad2da081b54d8636d890331861dc7b68b285/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/12df43b35438fcf3af01a289177bad2da081b54d8636d890331861dc7b68b285/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a771289892922a799d2b62733919c4bd372065a495243038da31e55e7d304bd7/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a771289892922a799d2b62733919c4bd372065a495243038da31e55e7d304bd7/image0.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/33264bbf94d35f45115d37959ee1de8dbcc58c4bf8d4e41c1d3ff52bbd8b1408/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/33264bbf94d35f45115d37959ee1de8dbcc58c4bf8d4e41c1d3ff52bbd8b1408/image1.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/be7d6be152c144fd68a7f06ce69b050a9ad4831dd8284d4a38d2e23e892faa3d/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/be7d6be152c144fd68a7f06ce69b050a9ad4831dd8284d4a38d2e23e892faa3d/image2.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ffff5364635104299a7f4ff82c504284a14ead6ae44594f05e589dfcd8172513/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ffff5364635104299a7f4ff82c504284a14ead6ae44594f05e589dfcd8172513/image3.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/00334fae12986e34c2071680fce1ed3a5b3ab1ddd05375f2cd7e27c29796f8bf/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/00334fae12986e34c2071680fce1ed3a5b3ab1ddd05375f2cd7e27c29796f8bf/image4.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d0dfef4825e654db525eaecc26939bf0ebdd2903e359949a628e326e05e3c444/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d0dfef4825e654db525eaecc26939bf0ebdd2903e359949a628e326e05e3c444/image5.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5ac7444fedb915dab9cb319ab969d56fbe2ca5bcffb5887039d41f417afded6/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b5ac7444fedb915dab9cb319ab969d56fbe2ca5bcffb5887039d41f417afded6/image6.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b1405f58523ac3dfdb108e03c53fbd14dc3cd5e8423b48bdb7cc9fe7d977e8c9/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b1405f58523ac3dfdb108e03c53fbd14dc3cd5e8423b48bdb7cc9fe7d977e8c9/image7.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fdedb5f6bd879432d8f1229874614da0847c6e20b7b0cf9f9c48dbae6117562f/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fdedb5f6bd879432d8f1229874614da0847c6e20b7b0cf9f9c48dbae6117562f/image8.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a64a52a7610628ff5de67202e58ea923776a403677d9187cfa740db8fdabf8e/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1a64a52a7610628ff5de67202e58ea923776a403677d9187cfa740db8fdabf8e/image9.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/75efa302831416ebd74eaed56609c35589ac279b632280342c77b21c7686f07b/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/75efa302831416ebd74eaed56609c35589ac279b632280342c77b21c7686f07b/image10.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed242b823055b25a7eb1cb14f0099828685b2799996cd4028d505477c51b192c/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed242b823055b25a7eb1cb14f0099828685b2799996cd4028d505477c51b192c/image11.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e8f088c1c053893c76dcc1dc732ae06a4f3c09049f9f7a6fe9a1c4f8f858b054/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e8f088c1c053893c76dcc1dc732ae06a4f3c09049f9f7a6fe9a1c4f8f858b054/image12.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/51c8b3e8bec3d2ede2384016abc9e7f86b719d75f8b6f90910008faf0b03b13b/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/51c8b3e8bec3d2ede2384016abc9e7f86b719d75f8b6f90910008faf0b03b13b/image13.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4561d12ecaa5d7c4eea3ca91a374012483ea12afd4c7e31de5561dc50ccc6906/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4561d12ecaa5d7c4eea3ca91a374012483ea12afd4c7e31de5561dc50ccc6906/image14.jpg"
+        },
+        {
+          "alt" : "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/387a3b14692fdcbf3c2397606a148c6fad34edad251b665d972abdc490837426/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/387a3b14692fdcbf3c2397606a148c6fad34edad251b665d972abdc490837426/image15.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "XRHSUB",
+          "name" : "Raine & Horne Commercial - Western Australia",
+          "salespeople" : [
+            {
+              "id" : "51128",
+              "name" : "Terry Menage",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b3809ffa98db78f2754d4c58cf53e93a4d605217065232f62e6ef9ffe5839876/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b3809ffa98db78f2754d4c58cf53e93a4d605217065232f62e6ef9ffe5839876/main.jpg"
+            },
+            {
+              "id" : "127996",
+              "name" : "Matthew Edwards",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/661b9d491e29d0923b57bab8f83b4b986b7bcbfa23b96b076a644c5390d7deb6/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/661b9d491e29d0923b57bab8f83b4b986b7bcbfa23b96b076a644c5390d7deb6/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 111,
+      "agents" : [
+        {
+          "name" : "Terry Menage",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b3809ffa98db78f2754d4c58cf53e93a4d605217065232f62e6ef9ffe5839876/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b3809ffa98db78f2754d4c58cf53e93a4d605217065232f62e6ef9ffe5839876/main.jpg"
+        },
+        {
+          "name" : "Matthew Edwards",
+          "avatar" : "https://i1.au.reastatic.net/71x88/661b9d491e29d0923b57bab8f83b4b986b7bcbfa23b96b076a644c5390d7deb6/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/661b9d491e29d0923b57bab8f83b4b986b7bcbfa23b96b076a644c5390d7deb6/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "392 m²",
+        "propertyTypes" : [
+          "Offices"
+        ],
+        "carSpaces" : 15
+      },
+      "id" : "504419972",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-428-scarborough-beach-road-osborne-park-wa-6017-504419972",
+      "title" : "PRIME OSBORNE PARK POSITION",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "WA",
+        "postcode" : "6017",
+        "agencyIds" : "XRHSUB",
+        "subscription" : "",
+        "suburb" : "Osborne Park",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XRHSUB"
+        }
+      },
+      "address" : {
+        "state" : "WA",
+        "streetAddress" : "428 Scarborough Beach Road",
+        "postcode" : "6017",
+        "suburb" : "Osborne Park",
+        "suburbAddress" : "Osborne Park, WA 6017"
+      },
+      "details" : {
+        "price" : "$90,000p.a. + Outgoings + GST",
+        "streetAddress" : "428 Scarborough Beach Road",
+        "suburbAddress" : "Osborne Park, WA 6017"
+      },
+      "branding" : {
+        "color" : "#ffd200",
+        "logo" : {
+          "alt" : "Raine & Horne Commercial - Western Australia",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/32ea42c92168f771f18a080c37f0ab3dba7070be7c7766062b9fb7ffb70d6f01/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/32ea42c92168f771f18a080c37f0ab3dba7070be7c7766062b9fb7ffb70d6f01/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2cdcb45f6ff9beeb933234e913023acd1e083282ddda8a8248ea14e2dca0c2eb/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2cdcb45f6ff9beeb933234e913023acd1e083282ddda8a8248ea14e2dca0c2eb/image0.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/13d1d1f3e4861cac4b56d037c021db054f64207aab823d04357ddef81a4310b6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/13d1d1f3e4861cac4b56d037c021db054f64207aab823d04357ddef81a4310b6/image1.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/652e14b7f091af4ede734cdc1488d4b9f8b7155364d12a7e85eb026e67e9b473/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/652e14b7f091af4ede734cdc1488d4b9f8b7155364d12a7e85eb026e67e9b473/image2.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/225e578a10ccb366d3adaf31f42e5362b1a3b77b240efc2046ee4c4b1498d206/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/225e578a10ccb366d3adaf31f42e5362b1a3b77b240efc2046ee4c4b1498d206/image3.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5e7fffc27e32fe8359af7f7163545c6c923aa3cb2d6da47926bb1823c756cf3a/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5e7fffc27e32fe8359af7f7163545c6c923aa3cb2d6da47926bb1823c756cf3a/image4.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c69c037b9ccd9653dab263fbc358ecd1547970cba4dc230d14d5b7206e32fe91/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c69c037b9ccd9653dab263fbc358ecd1547970cba4dc230d14d5b7206e32fe91/image5.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4dc589d857fc321156047398e49f30eedbd04cc0c49a743c3ea9bd49c8730e6d/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4dc589d857fc321156047398e49f30eedbd04cc0c49a743c3ea9bd49c8730e6d/image6.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e7b47aa89c031e6f18cc92fc92661572bff48bb759f4056088d9c0d26d64ffdf/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e7b47aa89c031e6f18cc92fc92661572bff48bb759f4056088d9c0d26d64ffdf/image7.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bd711b5164a87ef517adfab168637fe886838140b5d1c9671f7382810815f7d6/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bd711b5164a87ef517adfab168637fe886838140b5d1c9671f7382810815f7d6/image8.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/05d1ce4e8a8906645d8e3f03cae127446a3a0e33321b3fe80fce096af6672666/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/05d1ce4e8a8906645d8e3f03cae127446a3a0e33321b3fe80fce096af6672666/image9.jpg"
+        },
+        {
+          "alt" : "428 Scarborough Beach Road Osborne Park WA 6017 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f14586ad9435a009339e88f8597e64dc88038c0ab6aaba802a334ae8022e0300/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f14586ad9435a009339e88f8597e64dc88038c0ab6aaba802a334ae8022e0300/image10.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Central and Connected to Major Transport",
+        "Modern Industrial Building Design",
+        "Highly Reputable Developer"
+      ],
+      "agencies" : [
+        {
+          "id" : "HUXDZG",
+          "name" : "Leedwell Property (RLA 222531) - ADELAIDE",
+          "salespeople" : [
+            {
+              "id" : "108337",
+              "name" : "Steve Smith",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f4d761a61ef1bb95aa892356a503fd6782e03de3011d12b7635d6ab1525fe9b4/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f4d761a61ef1bb95aa892356a503fd6782e03de3011d12b7635d6ab1525fe9b4/main.jpg"
+            },
+            {
+              "id" : "1189619",
+              "name" : "Henry Treloar",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/58384c995e5e8ec5b4f142ca6dad00607dd18113a59ae2c886490f2c38b32f31/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/58384c995e5e8ec5b4f142ca6dad00607dd18113a59ae2c886490f2c38b32f31/main.jpg"
+            },
+            {
+              "id" : "2988999",
+              "name" : "Andrew Gerlach",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/5f583daa0aeb4d6a9ed390bcb844f0cc273586a50ec9d09883ae8df763f94798/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/5f583daa0aeb4d6a9ed390bcb844f0cc273586a50ec9d09883ae8df763f94798/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 210,
+      "agents" : [
+        {
+          "name" : "Steve Smith",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f4d761a61ef1bb95aa892356a503fd6782e03de3011d12b7635d6ab1525fe9b4/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f4d761a61ef1bb95aa892356a503fd6782e03de3011d12b7635d6ab1525fe9b4/main.jpg"
+        },
+        {
+          "name" : "Henry Treloar",
+          "avatar" : "https://i1.au.reastatic.net/71x88/58384c995e5e8ec5b4f142ca6dad00607dd18113a59ae2c886490f2c38b32f31/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/58384c995e5e8ec5b4f142ca6dad00607dd18113a59ae2c886490f2c38b32f31/main.jpg"
+        },
+        {
+          "name" : "Andrew Gerlach",
+          "avatar" : "https://i1.au.reastatic.net/71x88/5f583daa0aeb4d6a9ed390bcb844f0cc273586a50ec9d09883ae8df763f94798/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/5f583daa0aeb4d6a9ed390bcb844f0cc273586a50ec9d09883ae8df763f94798/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "3000 - 25000 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504343976",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-cavan-connect-logistics-park-23-45-stock-road-cavan-sa-5094-504343976",
+      "title" : "Development In Prime Location",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5094",
+        "agencyIds" : "HUXDZG",
+        "subscription" : "",
+        "suburb" : "Cavan",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "HUXDZG"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "Cavan Connect Logistics Park, 23-45 Stock Road",
+        "postcode" : "5094",
+        "suburb" : "Cavan",
+        "suburbAddress" : "Cavan, SA 5094"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Cavan Connect Logistics Park, 23-45 Stock Road",
+        "suburbAddress" : "Cavan, SA 5094"
+      },
+      "branding" : {
+        "color" : "#ced2d6",
+        "logo" : {
+          "alt" : "Leedwell Property (RLA 222531) - ADELAIDE",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/69c1ca45b2742577f654b4becf5c5ee512e1ddcababd4151bcfbc2144404d252/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/69c1ca45b2742577f654b4becf5c5ee512e1ddcababd4151bcfbc2144404d252/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Cavan Connect Logistics Park, 23-45 Stock Road Cavan SA 5094 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f4e426951526adc85cd1ffb21dcbc4eb0817acb628f575669662d2ec21e58fef/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f4e426951526adc85cd1ffb21dcbc4eb0817acb628f575669662d2ec21e58fef/image0.jpg"
+        },
+        {
+          "alt" : "Cavan Connect Logistics Park, 23-45 Stock Road Cavan SA 5094 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f844a39524dbadace341d5278d274dff732784df3d82d6165b51304d5aec3a43/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f844a39524dbadace341d5278d274dff732784df3d82d6165b51304d5aec3a43/image1.jpg"
+        },
+        {
+          "alt" : "Cavan Connect Logistics Park, 23-45 Stock Road Cavan SA 5094 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c83cb68802c8f9743df1bd2520785780f25c31c8761fd078b4ab14e64ae36a91/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c83cb68802c8f9743df1bd2520785780f25c31c8761fd078b4ab14e64ae36a91/image2.jpg"
+        },
+        {
+          "alt" : "Cavan Connect Logistics Park, 23-45 Stock Road Cavan SA 5094 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/02546e7949c7c578d2a910cb64f1252af4be5f097190f0c5bab4d292e426d54f/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/02546e7949c7c578d2a910cb64f1252af4be5f097190f0c5bab4d292e426d54f/image3.jpg"
+        },
+        {
+          "alt" : "Cavan Connect Logistics Park, 23-45 Stock Road Cavan SA 5094 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ea919e6937bb79ce72f4b77f58138ffd96847ec25847cc745cb2e705a9dcc0be/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ea919e6937bb79ce72f4b77f58138ffd96847ec25847cc745cb2e705a9dcc0be/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Views out to Black Mountain",
+        "Fantastic Public Transport links",
+        "4.5-star NABERS Energy rating"
+      ],
+      "agencies" : [
+        {
+          "id" : "UEZCCJ",
+          "name" : "Colliers - Canberra",
+          "salespeople" : [
+            {
+              "id" : "1988354",
+              "name" : "Caleb Brinton",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7d6d3e7e697644404566c41f02b0e885b653f182b8a0b556a084163b68e1e8d2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7d6d3e7e697644404566c41f02b0e885b653f182b8a0b556a084163b68e1e8d2/main.jpg"
+            },
+            {
+              "id" : "1306845",
+              "name" : "Aaron Bruce",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/cccb8e814f1deacd6c1561f5224f1132f2f2e4d575b00f9ae25d4361fde92000/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/cccb8e814f1deacd6c1561f5224f1132f2f2e4d575b00f9ae25d4361fde92000/main.jpg"
+            },
+            {
+              "id" : "3299940",
+              "name" : "Bella Kanellopoulos",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/544f589ad7e66feb90c5a8cf6a122455140dd13875ddf525b530b4edfa309f14/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/544f589ad7e66feb90c5a8cf6a122455140dd13875ddf525b530b4edfa309f14/main.jpg"
+            },
+            {
+              "id" : "3010663",
+              "name" : "Nick Fuller",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f12dc809ab51faad0934a055f81f8b9a2be178ff8413c07cee7ae044a43e1c29/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f12dc809ab51faad0934a055f81f8b9a2be178ff8413c07cee7ae044a43e1c29/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 1316,
+      "agents" : [
+        {
+          "name" : "Caleb Brinton",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7d6d3e7e697644404566c41f02b0e885b653f182b8a0b556a084163b68e1e8d2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7d6d3e7e697644404566c41f02b0e885b653f182b8a0b556a084163b68e1e8d2/main.jpg"
+        },
+        {
+          "name" : "Aaron Bruce",
+          "avatar" : "https://i1.au.reastatic.net/71x88/cccb8e814f1deacd6c1561f5224f1132f2f2e4d575b00f9ae25d4361fde92000/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/cccb8e814f1deacd6c1561f5224f1132f2f2e4d575b00f9ae25d4361fde92000/main.jpg"
+        },
+        {
+          "name" : "Bella Kanellopoulos",
+          "avatar" : "https://i1.au.reastatic.net/71x88/544f589ad7e66feb90c5a8cf6a122455140dd13875ddf525b530b4edfa309f14/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/544f589ad7e66feb90c5a8cf6a122455140dd13875ddf525b530b4edfa309f14/main.jpg"
+        },
+        {
+          "name" : "Nick Fuller",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f12dc809ab51faad0934a055f81f8b9a2be178ff8413c07cee7ae044a43e1c29/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f12dc809ab51faad0934a055f81f8b9a2be178ff8413c07cee7ae044a43e1c29/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "234 - 1172 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "503559606",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-childers-square-14-childers-street-city-act-2601-503559606",
+      "title" : "A refreshed, modern workplace to help your business thrive.",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "ACT",
+        "postcode" : "2601",
+        "agencyIds" : "UEZCCJ",
+        "subscription" : "",
+        "suburb" : "City",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UEZCCJ"
+        }
+      },
+      "address" : {
+        "state" : "ACT",
+        "streetAddress" : "Childers Square 14 Childers Street",
+        "postcode" : "2601",
+        "suburb" : "City",
+        "suburbAddress" : "City, ACT 2601"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "Childers Square 14 Childers Street",
+        "suburbAddress" : "City, ACT 2601"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Canberra",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/de83c39285cf73489ffc8dbdfda73256ed0f0a30bd069daa5ecdbbc2c2b2b36f/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/de83c39285cf73489ffc8dbdfda73256ed0f0a30bd069daa5ecdbbc2c2b2b36f/image0.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/231f856d509548521e86b13f08dfeccda16014de4d490c8c17cdd8491f1e24dd/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/231f856d509548521e86b13f08dfeccda16014de4d490c8c17cdd8491f1e24dd/image1.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a63ebfa014b4285b99ce0aab57370c9d74857cb991f3b48f3ac2b115f4bcd0bd/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a63ebfa014b4285b99ce0aab57370c9d74857cb991f3b48f3ac2b115f4bcd0bd/image2.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f1f8a6eeda3b798a870fe29379acb36105e9a87dbd4b0d65fdd883a75f422012/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f1f8a6eeda3b798a870fe29379acb36105e9a87dbd4b0d65fdd883a75f422012/image3.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3e2ffe06d675e15f49a9d8bb7b5e9a5c8facfa15d1f2523af31aaaf56da0e634/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3e2ffe06d675e15f49a9d8bb7b5e9a5c8facfa15d1f2523af31aaaf56da0e634/image4.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b63e83330f1c41b9283dc7e0af77f2b4bd6df8f84068b431988fd317c87050dd/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b63e83330f1c41b9283dc7e0af77f2b4bd6df8f84068b431988fd317c87050dd/image5.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e11a1fb7c9337529f0ae07416b544cf0d06f3430cb511413980fcb859da09b21/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e11a1fb7c9337529f0ae07416b544cf0d06f3430cb511413980fcb859da09b21/image6.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/558e5275af50f3a474895ec265e1fd36105e9763cde90f92d05ce397ee34400e/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/558e5275af50f3a474895ec265e1fd36105e9763cde90f92d05ce397ee34400e/image7.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3554ff658871eed34097a3460005d23ef68aad3c17df1fd32e349b31449d3a26/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3554ff658871eed34097a3460005d23ef68aad3c17df1fd32e349b31449d3a26/image8.jpg"
+        },
+        {
+          "alt" : "Childers Square 14 Childers Street City ACT 2601 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/65dea60e6a21778786116e5952b40cceac63334e1c995af32f3cdc2c2516224d/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/65dea60e6a21778786116e5952b40cceac63334e1c995af32f3cdc2c2516224d/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Extensive & Secure Hardstand",
+        "Available Q1 2024",
+        "High Clearance, Regular Shaped Warehouse"
+      ],
+      "agencies" : [
+        {
+          "id" : "GDYSUI",
+          "name" : "CBRE - Western Sydney",
+          "salespeople" : [
+            {
+              "id" : "1165767",
+              "name" : "Raj Chaudhary",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/957fc0ebe1dae79e14f5103afeb3eb227f55ee01a146920b171e1d21472dd3a8/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/957fc0ebe1dae79e14f5103afeb3eb227f55ee01a146920b171e1d21472dd3a8/main.jpg"
+            },
+            {
+              "id" : "3235472",
+              "name" : "Tim Forsyth",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4fd469afe463094ce93f1d44d0bd4ae121e106c7ca3fbac0216e106f1f496e4a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4fd469afe463094ce93f1d44d0bd4ae121e106c7ca3fbac0216e106f1f496e4a/main.jpg"
+            },
+            {
+              "id" : "80816",
+              "name" : "Shaun Timbrell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/c05680b2a607261a83424ffc9b1af4c0aee51b78e279ee6de0aef78c704165e8/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/c05680b2a607261a83424ffc9b1af4c0aee51b78e279ee6de0aef78c704165e8/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 13,
+      "agents" : [
+        {
+          "name" : "Raj Chaudhary",
+          "avatar" : "https://i1.au.reastatic.net/71x88/957fc0ebe1dae79e14f5103afeb3eb227f55ee01a146920b171e1d21472dd3a8/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/957fc0ebe1dae79e14f5103afeb3eb227f55ee01a146920b171e1d21472dd3a8/main.jpg"
+        },
+        {
+          "name" : "Tim Forsyth",
+          "avatar" : "https://i1.au.reastatic.net/71x88/4fd469afe463094ce93f1d44d0bd4ae121e106c7ca3fbac0216e106f1f496e4a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/4fd469afe463094ce93f1d44d0bd4ae121e106c7ca3fbac0216e106f1f496e4a/main.jpg"
+        },
+        {
+          "name" : "Shaun Timbrell",
+          "avatar" : "https://i1.au.reastatic.net/71x88/c05680b2a607261a83424ffc9b1af4c0aee51b78e279ee6de0aef78c704165e8/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/c05680b2a607261a83424ffc9b1af4c0aee51b78e279ee6de0aef78c704165e8/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "4000 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504489824",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-321-chisholm-road-auburn-nsw-2144-504489824",
+      "title" : "3,400-4,000SQM* HIGH CLEARANCE DISTRIBUTION CENTRE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2144",
+        "agencyIds" : "GDYSUI",
+        "subscription" : "",
+        "suburb" : "Auburn",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "GDYSUI"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "321 Chisholm Road",
+        "postcode" : "2144",
+        "suburb" : "Auburn",
+        "suburbAddress" : "Auburn, NSW 2144"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "321 Chisholm Road",
+        "suburbAddress" : "Auburn, NSW 2144"
+      },
+      "branding" : {
+        "color" : "#012a2d",
+        "logo" : {
+          "alt" : "CBRE - Western Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6b8a25ede049de97db150b2c59827d79845b0b5d6ac20edd483e3d0acf4e1174/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6b8a25ede049de97db150b2c59827d79845b0b5d6ac20edd483e3d0acf4e1174/image0.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/36843d3c056b2f58817a6440e26dfa8240d754dbed303563428fc6f6eae44d10/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/36843d3c056b2f58817a6440e26dfa8240d754dbed303563428fc6f6eae44d10/image1.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/433b1ccaf4c782fe275ed35d657a4325dc96252d2c74dc4c66ffcc02496cd99d/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/433b1ccaf4c782fe275ed35d657a4325dc96252d2c74dc4c66ffcc02496cd99d/image2.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d3f0d4e703b9b2d1762253867703b0e64d568d9344cff3288757514cb0cb96ed/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d3f0d4e703b9b2d1762253867703b0e64d568d9344cff3288757514cb0cb96ed/image3.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/716bebfbe0ca34688edf086d6d45150d493e7d686e683be13d85c63624e8b6c6/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/716bebfbe0ca34688edf086d6d45150d493e7d686e683be13d85c63624e8b6c6/image4.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5e1af74d9a8b14bbde02f575b8b731a8906d79317c9c21c0f9ee7cf28e2d03ce/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5e1af74d9a8b14bbde02f575b8b731a8906d79317c9c21c0f9ee7cf28e2d03ce/image5.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/870b74fee5e418e322f53068cdeceeb8a8b6370622462096dc4d70b5deeca375/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/870b74fee5e418e322f53068cdeceeb8a8b6370622462096dc4d70b5deeca375/image6.jpg"
+        },
+        {
+          "alt" : "321 Chisholm Road Auburn NSW 2144 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56b59543d784d202a924fae31b9db42646e7092aceef00dbb51fb0d39e455ba2/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56b59543d784d202a924fae31b9db42646e7092aceef00dbb51fb0d39e455ba2/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Yass Road exposure is rarely available",
+        "Large rear yard with rear lane access",
+        "Available now"
+      ],
+      "agencies" : [
+        {
+          "id" : "XWXWZL",
+          "name" : "Sentia Real Estate - GRIFFITH",
+          "salespeople" : [
+            {
+              "id" : "3333252",
+              "name" : "Calvin Rogers"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 76,
+      "agents" : [],
+      "attributes" : {
+        "area" : "637 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504445248",
+      "hasTour" : true,
+      "pdpUrl" : "/for-lease/property-28-yass-road-queanbeyan-east-nsw-2620-504445248",
+      "title" : "Yass Road Exposure!!!",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2620",
+        "agencyIds" : "XWXWZL",
+        "subscription" : "",
+        "suburb" : "Queanbeyan East",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XWXWZL"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "28 Yass Road",
+        "postcode" : "2620",
+        "suburb" : "Queanbeyan East",
+        "suburbAddress" : "Queanbeyan East, NSW 2620"
+      },
+      "details" : {
+        "price" : "$8,000 + GST per month",
+        "streetAddress" : "28 Yass Road",
+        "suburbAddress" : "Queanbeyan East, NSW 2620"
+      },
+      "branding" : {
+        "color" : "#ee2e24",
+        "logo" : {
+          "alt" : "Sentia Real Estate - GRIFFITH",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/0a92de686d9fe3c5eeef16f1bf253ad1db8021d6cf25cd7d2f9823827d3ed274/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0a92de686d9fe3c5eeef16f1bf253ad1db8021d6cf25cd7d2f9823827d3ed274/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56224ca766875355db7c654eb5bbb89ae9e4aad809ea0832841f372482b73edf/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56224ca766875355db7c654eb5bbb89ae9e4aad809ea0832841f372482b73edf/image0.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5130f47a39113ddd4709a11483c6601888dbf535ed976aca3ba21988a480e8dc/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5130f47a39113ddd4709a11483c6601888dbf535ed976aca3ba21988a480e8dc/image1.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0510ac330158ff24f1130d1f2c1dd34a92c01dd37203d30ff85ed06311e1bcb3/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0510ac330158ff24f1130d1f2c1dd34a92c01dd37203d30ff85ed06311e1bcb3/image2.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5ce33db7abc479622ead7ce27a829c96cc46844dffcf03b41fb0f1596e05eaa9/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5ce33db7abc479622ead7ce27a829c96cc46844dffcf03b41fb0f1596e05eaa9/image3.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f77a149faccd842e5c89ba208eb6a806b742831e1f54f5fe422f5bddec6cbd43/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f77a149faccd842e5c89ba208eb6a806b742831e1f54f5fe422f5bddec6cbd43/image4.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4a00093a48e97133fdb84e8ba5f9be2701093a4651c54f40169ff8fbb6707e76/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4a00093a48e97133fdb84e8ba5f9be2701093a4651c54f40169ff8fbb6707e76/image5.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/892a7d625c4d51a1bb0aa00944fe455bf219043d5c3742a2dc214733d7954a8a/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/892a7d625c4d51a1bb0aa00944fe455bf219043d5c3742a2dc214733d7954a8a/image6.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/268d0bc5b594f55b661d196a2afe05c9766052123816d5613ec89724dca6f8a7/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/268d0bc5b594f55b661d196a2afe05c9766052123816d5613ec89724dca6f8a7/image7.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e0a1cbb7936c5a302d06ca642e52d8abcbc2f0e7d9d4c2ff95944775ab7678e0/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e0a1cbb7936c5a302d06ca642e52d8abcbc2f0e7d9d4c2ff95944775ab7678e0/image8.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ad2c9f7d9ea65d6f5db7decaf88af43839b2690183dd4d5733cbf327a3d93584/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ad2c9f7d9ea65d6f5db7decaf88af43839b2690183dd4d5733cbf327a3d93584/image9.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bf8112934a4e613e06ab8a365b0a622203ab5399148e12401b532516dbd04479/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bf8112934a4e613e06ab8a365b0a622203ab5399148e12401b532516dbd04479/image10.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6a0db62206b545373c8e7f6d204609c93887cbf91af4b17b6870d5c04ad6df5c/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6a0db62206b545373c8e7f6d204609c93887cbf91af4b17b6870d5c04ad6df5c/image11.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3f174595ed4603e2e906b8936bf6e5b878efe932e92c644e4d34a46939583f4c/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3f174595ed4603e2e906b8936bf6e5b878efe932e92c644e4d34a46939583f4c/image12.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/982bbb6a79683bd3bf0ea3ab19d5b62be89efcee54c68aa9003e3aa2723bfa8c/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/982bbb6a79683bd3bf0ea3ab19d5b62be89efcee54c68aa9003e3aa2723bfa8c/image13.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b823b317fa633322a57763122d4a474e5f3e7686dc59274e9a88046cb087f7ff/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b823b317fa633322a57763122d4a474e5f3e7686dc59274e9a88046cb087f7ff/image14.jpg"
+        },
+        {
+          "alt" : "28 Yass Road Queanbeyan East NSW 2620 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aad9ac88c18211619414d6860b685a9e5348874785a2d3a73a23a7965d7457d6/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aad9ac88c18211619414d6860b685a9e5348874785a2d3a73a23a7965d7457d6/image15.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Flexible sizes available",
+        "Refurbished foyers",
+        "Brand new end of trip facilities "
+      ],
+      "agencies" : [
+        {
+          "id" : "JQOHHI",
+          "name" : "Colliers - Sydney North",
+          "salespeople" : [
+            {
+              "id" : "161676",
+              "name" : "Michael Arcus",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a23b7c231a1504615388db44cf88d8d75f2794460088f3fabfd68d681b24f3ab/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a23b7c231a1504615388db44cf88d8d75f2794460088f3fabfd68d681b24f3ab/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "HCHYKK",
+          "name" : "CBRE - Sydney North",
+          "salespeople" : [
+            {
+              "id" : "1534686",
+              "name" : "Rachel Vincent",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 1171,
+      "agents" : [
+        {
+          "name" : "Michael Arcus",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a23b7c231a1504615388db44cf88d8d75f2794460088f3fabfd68d681b24f3ab/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a23b7c231a1504615388db44cf88d8d75f2794460088f3fabfd68d681b24f3ab/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "138 - 5500 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "503679374",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-475-victoria-avenue-chatswood-nsw-2067-503679374",
+      "title" : "Brand new suites and amenities",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "alt" : "CBRE - Sydney North",
+          "logoSize" : "84x63",
+          "brandingColor" : "#003f2d"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "CBRE - Sydney North"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2067",
+        "agencyIds" : "JQOHHI,HCHYKK",
+        "subscription" : "",
+        "suburb" : "Chatswood",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "JQOHHI,HCHYKK"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "475 Victoria Avenue",
+        "postcode" : "2067",
+        "suburb" : "Chatswood",
+        "suburbAddress" : "Chatswood, NSW 2067"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "475 Victoria Avenue",
+        "suburbAddress" : "Chatswood, NSW 2067"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Sydney North",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/70c4fcc088de41b286239dec5cf30f1d93200d2f8bf32d9b7b0f69f9a43789d6/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/70c4fcc088de41b286239dec5cf30f1d93200d2f8bf32d9b7b0f69f9a43789d6/image0.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8b1de8330b7bc11680e8bf51f6df2e12e8d49c60d1b5e9b95246f67bce54ac89/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8b1de8330b7bc11680e8bf51f6df2e12e8d49c60d1b5e9b95246f67bce54ac89/image1.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/deeda730f304154ea2c58d6233e745c021d0619e60265b314c6744a3f123e5eb/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/deeda730f304154ea2c58d6233e745c021d0619e60265b314c6744a3f123e5eb/image2.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4c0fffbb7b3b199c5c3b41a94893ed98a4a5e59ba7f66f5cfedcfd9dd2003857/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4c0fffbb7b3b199c5c3b41a94893ed98a4a5e59ba7f66f5cfedcfd9dd2003857/image3.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2c4dc4321ad05a51607959add4cd1d7d9d84babefd79af184c3a798c37e2ba77/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2c4dc4321ad05a51607959add4cd1d7d9d84babefd79af184c3a798c37e2ba77/image4.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1881ec7ba7b933604cb290bf1ab1cddffd0bf9f3f29c8b1c42450c43806c1dc5/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1881ec7ba7b933604cb290bf1ab1cddffd0bf9f3f29c8b1c42450c43806c1dc5/image5.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f6751405c110b7684323e936193624dd0b11ed930ea11521b9e19870cc859ae5/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f6751405c110b7684323e936193624dd0b11ed930ea11521b9e19870cc859ae5/image6.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a402e0e30343503ba3d135affb2dd93f90f9a1fcf793386181dcdec6d91592df/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a402e0e30343503ba3d135affb2dd93f90f9a1fcf793386181dcdec6d91592df/image7.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5a45fbc2f6b185aba74fadba47645557f3b03c4ea604bb19e528444e54f1ee95/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5a45fbc2f6b185aba74fadba47645557f3b03c4ea604bb19e528444e54f1ee95/image8.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d33bcc99328867e9422caded6519d4017c15609a2c88a20ea5bc953b7d6db258/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d33bcc99328867e9422caded6519d4017c15609a2c88a20ea5bc953b7d6db258/image9.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/99711f6ffcf0106b32b3532f93bf17297bd659ab162ab26a97a1cb2a4e28bd9b/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/99711f6ffcf0106b32b3532f93bf17297bd659ab162ab26a97a1cb2a4e28bd9b/image10.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c74c393a883f8f3cd065519176a8007bcfd944b7a80ec2e01b9f0f2e1717f0f7/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c74c393a883f8f3cd065519176a8007bcfd944b7a80ec2e01b9f0f2e1717f0f7/image11.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/eff065b357c918b8ca73bbe839387b3f5d2a9b44dc6bc5029c7d3f48acb735a6/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eff065b357c918b8ca73bbe839387b3f5d2a9b44dc6bc5029c7d3f48acb735a6/image12.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bdfd6e0e139c486bb023aa548010d8c67c7dfe4f52e5f61fa58dd3a097b7fc9c/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bdfd6e0e139c486bb023aa548010d8c67c7dfe4f52e5f61fa58dd3a097b7fc9c/image13.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/74db4d27bff749d0cafb47ccedd559c2eeabd39e50c167953c440be21bfa73e3/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/74db4d27bff749d0cafb47ccedd559c2eeabd39e50c167953c440be21bfa73e3/image14.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/86b860407e5a1671c86e96f0e0f8a030a3ea36e10377fe78da01d10d145c544b/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/86b860407e5a1671c86e96f0e0f8a030a3ea36e10377fe78da01d10d145c544b/image15.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d56b4d83f9d5ca77e85076958e573ace95da8ebdcb60888d9295c0f16601a3fc/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d56b4d83f9d5ca77e85076958e573ace95da8ebdcb60888d9295c0f16601a3fc/image16.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2bd02b68e889047690e43d78281322935726711a16bf6601cb52a7e5199892d6/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2bd02b68e889047690e43d78281322935726711a16bf6601cb52a7e5199892d6/image17.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bd01d9fbabc3e1c3b299b8a54091828463c33032da4a64b0b8af4666fc61ef81/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bd01d9fbabc3e1c3b299b8a54091828463c33032da4a64b0b8af4666fc61ef81/image18.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a4c500b87d7a0b72df6f02f85fb4303ec79424a7aea67b6916515ff14f41bae0/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a4c500b87d7a0b72df6f02f85fb4303ec79424a7aea67b6916515ff14f41bae0/image19.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/91ef1d1f914181d7e5152dc8cb8e3e8dded282dfef49f64c4328f28b0f73b179/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/91ef1d1f914181d7e5152dc8cb8e3e8dded282dfef49f64c4328f28b0f73b179/image20.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 22",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c32141512c1c58b91efd554789713873a28f9f081f9fe7d141cc327fc89134a5/image21.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c32141512c1c58b91efd554789713873a28f9f081f9fe7d141cc327fc89134a5/image21.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 23",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/149ecdda2c1e90ac8bc398c87bd37b15374c5a097c901151ff911c1139a65179/image22.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/149ecdda2c1e90ac8bc398c87bd37b15374c5a097c901151ff911c1139a65179/image22.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 24",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5d5399e2af838890691e21bae1a42bdcd12b052212521895b2cef6c68401024d/image23.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5d5399e2af838890691e21bae1a42bdcd12b052212521895b2cef6c68401024d/image23.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 25",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b61bb3dd675eadcad5e7f3ecd5b37c7a38fd1480be41cc5c2b6c177f43ddb086/image24.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b61bb3dd675eadcad5e7f3ecd5b37c7a38fd1480be41cc5c2b6c177f43ddb086/image24.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 26",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f4d426c5eb77f3f5950f353f2799c32b83679278493b2d3ea5496d62fce54e99/image25.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f4d426c5eb77f3f5950f353f2799c32b83679278493b2d3ea5496d62fce54e99/image25.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 27",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9ff1631eab6cb52768b1337a0a3aef172ce1209ff68e765c328a652f18c596e1/image26.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9ff1631eab6cb52768b1337a0a3aef172ce1209ff68e765c328a652f18c596e1/image26.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 28",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/877b4bae09f07b6a723b8caa6b3ad47ec691d88b3369503b793a99054815f019/image27.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/877b4bae09f07b6a723b8caa6b3ad47ec691d88b3369503b793a99054815f019/image27.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 29",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1c95655055f30f8b80079cae51948fd397585cd86c398ba7fb51059e74a395fb/image28.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1c95655055f30f8b80079cae51948fd397585cd86c398ba7fb51059e74a395fb/image28.jpg"
+        },
+        {
+          "alt" : "475 Victoria Avenue Chatswood NSW 2067 - Image 30",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f4ac6e30a0c800b44ea374b385f61f02c11b0d79754a66a2531d773c33a3dd08/image29.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f4ac6e30a0c800b44ea374b385f61f02c11b0d79754a66a2531d773c33a3dd08/image29.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "NKUBNU",
+          "name" : "DiJones Commercial",
+          "salespeople" : [
+            {
+              "id" : "2858658",
+              "name" : "Rick O'Toole",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/747a4b3acc8d078726eb37dd25af8f07d9ad4a976518f174a674ca9fa7d52ec7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/747a4b3acc8d078726eb37dd25af8f07d9ad4a976518f174a674ca9fa7d52ec7/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 27,
+      "agents" : [
+        {
+          "name" : "Rick O'Toole",
+          "avatar" : "https://i1.au.reastatic.net/71x88/747a4b3acc8d078726eb37dd25af8f07d9ad4a976518f174a674ca9fa7d52ec7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/747a4b3acc8d078726eb37dd25af8f07d9ad4a976518f174a674ca9fa7d52ec7/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "495 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504481224",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-20-kirrawee-road-gosford-nsw-2250-504481224",
+      "title" : "Freestanding Industrial Shed ",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2250",
+        "agencyIds" : "NKUBNU",
+        "subscription" : "",
+        "suburb" : "Gosford",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "NKUBNU"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "20 Kirrawee Road",
+        "postcode" : "2250",
+        "suburb" : "Gosford",
+        "suburbAddress" : "Gosford, NSW 2250"
+      },
+      "details" : {
+        "price" : "$72,000 pa + GST + outgoings",
+        "streetAddress" : "20 Kirrawee Road",
+        "suburbAddress" : "Gosford, NSW 2250"
+      },
+      "branding" : {
+        "color" : "#008dd2",
+        "logo" : {
+          "alt" : "DiJones Commercial",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/bc700e375704b0d4820650924f915de90a3c866238862fbe1b4c1ae684762e5f/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc700e375704b0d4820650924f915de90a3c866238862fbe1b4c1ae684762e5f/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6d9e11d6c6bfe23702f182ffe91bfb4e7dfb859c63e47eb3e69a1c25f9cc9f2a/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6d9e11d6c6bfe23702f182ffe91bfb4e7dfb859c63e47eb3e69a1c25f9cc9f2a/image0.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cb5393e338905c864b34658a2c73a1e5a4142f6b4c2099048ca239d95d1d5b91/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cb5393e338905c864b34658a2c73a1e5a4142f6b4c2099048ca239d95d1d5b91/image1.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0622a109d646edc4c7e84f959a7cd824b9881165a38dc93397b0aeea9087edb6/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0622a109d646edc4c7e84f959a7cd824b9881165a38dc93397b0aeea9087edb6/image2.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5dbf16e4aa4585e22703abd0679a32fbb2a3d913d9df7eeecd3bb979716a0f48/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5dbf16e4aa4585e22703abd0679a32fbb2a3d913d9df7eeecd3bb979716a0f48/image3.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ae06ec5e05ed1b1a5dc7abd5804d671ec752952b4bcf4d51d57b041bc54e3852/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ae06ec5e05ed1b1a5dc7abd5804d671ec752952b4bcf4d51d57b041bc54e3852/image4.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a0146fc58a18f8bc2e6bd735003e7f24e88fcfc47537a3355833f0d41580ad26/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a0146fc58a18f8bc2e6bd735003e7f24e88fcfc47537a3355833f0d41580ad26/image5.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aaa55f655a3b4c7a97a41bc1631dee6a4fe10ea0b2f76efa7f6df33205149560/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aaa55f655a3b4c7a97a41bc1631dee6a4fe10ea0b2f76efa7f6df33205149560/image6.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2343d336ff2c629ff4611c10ec60cebe48458f88852dbcbfcb98f5ab3f8e08b4/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2343d336ff2c629ff4611c10ec60cebe48458f88852dbcbfcb98f5ab3f8e08b4/image7.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b339a2bfc64591f88158b27ed4c4b559fb285e283902a19f5796e3dad8290f5b/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b339a2bfc64591f88158b27ed4c4b559fb285e283902a19f5796e3dad8290f5b/image8.jpg"
+        },
+        {
+          "alt" : "20 Kirrawee Road Gosford NSW 2250 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9867fefac5ac38a328f8acc72ec1ac72ed7aed971e47851138540ddcdb199dac/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9867fefac5ac38a328f8acc72ec1ac72ed7aed971e47851138540ddcdb199dac/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Building area: 1,682m²*",
+        "Rear yard",
+        "3-Phase Power"
+      ],
+      "agencies" : [
+        {
+          "id" : "ACBGWR",
+          "name" : "Colliers - Melbourne East",
+          "salespeople" : [
+            {
+              "id" : "1293827",
+              "name" : "Jonathan Mercuri",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg"
+            },
+            {
+              "id" : "1572322",
+              "name" : "Richard Wilkinson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Jonathan Mercuri",
+          "avatar" : "https://i1.au.reastatic.net/71x88/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg"
+        },
+        {
+          "name" : "Richard Wilkinson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1682 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504476732",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-51-barry-street-bayswater-vic-3153-504476732",
+      "title" : "Bayswater’s Only Prime Grade Opportunity",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3153",
+        "agencyIds" : "ACBGWR",
+        "subscription" : "",
+        "suburb" : "Bayswater",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ACBGWR"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "51 Barry Street",
+        "postcode" : "3153",
+        "suburb" : "Bayswater",
+        "suburbAddress" : "Bayswater, VIC 3153"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "51 Barry Street",
+        "suburbAddress" : "Bayswater, VIC 3153"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Melbourne East",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "51 Barry Street Bayswater VIC 3153 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d42f8aa0704fad743b1ef66f521d90363e84b38242809652fa4eff41e2be886c/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d42f8aa0704fad743b1ef66f521d90363e84b38242809652fa4eff41e2be886c/image0.jpg"
+        },
+        {
+          "alt" : "51 Barry Street Bayswater VIC 3153 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/43f0427300ad799cd0aaddbf1072c7302dda032faa28d31c0bb226cf6acf465e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/43f0427300ad799cd0aaddbf1072c7302dda032faa28d31c0bb226cf6acf465e/image1.jpg"
+        },
+        {
+          "alt" : "51 Barry Street Bayswater VIC 3153 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3dcb8811e5891d6b0f83fd0c5a628a9b86fd3d826a27f2afec4eb89fa5df8526/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3dcb8811e5891d6b0f83fd0c5a628a9b86fd3d826a27f2afec4eb89fa5df8526/image2.jpg"
+        },
+        {
+          "alt" : "51 Barry Street Bayswater VIC 3153 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/151b721289e89640f639b4d12201f348f45ab45466a370119e5d490d14ef4e74/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/151b721289e89640f639b4d12201f348f45ab45466a370119e5d490d14ef4e74/image3.jpg"
+        },
+        {
+          "alt" : "51 Barry Street Bayswater VIC 3153 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ffe0640abccaf5aee7d7a28718bcc5bbe912940804fa71411192da4870024b96/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ffe0640abccaf5aee7d7a28718bcc5bbe912940804fa71411192da4870024b96/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "High clearance warehouse reaching 8.1m2",
+        "Excellent truck access",
+        "Walk to Newington shops"
+      ],
+      "agencies" : [
+        {
+          "id" : "URDMRG",
+          "name" : "JLL - Parramatta",
+          "salespeople" : [
+            {
+              "id" : "1209443",
+              "name" : "David Lidgard",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+            },
+            {
+              "id" : "1219687",
+              "name" : "Marco Chiodo",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+            },
+            {
+              "id" : "2863966",
+              "name" : "Sara Incerti",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "David Lidgard",
+          "avatar" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+        },
+        {
+          "name" : "Marco Chiodo",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+        },
+        {
+          "name" : "Sara Incerti",
+          "avatar" : "https://i1.au.reastatic.net/71x88/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "794 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504472316",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-unit-12-4-avenue-of-the-americas-4-avenue-of-the-americas-newington-nsw-2127-504472316",
+      "title" : "Street Facing / Prime Industrial Offering / Sublease Opportunity",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2127",
+        "agencyIds" : "URDMRG",
+        "subscription" : "",
+        "suburb" : "Newington",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "URDMRG"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas",
+        "postcode" : "2127",
+        "suburb" : "Newington",
+        "suburbAddress" : "Newington, NSW 2127"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas",
+        "suburbAddress" : "Newington, NSW 2127"
+      },
+      "branding" : {
+        "color" : "#161313",
+        "logo" : {
+          "alt" : "JLL - Parramatta",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8accf6d7d11ea681e24fb5a57721b93a4c4daaefc2bcae61137b63d77e06a427/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8accf6d7d11ea681e24fb5a57721b93a4c4daaefc2bcae61137b63d77e06a427/image0.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ee3ce96643aef46c7c346975269402bcf1ee8bca7e0ed78055885ffd8eec45e2/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ee3ce96643aef46c7c346975269402bcf1ee8bca7e0ed78055885ffd8eec45e2/image1.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/65b0c50e780e023646626ee35c719fdf2f63c6c53808554acc1db121cebae447/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/65b0c50e780e023646626ee35c719fdf2f63c6c53808554acc1db121cebae447/image2.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9fc0326ec58c6b65006f4c67d0e5e7d699b992d6b001240460caa45c5ede95d4/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9fc0326ec58c6b65006f4c67d0e5e7d699b992d6b001240460caa45c5ede95d4/image3.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/369b3d1981b1236c4ffde2e1ad6b82f152e09a0332aa9c6308a26195e422eeb7/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/369b3d1981b1236c4ffde2e1ad6b82f152e09a0332aa9c6308a26195e422eeb7/image4.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f825b737076bfbbb5ffcbdc3982a5c6524745dd01215e741b07172c31aacb21f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f825b737076bfbbb5ffcbdc3982a5c6524745dd01215e741b07172c31aacb21f/image5.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3f7f748b9e5981139856b329d4777956220213417845e2c4d0918de4348bb0bb/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3f7f748b9e5981139856b329d4777956220213417845e2c4d0918de4348bb0bb/image6.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "VIC",
+    "floorArea" : "575 m²",
+    "landArea" : "478 m²",
+    "suburb" : "southmelbourne",
+    "proptype" : "industrial_warehouse",
+    "region" : "melbourne_city___greater_region",
+    "postcode" : "3205",
+    "price" : "Contact Agent"
+  }
+}
