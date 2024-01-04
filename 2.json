@@ -1,0 +1,1419 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "High clearance warehouse reaching 8.1m2",
+        "Excellent truck access",
+        "Walk to Newington shops"
+      ],
+      "agencies" : [
+        {
+          "id" : "URDMRG",
+          "name" : "JLL - Parramatta",
+          "salespeople" : [
+            {
+              "id" : "1209443",
+              "name" : "David Lidgard",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+            },
+            {
+              "id" : "1219687",
+              "name" : "Marco Chiodo",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+            },
+            {
+              "id" : "2863966",
+              "name" : "Sara Incerti",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "David Lidgard",
+          "avatar" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+        },
+        {
+          "name" : "Marco Chiodo",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+        },
+        {
+          "name" : "Sara Incerti",
+          "avatar" : "https://i1.au.reastatic.net/71x88/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/2fe218117dc4abcc8e904a457c2c47ca1826ca81d07f01b699a780b923d7b299/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "794 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504472316",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-unit-12-4-avenue-of-the-americas-4-avenue-of-the-americas-newington-nsw-2127-504472316",
+      "title" : "Street Facing / Prime Industrial Offering / Sublease Opportunity",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2127",
+        "agencyIds" : "URDMRG",
+        "subscription" : "",
+        "suburb" : "Newington",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "URDMRG"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas",
+        "postcode" : "2127",
+        "suburb" : "Newington",
+        "suburbAddress" : "Newington, NSW 2127"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas",
+        "suburbAddress" : "Newington, NSW 2127"
+      },
+      "branding" : {
+        "color" : "#161313",
+        "logo" : {
+          "alt" : "JLL - Parramatta",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8accf6d7d11ea681e24fb5a57721b93a4c4daaefc2bcae61137b63d77e06a427/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8accf6d7d11ea681e24fb5a57721b93a4c4daaefc2bcae61137b63d77e06a427/image0.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ee3ce96643aef46c7c346975269402bcf1ee8bca7e0ed78055885ffd8eec45e2/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ee3ce96643aef46c7c346975269402bcf1ee8bca7e0ed78055885ffd8eec45e2/image1.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/65b0c50e780e023646626ee35c719fdf2f63c6c53808554acc1db121cebae447/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/65b0c50e780e023646626ee35c719fdf2f63c6c53808554acc1db121cebae447/image2.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9fc0326ec58c6b65006f4c67d0e5e7d699b992d6b001240460caa45c5ede95d4/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9fc0326ec58c6b65006f4c67d0e5e7d699b992d6b001240460caa45c5ede95d4/image3.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/369b3d1981b1236c4ffde2e1ad6b82f152e09a0332aa9c6308a26195e422eeb7/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/369b3d1981b1236c4ffde2e1ad6b82f152e09a0332aa9c6308a26195e422eeb7/image4.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f825b737076bfbbb5ffcbdc3982a5c6524745dd01215e741b07172c31aacb21f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f825b737076bfbbb5ffcbdc3982a5c6524745dd01215e741b07172c31aacb21f/image5.jpg"
+        },
+        {
+          "alt" : "Unit 12 - 4 Avenue of the Americas, 4 Avenue Of The Americas Newington NSW 2127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3f7f748b9e5981139856b329d4777956220213417845e2c4d0918de4348bb0bb/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3f7f748b9e5981139856b329d4777956220213417845e2c4d0918de4348bb0bb/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Fully Fitted Out Building",
+        "Highest Suburban Environmental Ratings",
+        "Onsite Gym, Café, End of Trip Facilities"
+      ],
+      "agencies" : [
+        {
+          "id" : "URDMRG",
+          "name" : "JLL - Parramatta",
+          "salespeople" : [
+            {
+              "id" : "2533678",
+              "name" : "Ben Lalic",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/5f18dcca30b61fa38c082dcae1d80bd7b0bd820b580699ef1fff0348c7fd65b0/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/5f18dcca30b61fa38c082dcae1d80bd7b0bd820b580699ef1fff0348c7fd65b0/main.jpg"
+            },
+            {
+              "id" : "2506918",
+              "name" : "Stephen Panagiotopoulos",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/dab9008bd46b434294fd89d414c2abec2e40a418ed093e6fb45f4d92760b1dc9/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/dab9008bd46b434294fd89d414c2abec2e40a418ed093e6fb45f4d92760b1dc9/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "FIEKWH",
+          "name" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "salespeople" : [
+            {
+              "id" : "58749",
+              "name" : "Jason Wright",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg"
+            },
+            {
+              "id" : "104341",
+              "name" : "Chris Bailey",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 413,
+      "agents" : [
+        {
+          "name" : "Ben Lalic",
+          "avatar" : "https://i1.au.reastatic.net/71x88/5f18dcca30b61fa38c082dcae1d80bd7b0bd820b580699ef1fff0348c7fd65b0/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/5f18dcca30b61fa38c082dcae1d80bd7b0bd820b580699ef1fff0348c7fd65b0/main.jpg"
+        },
+        {
+          "name" : "Stephen Panagiotopoulos",
+          "avatar" : "https://i1.au.reastatic.net/71x88/dab9008bd46b434294fd89d414c2abec2e40a418ed093e6fb45f4d92760b1dc9/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/dab9008bd46b434294fd89d414c2abec2e40a418ed093e6fb45f4d92760b1dc9/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1000 - 12000 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504206708",
+      "hasTour" : true,
+      "pdpUrl" : "/for-lease/property-5-murray-rose-avenue-sydney-olympic-park-nsw-2127-504206708",
+      "title" : "WHOLE BUILDING, 6-STAR NABERS ENERGY & WATER RATING, QUALITY FITOUT",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "logo" : "https://i1.au.reastatic.net/170x32/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "alt" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "logoSize" : "170x32",
+          "brandingColor" : "#0054a6"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "GJS Property - SYDNEY OLYMPIC PARK"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2127",
+        "agencyIds" : "URDMRG,FIEKWH",
+        "subscription" : "",
+        "suburb" : "Sydney Olympic Park",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "URDMRG,FIEKWH"
+        }
+      },
+      "video" : {
+        "url" : "https://vimeo.com/781656979"
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "5 Murray Rose Avenue",
+        "postcode" : "2127",
+        "suburb" : "Sydney Olympic Park",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "5 Murray Rose Avenue",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "branding" : {
+        "color" : "#161313",
+        "logo" : {
+          "alt" : "JLL - Parramatta",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2b7197ec5e22bb006b1a9a940407a0bbc2c57a0fcf1b7c2eef8821fbc826afbb/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b7197ec5e22bb006b1a9a940407a0bbc2c57a0fcf1b7c2eef8821fbc826afbb/image0.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/70f9f8d555a40d632f0e8b004c44d80575947598390ac738e10767c64e8820ff/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/70f9f8d555a40d632f0e8b004c44d80575947598390ac738e10767c64e8820ff/image1.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8ba14e4f03b7a30da663314c8aa70d3010dcf895774c1ddeba1ff89835e3226e/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8ba14e4f03b7a30da663314c8aa70d3010dcf895774c1ddeba1ff89835e3226e/image2.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/eacd601e1a73be165ffd47b158eefc2b268f24a9263ff3b4c5e3af1cdd4fb06b/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eacd601e1a73be165ffd47b158eefc2b268f24a9263ff3b4c5e3af1cdd4fb06b/image3.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/30b9a38c0d4b38a314ad2ef0cfbdbf72cf622158a856e03fd0a7cc730a2f09a5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/30b9a38c0d4b38a314ad2ef0cfbdbf72cf622158a856e03fd0a7cc730a2f09a5/image4.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ab83a0b17214da52513a7b56457971a2a7e776dc715ac00e054c441cacc61d06/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ab83a0b17214da52513a7b56457971a2a7e776dc715ac00e054c441cacc61d06/image5.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1fd07c7276386207ccb27ca2b9a97e0f95ddb40adf715a581e7b6d0181ccfe89/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1fd07c7276386207ccb27ca2b9a97e0f95ddb40adf715a581e7b6d0181ccfe89/image6.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/12575e0d6f7c2135f4909cf09fbbaa9831c7f397a689cf769f12dfc3e308630b/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/12575e0d6f7c2135f4909cf09fbbaa9831c7f397a689cf769f12dfc3e308630b/image7.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/93f41c4986cc424bf0ecec61c76ceaa50d816d7b43ac87fc8b0d2dd79c701dac/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/93f41c4986cc424bf0ecec61c76ceaa50d816d7b43ac87fc8b0d2dd79c701dac/image8.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/047893131c74a28880599f9bc4a982710256ccc1102fcf1c45d5e3745317fed8/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/047893131c74a28880599f9bc4a982710256ccc1102fcf1c45d5e3745317fed8/image9.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f620d3cc0899d48e4f0c03b675793ff20bec4c32ad2f7101cccb633c3752eca2/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f620d3cc0899d48e4f0c03b675793ff20bec4c32ad2f7101cccb633c3752eca2/image10.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9ac91e2428e12a64e975cb94f09d4773ba92f2b7b75e08660741aab6a8c7f288/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9ac91e2428e12a64e975cb94f09d4773ba92f2b7b75e08660741aab6a8c7f288/image11.jpg"
+        },
+        {
+          "alt" : "5 Murray Rose Avenue Sydney Olympic Park NSW 2127 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ab682620b50d61b73847054523a155058848e4a9f2dc3bbdee890e422d686702/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ab682620b50d61b73847054523a155058848e4a9f2dc3bbdee890e422d686702/image12.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "DBPSUR",
+          "name" : "X Commercial - Surry Hills",
+          "salespeople" : [
+            {
+              "id" : "2452934",
+              "name" : "Justin Rose",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/5273dde021c908fc55fcba3c026ab725806b95def6d3ebf719ccfff538ae396d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/5273dde021c908fc55fcba3c026ab725806b95def6d3ebf719ccfff538ae396d/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 252,
+      "agents" : [
+        {
+          "name" : "Justin Rose",
+          "avatar" : "https://i1.au.reastatic.net/71x88/5273dde021c908fc55fcba3c026ab725806b95def6d3ebf719ccfff538ae396d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/5273dde021c908fc55fcba3c026ab725806b95def6d3ebf719ccfff538ae396d/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "242 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504310240",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-20-hutchinson-street-surry-hills-nsw-2010-504310240",
+      "title" : "Price Reduction - Creative New York Loft Style 242m2",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2010",
+        "agencyIds" : "DBPSUR",
+        "subscription" : "",
+        "suburb" : "Surry Hills",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "DBPSUR"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "20 Hutchinson Street",
+        "postcode" : "2010",
+        "suburb" : "Surry Hills",
+        "suburbAddress" : "Surry Hills, NSW 2010"
+      },
+      "details" : {
+        "price" : "$109,000 per annum",
+        "streetAddress" : "20 Hutchinson Street",
+        "suburbAddress" : "Surry Hills, NSW 2010"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "X Commercial - Surry Hills",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/172acc2235d794ab581cf8958eea7b817a0ae582471421ad5f853c3f04e68aca/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/172acc2235d794ab581cf8958eea7b817a0ae582471421ad5f853c3f04e68aca/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b11781560fc036a42a8e39b4476b7fbac6d231353d690e3d5dc4a97545ac0e61/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b11781560fc036a42a8e39b4476b7fbac6d231353d690e3d5dc4a97545ac0e61/image0.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d7f3ffcda5baf04e12e0b881712f39621d4dc4d9c618a72875f5139b82031f4f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d7f3ffcda5baf04e12e0b881712f39621d4dc4d9c618a72875f5139b82031f4f/image1.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ac6a178c466fac362b2323c135834e7a2d6c7a803fcd1ff09856526717207b2f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac6a178c466fac362b2323c135834e7a2d6c7a803fcd1ff09856526717207b2f/image2.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a18ca749b0a0ccbde2bc643dcd6d1cb8f20b7c36b66c58b62f7c076687e958bf/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a18ca749b0a0ccbde2bc643dcd6d1cb8f20b7c36b66c58b62f7c076687e958bf/image3.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c93e979328a074d6d680e96eb3f90593e0fb8cb18733e82b938a67a69f8b98ac/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c93e979328a074d6d680e96eb3f90593e0fb8cb18733e82b938a67a69f8b98ac/image4.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1e19690a489aa4fd53404d77b2ac9636492a13d6703ca5e2e4d2793e12e613b7/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1e19690a489aa4fd53404d77b2ac9636492a13d6703ca5e2e4d2793e12e613b7/image5.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/37b5e05b08d718cb44bb17e45b88f8f8230b8ebf3bb2e0ff36b2e9e249b534ea/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/37b5e05b08d718cb44bb17e45b88f8f8230b8ebf3bb2e0ff36b2e9e249b534ea/image6.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c5b812c5e9c333065242a9f28ebc727881eeb8540189b19548d6f8ec86060812/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c5b812c5e9c333065242a9f28ebc727881eeb8540189b19548d6f8ec86060812/image7.jpg"
+        },
+        {
+          "alt" : "20 Hutchinson Street Surry Hills NSW 2010 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3699f84b68041454a8990d739b822a5c47c8994620631e215072f13ff1270d6c/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3699f84b68041454a8990d739b822a5c47c8994620631e215072f13ff1270d6c/image8.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Bustling Retail Centre",
+        "Opposite Hosptial",
+        "Huge Public Carpark"
+      ],
+      "agencies" : [
+        {
+          "id" : "QJJJAW",
+          "name" : "K2 Private Property - BRISBANE CITY",
+          "salespeople" : [
+            {
+              "id" : "1044075",
+              "name" : "Stuart Moody",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/98fda1a5562814497392d8ee96c052a89073025df92a208eff08577bc705a2c9/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/98fda1a5562814497392d8ee96c052a89073025df92a208eff08577bc705a2c9/main.jpg"
+            },
+            {
+              "id" : "1971502",
+              "name" : "Alex Parker",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6051997fd7941777e92f4b68a94788fa8598ed7e2ce855cada537abab707bc35/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6051997fd7941777e92f4b68a94788fa8598ed7e2ce855cada537abab707bc35/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 304,
+      "agents" : [
+        {
+          "name" : "Stuart Moody",
+          "avatar" : "https://i1.au.reastatic.net/71x88/98fda1a5562814497392d8ee96c052a89073025df92a208eff08577bc705a2c9/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/98fda1a5562814497392d8ee96c052a89073025df92a208eff08577bc705a2c9/main.jpg"
+        },
+        {
+          "name" : "Alex Parker",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6051997fd7941777e92f4b68a94788fa8598ed7e2ce855cada537abab707bc35/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6051997fd7941777e92f4b68a94788fa8598ed7e2ce855cada537abab707bc35/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "129 - 400 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting",
+          "Offices"
+        ]
+      },
+      "id" : "504270864",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-medilink-centre-100-angus-smith-drive-townsville-city-qld-4810-504270864",
+      "title" : "Prime Medical/Retail/Office Consultancy Suites Available!",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4810",
+        "agencyIds" : "QJJJAW",
+        "subscription" : "",
+        "suburb" : "Townsville City",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "QJJJAW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Medilink Centre, 100 Angus Smith Drive",
+        "postcode" : "4810",
+        "suburb" : "Townsville City",
+        "suburbAddress" : "Townsville City, QLD 4810"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Medilink Centre, 100 Angus Smith Drive",
+        "suburbAddress" : "Townsville City, QLD 4810"
+      },
+      "branding" : {
+        "color" : "#1B3D6E",
+        "logo" : {
+          "alt" : "K2 Private Property - BRISBANE CITY",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/e9a5625887b530913e4c3c6a82d798c80b95ae1ad9e964e6c355c0c5f0b765fc/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e9a5625887b530913e4c3c6a82d798c80b95ae1ad9e964e6c355c0c5f0b765fc/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/027dd431d9f6135e846eede0457dbb6396a6be3997bf137a1192ec1698fdac06/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/027dd431d9f6135e846eede0457dbb6396a6be3997bf137a1192ec1698fdac06/image0.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f94a372ca58bbde60fa55a16fb2d1ba0c1b1e288bd87f6eafcbb9c0f50345a53/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f94a372ca58bbde60fa55a16fb2d1ba0c1b1e288bd87f6eafcbb9c0f50345a53/image1.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f08389b5322d3fcb612dc36388fd710936838b2ec07aefb7b0331b858abb030d/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f08389b5322d3fcb612dc36388fd710936838b2ec07aefb7b0331b858abb030d/image2.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/43bfc8bf5078e7e4f52572e4e606346a8a4c7ebd6c068da77cf02317e39d6f3c/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/43bfc8bf5078e7e4f52572e4e606346a8a4c7ebd6c068da77cf02317e39d6f3c/image3.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/21bd8f5bf04f76986edbb76895935d862f342efc677ab5bfe7cd4421697fa061/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/21bd8f5bf04f76986edbb76895935d862f342efc677ab5bfe7cd4421697fa061/image4.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6ad291477500f98a6bea1fd66fc17d68b66a084c6fef0faa027cdde5e00bf6c0/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6ad291477500f98a6bea1fd66fc17d68b66a084c6fef0faa027cdde5e00bf6c0/image5.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f8fae340daf7b4921efd992d6ccec5673a82894e6e6dc81e2ddf5f657d937d50/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f8fae340daf7b4921efd992d6ccec5673a82894e6e6dc81e2ddf5f657d937d50/image6.jpg"
+        },
+        {
+          "alt" : "Medilink Centre, 100 Angus Smith Drive Townsville City QLD 4810 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f069f8e6e89d5f7dde1a4a997bb15c18c16f8bbc52ab1732a1fda6728dbe7198/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f069f8e6e89d5f7dde1a4a997bb15c18c16f8bbc52ab1732a1fda6728dbe7198/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "7 Boutique Offices/Showrooms",
+        "Building Area: 310-490 sqm*",
+        "6 Car Spaces per office/showroom"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZCNKCH",
+          "name" : "iDeal Commercial - SOUTH MELBOURNE",
+          "salespeople" : [
+            {
+              "id" : "3295600",
+              "name" : "Brendan Burmistrow",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/8972aa05b9afb173f1d48c704f892a0c362be6b5f59e33043726030ebc8c8d60/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/8972aa05b9afb173f1d48c704f892a0c362be6b5f59e33043726030ebc8c8d60/main.jpg"
+            },
+            {
+              "id" : "3295596",
+              "name" : "Michael Ryan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/efb538cc6ee114373f56ed107d8f726e5c731571cb9379d6de51b673ee2aea98/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/efb538cc6ee114373f56ed107d8f726e5c731571cb9379d6de51b673ee2aea98/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 76,
+      "agents" : [
+        {
+          "name" : "Brendan Burmistrow",
+          "avatar" : "https://i1.au.reastatic.net/71x88/8972aa05b9afb173f1d48c704f892a0c362be6b5f59e33043726030ebc8c8d60/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/8972aa05b9afb173f1d48c704f892a0c362be6b5f59e33043726030ebc8c8d60/main.jpg"
+        },
+        {
+          "name" : "Michael Ryan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/efb538cc6ee114373f56ed107d8f726e5c731571cb9379d6de51b673ee2aea98/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/efb538cc6ee114373f56ed107d8f726e5c731571cb9379d6de51b673ee2aea98/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "310 m²",
+        "propertyTypes" : [
+          "Showrooms/Bulky Goods",
+          "Retail"
+        ],
+        "carSpaces" : 6
+      },
+      "id" : "504445264",
+      "hasTour" : false,
+      "pdpUrl" : "/for-sale/property-333-greensborough-road-watsonia-vic-3087-504445264?listingType=rent",
+      "title" : "7 Brand New Boutique Offices/Showrooms",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for sale or lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3087",
+        "agencyIds" : "ZCNKCH",
+        "subscription" : "",
+        "suburb" : "Watsonia",
+        "imageCarousel" : {
+          "channel" : "for sale or lease:vacant",
+          "agencyIds" : "ZCNKCH"
+        }
+      },
+      "video" : {
+        "youtubeId" : "Ye-QUreDdk4"
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "333 Greensborough Road",
+        "postcode" : "3087",
+        "suburb" : "Watsonia",
+        "suburbAddress" : "Watsonia, VIC 3087"
+      },
+      "details" : {
+        "price" : "From $2,269,000",
+        "streetAddress" : "333 Greensborough Road",
+        "suburbAddress" : "Watsonia, VIC 3087"
+      },
+      "branding" : {
+        "color" : "#f1efe7",
+        "logo" : {
+          "alt" : "iDeal Commercial - SOUTH MELBOURNE",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/cca8915dd10b68b52e9cc52b08d94f67467fa3224621908f9c11d00abd53c18f/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cca8915dd10b68b52e9cc52b08d94f67467fa3224621908f9c11d00abd53c18f/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/eea267da61b878aa6cbf65b976d21526d45547ab16cb2d72f7c31bb036e33426/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eea267da61b878aa6cbf65b976d21526d45547ab16cb2d72f7c31bb036e33426/image0.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c381298b8fbf63ff62d1082d7052a2e82fdfe65b2dbf3127d99f0d2e6b0f6871/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c381298b8fbf63ff62d1082d7052a2e82fdfe65b2dbf3127d99f0d2e6b0f6871/image1.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a6e811bf7546e62680031cc03d9d679baf9a64c44e3687540257641fda06fa40/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a6e811bf7546e62680031cc03d9d679baf9a64c44e3687540257641fda06fa40/image2.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/16ee87756afd0800b4efb0a247ffe3d0cd577824402b37b8ff947c3ac5f0ca4b/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/16ee87756afd0800b4efb0a247ffe3d0cd577824402b37b8ff947c3ac5f0ca4b/image3.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3ed409551e70606e2f17218be0505cc35a4cad0bc6bbc14904d8f98cd795122b/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3ed409551e70606e2f17218be0505cc35a4cad0bc6bbc14904d8f98cd795122b/image4.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4f2bbc27b9f8900ce9bfeef63d4371fb6154150534d8cc7db0b19e1709b827c8/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4f2bbc27b9f8900ce9bfeef63d4371fb6154150534d8cc7db0b19e1709b827c8/image5.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/919c29ad75be4062567f1fe21db3d7ada37cc3d6829f6d3b9332e969c693043e/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/919c29ad75be4062567f1fe21db3d7ada37cc3d6829f6d3b9332e969c693043e/image6.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8acccf180e1ffef8b0c48ddc3eab6c3134e074010a59a7fb83d676bee3dde079/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8acccf180e1ffef8b0c48ddc3eab6c3134e074010a59a7fb83d676bee3dde079/image7.jpg"
+        },
+        {
+          "alt" : "333 Greensborough Road Watsonia VIC 3087 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6df44eaafbb00d8f8dccbd6e257814e95322ff02c517c5d264584430eb9ff279/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6df44eaafbb00d8f8dccbd6e257814e95322ff02c517c5d264584430eb9ff279/image8.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "XPNWIL",
+          "name" : "Compton Green - Inner West",
+          "salespeople" : [
+            {
+              "id" : "202971",
+              "name" : "Tino Parisi",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/49539576d8408a4fee7ae5bdc25715db23af1be2c9ef4b42fe58ed3674e4efd8/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/49539576d8408a4fee7ae5bdc25715db23af1be2c9ef4b42fe58ed3674e4efd8/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 102,
+      "agents" : [
+        {
+          "name" : "Tino Parisi",
+          "avatar" : "https://i1.au.reastatic.net/71x88/49539576d8408a4fee7ae5bdc25715db23af1be2c9ef4b42fe58ed3674e4efd8/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/49539576d8408a4fee7ae5bdc25715db23af1be2c9ef4b42fe58ed3674e4efd8/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "96 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Other"
+        ],
+        "carSpaces" : 1
+      },
+      "id" : "504425288",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-1-4-blackshaws-road-newport-vic-3015-504425288",
+      "title" : "STORAGE FACILITIES NEAR C.B.D!",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3015",
+        "agencyIds" : "XPNWIL",
+        "subscription" : "",
+        "suburb" : "Newport",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XPNWIL"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "1/4 Blackshaws Road",
+        "postcode" : "3015",
+        "suburb" : "Newport",
+        "suburbAddress" : "Newport, VIC 3015"
+      },
+      "details" : {
+        "price" : "$19,000 Plus Gst & Outgoings",
+        "streetAddress" : "1/4 Blackshaws Road",
+        "suburbAddress" : "Newport, VIC 3015"
+      },
+      "branding" : {
+        "color" : "#16bb51",
+        "logo" : {
+          "alt" : "Compton Green - Inner West",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/f956c2dbdde78f59610a47a93018f2e714bb6c91d48a74a9895694edcb3808f3/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f956c2dbdde78f59610a47a93018f2e714bb6c91d48a74a9895694edcb3808f3/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "1/4 Blackshaws Road Newport VIC 3015 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1bcc8335df936ff50a6fde43eab76b7a4de440511c94a1d73ebd5e4cfb12644d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1bcc8335df936ff50a6fde43eab76b7a4de440511c94a1d73ebd5e4cfb12644d/image0.jpg"
+        },
+        {
+          "alt" : "1/4 Blackshaws Road Newport VIC 3015 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d31f48ff5c5d6a3441352e617947cebddad514c98382642c0695e1e5610c6a59/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d31f48ff5c5d6a3441352e617947cebddad514c98382642c0695e1e5610c6a59/image1.jpg"
+        },
+        {
+          "alt" : "1/4 Blackshaws Road Newport VIC 3015 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8d7fbec048d13273432bde76c5049d226148b3086854af50af2a5c6c42e0989d/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8d7fbec048d13273432bde76c5049d226148b3086854af50af2a5c6c42e0989d/image2.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Premium office space",
+        "Brand new business lounge",
+        "Five-star workplace experience"
+      ],
+      "agencies" : [
+        {
+          "id" : "UTSWJZ",
+          "name" : "Colliers - Sydney",
+          "salespeople" : [
+            {
+              "id" : "119786",
+              "name" : "Frank Sassine",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/939ead22e2fd97789c9ab755e14a1408d1e92916ee91c7eb4aba1a0aadcb06d2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/939ead22e2fd97789c9ab755e14a1408d1e92916ee91c7eb4aba1a0aadcb06d2/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "PZOLMW",
+          "name" : "JLL - Sydney",
+          "salespeople" : [
+            {
+              "id" : "753567",
+              "name" : "Daniel Kernaghan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/06dd2f7a1bceb89f34c6baf987e26dab56d4ecf6b97070a3839d175e288781e3/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/06dd2f7a1bceb89f34c6baf987e26dab56d4ecf6b97070a3839d175e288781e3/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 415,
+      "agents" : [
+        {
+          "name" : "Frank Sassine",
+          "avatar" : "https://i1.au.reastatic.net/71x88/939ead22e2fd97789c9ab755e14a1408d1e92916ee91c7eb4aba1a0aadcb06d2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/939ead22e2fd97789c9ab755e14a1408d1e92916ee91c7eb4aba1a0aadcb06d2/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "596 - 2866 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "501304427",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-grosvenor-place-225-george-street-sydney-nsw-2000-501304427",
+      "title" : "Culture at Work",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "alt" : "JLL - Sydney",
+          "logoSize" : "84x63",
+          "brandingColor" : "#000000"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "JLL - Sydney"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2000",
+        "agencyIds" : "UTSWJZ,PZOLMW",
+        "subscription" : "",
+        "suburb" : "Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UTSWJZ,PZOLMW"
+        }
+      },
+      "video" : {
+        "youtubeId" : "dQIC2PoDc1I"
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Grosvenor Place 225 George Street",
+        "postcode" : "2000",
+        "suburb" : "Sydney",
+        "suburbAddress" : "Sydney, NSW 2000"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "Grosvenor Place 225 George Street",
+        "suburbAddress" : "Sydney, NSW 2000"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/53065ed9bc84e9fa95fcade52d28861b69c453a480568d7a60a2e58d012cb347/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/53065ed9bc84e9fa95fcade52d28861b69c453a480568d7a60a2e58d012cb347/image0.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/13d855b61f2679913104811af81822f32147887156fc03a11919548a0e3d5f53/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/13d855b61f2679913104811af81822f32147887156fc03a11919548a0e3d5f53/image1.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/58e317d7eb9be6ccf4c7bafc748c98be5658a567d1f7d604645f16127ab15a2c/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/58e317d7eb9be6ccf4c7bafc748c98be5658a567d1f7d604645f16127ab15a2c/image2.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/584a8d31a5a42963a3abee15911e44f5a5e454b4390387e6fc6a413fafdb7794/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/584a8d31a5a42963a3abee15911e44f5a5e454b4390387e6fc6a413fafdb7794/image3.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b915c0937d0b410fecbbc47b57154d3d9d5a798f4811eebd6c949ee2bb197873/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b915c0937d0b410fecbbc47b57154d3d9d5a798f4811eebd6c949ee2bb197873/image4.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/830929737e434ab12b8d0c1551d7e253b253a3a8cfa10139e92790198028a578/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/830929737e434ab12b8d0c1551d7e253b253a3a8cfa10139e92790198028a578/image5.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dcc952b5d37ae85297ea2b4069e0a4b1bdbfb9f4e7b509be1b68f67e0bbf4051/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dcc952b5d37ae85297ea2b4069e0a4b1bdbfb9f4e7b509be1b68f67e0bbf4051/image6.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/60881995d17c85464ba497d79b9555b2ad01c352e40aa61954ce955820fe7a6c/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/60881995d17c85464ba497d79b9555b2ad01c352e40aa61954ce955820fe7a6c/image7.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c32d4ab5666a19e81c42d8d2db47b729a7f88dadaa7ff18150c2d3f2146a852f/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c32d4ab5666a19e81c42d8d2db47b729a7f88dadaa7ff18150c2d3f2146a852f/image8.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f5f1d4a6840dda64f15879e250f31d666ce1b22ccc4c7f66f2d08df596201c23/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f5f1d4a6840dda64f15879e250f31d666ce1b22ccc4c7f66f2d08df596201c23/image9.jpg"
+        },
+        {
+          "alt" : "Grosvenor Place 225 George Street Sydney NSW 2000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/47472446285c6e44ad53acf8b2956e50e620e6c47b1e663f339f7e7d6a2f1ab8/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/47472446285c6e44ad53acf8b2956e50e620e6c47b1e663f339f7e7d6a2f1ab8/image10.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "ABCRID",
+          "name" : "Teska Carson Pty Ltd - Richmond",
+          "salespeople" : [
+            {
+              "id" : "2644326",
+              "name" : "Jack Cooper",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4a833cbceb796d94264d2c83160981040ecbe7bb1e9ebda5c85cbd6e32f0881a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4a833cbceb796d94264d2c83160981040ecbe7bb1e9ebda5c85cbd6e32f0881a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 618,
+      "agents" : [
+        {
+          "name" : "Jack Cooper",
+          "avatar" : "https://i1.au.reastatic.net/71x88/4a833cbceb796d94264d2c83160981040ecbe7bb1e9ebda5c85cbd6e32f0881a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/4a833cbceb796d94264d2c83160981040ecbe7bb1e9ebda5c85cbd6e32f0881a/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "112 - 191 m²",
+        "propertyTypes" : [
+          "Offices"
+        ],
+        "carSpaces" : 6
+      },
+      "id" : "504056471",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-2-3-107-union-road-surrey-hills-vic-3127-504056471",
+      "title" : "OUTSTANDING LEVEL 1 OFFICES",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3127",
+        "agencyIds" : "ABCRID",
+        "subscription" : "",
+        "suburb" : "Surrey Hills",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ABCRID"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "2 & 3 / 107 Union Road",
+        "postcode" : "3127",
+        "suburb" : "Surrey Hills",
+        "suburbAddress" : "Surrey Hills, VIC 3127"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "2 & 3 / 107 Union Road",
+        "suburbAddress" : "Surrey Hills, VIC 3127"
+      },
+      "branding" : {
+        "color" : "#FFA12D",
+        "logo" : {
+          "alt" : "Teska Carson Pty Ltd - Richmond",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/37624c31d71c929bc0dbc7703fd8fe3820f261e8a48d173cee813f31b2d1fd0f/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/37624c31d71c929bc0dbc7703fd8fe3820f261e8a48d173cee813f31b2d1fd0f/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a85170181201c8c02bd6303ad056f3e1acf7b2b2f53b818cbc70b6f5a60f172/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1a85170181201c8c02bd6303ad056f3e1acf7b2b2f53b818cbc70b6f5a60f172/image0.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5472adca8350fc7a62bfb058d4bb087fcd31fbe762ce1afaa8615771ea8b612/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b5472adca8350fc7a62bfb058d4bb087fcd31fbe762ce1afaa8615771ea8b612/image1.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/33263b2107a4eebe3a099c7f7fcdef9caa1b15d53c2690a8966c74e5a417bbfb/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/33263b2107a4eebe3a099c7f7fcdef9caa1b15d53c2690a8966c74e5a417bbfb/image2.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a991c00b5096e50a6f925e406333c4c398efafe2f30cda5f8854b51930e3c2e4/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a991c00b5096e50a6f925e406333c4c398efafe2f30cda5f8854b51930e3c2e4/image3.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7ae361cac6c2732e4085269f5c8b9d8360381bdb7a00a1eb36e512e331c93852/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7ae361cac6c2732e4085269f5c8b9d8360381bdb7a00a1eb36e512e331c93852/image4.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/450098fa48c7456fb414a4a6fe63280c7c8904e651bf6844d8e2261c166da66a/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/450098fa48c7456fb414a4a6fe63280c7c8904e651bf6844d8e2261c166da66a/image5.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ebcb3c363e1c6f90722a9b4a4efd90c6ea35a692c77f9fa27586ca42c0cd07ed/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ebcb3c363e1c6f90722a9b4a4efd90c6ea35a692c77f9fa27586ca42c0cd07ed/image6.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/79da99708f068bdeba51c230ac65cc444582614cb96fc19a6232ba772009a5f6/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/79da99708f068bdeba51c230ac65cc444582614cb96fc19a6232ba772009a5f6/image7.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8dcad93665a24df889508c730ac8f2298a1d79746780058a0def9480a3b80509/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8dcad93665a24df889508c730ac8f2298a1d79746780058a0def9480a3b80509/image8.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ec7aca00ac4bb25695e56885ebb58baa9e8f2f1e1f680b2c742ae47fc5518e26/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ec7aca00ac4bb25695e56885ebb58baa9e8f2f1e1f680b2c742ae47fc5518e26/image9.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3eeee9d2750f50d67f097bdfa8fae1463933fb8aecfd31a7ac786a8ef4f642c2/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3eeee9d2750f50d67f097bdfa8fae1463933fb8aecfd31a7ac786a8ef4f642c2/image10.jpg"
+        },
+        {
+          "alt" : "2 & 3 / 107 Union Road Surrey Hills VIC 3127 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9a84e0944a2b2792048d2711ebb0c13579177a09a3325bd92d28eeea9f4bc3e6/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9a84e0944a2b2792048d2711ebb0c13579177a09a3325bd92d28eeea9f4bc3e6/image11.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Newly refurbished space",
+        "Fitted out with workstations",
+        "Compelling opportunity, flexible terms"
+      ],
+      "agencies" : [
+        {
+          "id" : "PUOUSE",
+          "name" : "Hartigan Bolt - North Sydney",
+          "salespeople" : [
+            {
+              "id" : "75439",
+              "name" : "Adam Ray",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/cf4a7a1d503a2e1f43dfb4377fb6d624ba15708dca864ffdf3baaac0fefa8bdc/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/cf4a7a1d503a2e1f43dfb4377fb6d624ba15708dca864ffdf3baaac0fefa8bdc/main.jpg"
+            },
+            {
+              "id" : "3056995",
+              "name" : "Yool Yool",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 20,
+      "agents" : [
+        {
+          "name" : "Adam Ray",
+          "avatar" : "https://i1.au.reastatic.net/71x88/cf4a7a1d503a2e1f43dfb4377fb6d624ba15708dca864ffdf3baaac0fefa8bdc/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/cf4a7a1d503a2e1f43dfb4377fb6d624ba15708dca864ffdf3baaac0fefa8bdc/main.jpg"
+        },
+        {
+          "name" : "Yool Yool",
+          "avatar" : "https://i1.au.reastatic.net/71x88/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "281 - 303 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504485596",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-level-5-53-walker-street-north-sydney-nsw-2060-504485596",
+      "title" : "Flexible | Location | Turn Key Fit Out",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2060",
+        "agencyIds" : "PUOUSE",
+        "subscription" : "",
+        "suburb" : "North Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "PUOUSE"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Level 5, 53 Walker Street",
+        "postcode" : "2060",
+        "suburb" : "North Sydney",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Level 5, 53 Walker Street",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "branding" : {
+        "color" : "#00535e",
+        "logo" : {
+          "alt" : "Hartigan Bolt - North Sydney",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/bc7bf88decdfcc5da461971f72be68ddf17ad3ceb48567d726eea53a489dc826/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc7bf88decdfcc5da461971f72be68ddf17ad3ceb48567d726eea53a489dc826/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7d8c46cd8d0aa87757da1b4dcf508d0249513bc17559bde13ed7da9d2c5626d3/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7d8c46cd8d0aa87757da1b4dcf508d0249513bc17559bde13ed7da9d2c5626d3/image0.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/94da6d14d8600a33d9ce9ecc94cf51fe450c2dee1ddd774121f2dea2616bdef3/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/94da6d14d8600a33d9ce9ecc94cf51fe450c2dee1ddd774121f2dea2616bdef3/image1.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8db3987313b54aa658c8958d8488d29f8cfc0257a007a14731774904a1dcbd55/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8db3987313b54aa658c8958d8488d29f8cfc0257a007a14731774904a1dcbd55/image2.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c3f911d5edde819b897075434bfbc753850dcbf2b3f0e9cff294bc88ab2c9b8f/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c3f911d5edde819b897075434bfbc753850dcbf2b3f0e9cff294bc88ab2c9b8f/image3.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ee4148aeb04f193d8c7329ed030332bd64971e182f68090675570e58e17bb735/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ee4148aeb04f193d8c7329ed030332bd64971e182f68090675570e58e17bb735/image4.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/70718af3725728a260b8fbfe3806b7639d8860d4954672717b187acd5c06b266/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/70718af3725728a260b8fbfe3806b7639d8860d4954672717b187acd5c06b266/image5.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/147b80d8ba393fd48abe8186a7f1fbfde3b007294c5ac01188f46de586911c74/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/147b80d8ba393fd48abe8186a7f1fbfde3b007294c5ac01188f46de586911c74/image6.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a88ae5a5014b9fc5b13f0d09900f5678106e768f16c1161a44fde0312a34cd20/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a88ae5a5014b9fc5b13f0d09900f5678106e768f16c1161a44fde0312a34cd20/image7.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b988cb3e1377a5e5e7c7753086b83f6c5c20ddfe4a2571a4741c134d2b0b0488/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b988cb3e1377a5e5e7c7753086b83f6c5c20ddfe4a2571a4741c134d2b0b0488/image8.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f8d2ba4c0ebd31a6b1c587d2a60b25837a2a2752b83fe4d69caa70b6079ae424/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f8d2ba4c0ebd31a6b1c587d2a60b25837a2a2752b83fe4d69caa70b6079ae424/image9.jpg"
+        },
+        {
+          "alt" : "Level 5, 53 Walker Street North Sydney NSW 2060 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fcb01002c246ef68e7396b792d152d96c88a1e554291383fb84e7822ba2d1be2/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fcb01002c246ef68e7396b792d152d96c88a1e554291383fb84e7822ba2d1be2/image10.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "287sqm",
+        "Fully fitted and furnished",
+        "On-site cafe"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "1168227",
+              "name" : "Gianni Macdonald",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg"
+            },
+            {
+              "id" : "3266064",
+              "name" : "Ellie Scala",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "ACBGWR",
+          "name" : "Colliers - Melbourne East",
+          "salespeople" : [
+            {
+              "id" : "866283",
+              "name" : "Ash Dean",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/d03badbfb84a435c8ffcabf1a95de69e952adce77bd3f90fccebe5473016098d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/d03badbfb84a435c8ffcabf1a95de69e952adce77bd3f90fccebe5473016098d/main.jpg"
+            },
+            {
+              "id" : "1943230",
+              "name" : "John Howell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Gianni Macdonald",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg"
+        },
+        {
+          "name" : "Ellie Scala",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "287 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504461892",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-327-333-police-road-mulgrave-vic-3170-504461892",
+      "title" : "Secure this Creative Style Fitted Tenancy",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "alt" : "Colliers - Melbourne East",
+          "logoSize" : "84x63",
+          "brandingColor" : "#25408f"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Colliers - Melbourne East"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3170",
+        "agencyIds" : "ZOGWXF,ACBGWR",
+        "subscription" : "",
+        "suburb" : "Mulgrave",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ZOGWXF,ACBGWR"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "327-333 Police Road",
+        "postcode" : "3170",
+        "suburb" : "Mulgrave",
+        "suburbAddress" : "Mulgrave, VIC 3170"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "327-333 Police Road",
+        "suburbAddress" : "Mulgrave, VIC 3170"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/027f8ed2c309ac58b2d2da982f08b26daafef4c971d0b0d7b4a918b52ed244c6/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/027f8ed2c309ac58b2d2da982f08b26daafef4c971d0b0d7b4a918b52ed244c6/image0.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fa6adcc295dfa35dcfeb5b0ddcd7ad80c4e357b40addbb572343470c25941e41/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fa6adcc295dfa35dcfeb5b0ddcd7ad80c4e357b40addbb572343470c25941e41/image1.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/de23bd288a90f19f5c4da993a90e199a1c5addf74b4dd2a821b4af12b34f15f0/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/de23bd288a90f19f5c4da993a90e199a1c5addf74b4dd2a821b4af12b34f15f0/image2.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3fd5b3b9a717f2546d1ddcef2d186ca3e4a8be6a3561a0d42bda2d891ff91c30/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3fd5b3b9a717f2546d1ddcef2d186ca3e4a8be6a3561a0d42bda2d891ff91c30/image3.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fe881ab6087d53709965db65aec9907b7def36a6399f34aaaabde616bfd39cdf/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fe881ab6087d53709965db65aec9907b7def36a6399f34aaaabde616bfd39cdf/image4.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/58318b4cfa200d3c26ec55c617dc3a215029ea15e0ded899b9fe0d0e85c2c6b3/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/58318b4cfa200d3c26ec55c617dc3a215029ea15e0ded899b9fe0d0e85c2c6b3/image5.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/019ce9f1b0343fb6c436b1380a9d36bf868cca29857363570e6acdef02a9c5fa/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/019ce9f1b0343fb6c436b1380a9d36bf868cca29857363570e6acdef02a9c5fa/image6.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/604367788de17d7223bb05f0020fee5a6f53f46762fbebecafa0e2d9281ec63f/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/604367788de17d7223bb05f0020fee5a6f53f46762fbebecafa0e2d9281ec63f/image7.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8ae0fd27ae99eb8a09e69ad0c6528a75a282c0322bc5316af9f50a8006f82014/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8ae0fd27ae99eb8a09e69ad0c6528a75a282c0322bc5316af9f50a8006f82014/image8.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5c81a1b816eb0c2662dc32f2b7791b3c02e1b11dd46d8261236366676e0ea851/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5c81a1b816eb0c2662dc32f2b7791b3c02e1b11dd46d8261236366676e0ea851/image9.jpg"
+        },
+        {
+          "alt" : "327-333 Police Road Mulgrave VIC 3170 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/05a52ad11127581e64ba16ea9637d8817a29c35bb6bfd04a91eafb1014bfe5e8/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/05a52ad11127581e64ba16ea9637d8817a29c35bb6bfd04a91eafb1014bfe5e8/image10.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "NSW",
+    "floorArea" : "794 m²",
+    "suburb" : "newington",
+    "proptype" : "industrial_warehouse",
+    "region" : "inner_west",
+    "postcode" : "2127",
+    "price" : "Contact Agent"
+  }
+}

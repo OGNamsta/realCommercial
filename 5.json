@@ -1,0 +1,1643 @@
+{
+  "listings" : [
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "ZPCBCR",
+          "name" : "City Realty - Adelaide",
+          "salespeople" : [
+            {
+              "id" : "3108780",
+              "name" : "Saxon Smith",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/1adf0d183e44733c5ce9aecde9176f7b303ac83b340480dc43890811ba5543b7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/1adf0d183e44733c5ce9aecde9176f7b303ac83b340480dc43890811ba5543b7/main.jpg"
+            },
+            {
+              "id" : "3184556",
+              "name" : "Matthew Forde",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b7e0d9cbb296e651a4c9fe6622b0de7a26c85cd887965894a456d77b83031b39/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b7e0d9cbb296e651a4c9fe6622b0de7a26c85cd887965894a456d77b83031b39/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Saxon Smith",
+          "avatar" : "https://i1.au.reastatic.net/71x88/1adf0d183e44733c5ce9aecde9176f7b303ac83b340480dc43890811ba5543b7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/1adf0d183e44733c5ce9aecde9176f7b303ac83b340480dc43890811ba5543b7/main.jpg"
+        },
+        {
+          "name" : "Matthew Forde",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b7e0d9cbb296e651a4c9fe6622b0de7a26c85cd887965894a456d77b83031b39/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b7e0d9cbb296e651a4c9fe6622b0de7a26c85cd887965894a456d77b83031b39/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "189 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting",
+          "Retail"
+        ],
+        "carSpaces" : 6
+      },
+      "id" : "504476752",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-376-gilles-street-adelaide-sa-5000-504476752",
+      "title" : "Standalone Office for Lease",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5000",
+        "agencyIds" : "ZPCBCR",
+        "subscription" : "",
+        "suburb" : "Adelaide",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ZPCBCR"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "376 Gilles Street",
+        "postcode" : "5000",
+        "suburb" : "Adelaide",
+        "suburbAddress" : "Adelaide, SA 5000"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "376 Gilles Street",
+        "suburbAddress" : "Adelaide, SA 5000"
+      },
+      "branding" : {
+        "color" : "#fcfcfc",
+        "logo" : {
+          "alt" : "City Realty - Adelaide",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/9c1ff8faeafe11205039bd44a7acdb188d03da1fb4b0611ca39cb2fe3376cd15/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9c1ff8faeafe11205039bd44a7acdb188d03da1fb4b0611ca39cb2fe3376cd15/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56392b36c0dda9259f029ec8216887ac51b960dd8b673d60443badb048eecfc3/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56392b36c0dda9259f029ec8216887ac51b960dd8b673d60443badb048eecfc3/image0.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6827bea9b5dd1b46746552ae3a4f29cd41477f90b57bf687f7bb3ead8decd61e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6827bea9b5dd1b46746552ae3a4f29cd41477f90b57bf687f7bb3ead8decd61e/image1.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/50329c6ca5a6ecb4fef9761c2bd735663d408c98d27ef09bbc2366095b161fa9/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50329c6ca5a6ecb4fef9761c2bd735663d408c98d27ef09bbc2366095b161fa9/image2.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7c64e88f0adecf50ed4b762e3576cf0fc23054490f49f5d3f76e1a6903c0f9fe/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7c64e88f0adecf50ed4b762e3576cf0fc23054490f49f5d3f76e1a6903c0f9fe/image3.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8121fc0c57ff63776e63e152c65bbba9adcc6f248f07dd2453e955fafe60f784/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8121fc0c57ff63776e63e152c65bbba9adcc6f248f07dd2453e955fafe60f784/image4.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1f604ff56f48bff77374760440bcf84a49bc3b6cd109fa9d1c1f23aa17b1e182/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1f604ff56f48bff77374760440bcf84a49bc3b6cd109fa9d1c1f23aa17b1e182/image5.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a9a6b1c5cde6579ef23b827226ba2a93d7b3b961e6645494ba21d54a638555c1/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a9a6b1c5cde6579ef23b827226ba2a93d7b3b961e6645494ba21d54a638555c1/image6.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ef88060321f6064c7f7be312acac1d34c17ae0b6a2bebd2dd04d28fdc21ca038/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ef88060321f6064c7f7be312acac1d34c17ae0b6a2bebd2dd04d28fdc21ca038/image7.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dd2e1ec988f88460113d45a58aeaab1df193517f879a47ce4a8c084eb83b592d/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dd2e1ec988f88460113d45a58aeaab1df193517f879a47ce4a8c084eb83b592d/image8.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c41877c90c17c4ed8b10b69836086dbb3feb61b46f7ed29477d570701076ddaf/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c41877c90c17c4ed8b10b69836086dbb3feb61b46f7ed29477d570701076ddaf/image9.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4951da80a41db2dc01f64a9642da252dd4df6d99123915738c96177e390f23de/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4951da80a41db2dc01f64a9642da252dd4df6d99123915738c96177e390f23de/image10.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/80c9c351ee30f6a98f7b9219c86b7bb10c8540496210553126dcddfbdcb246b4/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/80c9c351ee30f6a98f7b9219c86b7bb10c8540496210553126dcddfbdcb246b4/image11.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c90608aecdb4aaa07f8483bfbc4f21142aa81867ec2652130e3549cbc648227d/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c90608aecdb4aaa07f8483bfbc4f21142aa81867ec2652130e3549cbc648227d/image12.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/03b386b7a66a6080d5e0590cb5d27a4a2e6748e441d82cc6dfe0dbe6f0ba862f/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/03b386b7a66a6080d5e0590cb5d27a4a2e6748e441d82cc6dfe0dbe6f0ba862f/image13.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/81538543b6c47211a857ee44157a7a9bbfe2162b7419b767a23af24ddaeb59a2/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/81538543b6c47211a857ee44157a7a9bbfe2162b7419b767a23af24ddaeb59a2/image14.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c1d6ea29e52744d129b7b6a3d247014e8d27096c889fa91cf30a03e56ff18e1e/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c1d6ea29e52744d129b7b6a3d247014e8d27096c889fa91cf30a03e56ff18e1e/image15.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/879016ab361cbdcc73f14f90d617b969bce337d74d87a92b903ea301ed54e9f8/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/879016ab361cbdcc73f14f90d617b969bce337d74d87a92b903ea301ed54e9f8/image16.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9e6c25b0dc8cd8070a095b61e9e22d8a7bfb7204f46c4876f83be4c24213f4a7/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9e6c25b0dc8cd8070a095b61e9e22d8a7bfb7204f46c4876f83be4c24213f4a7/image17.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cff6da1e0d74c2ebb16a047fd09a8f656918fcae56b13396e8ab0daf54ca2af0/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cff6da1e0d74c2ebb16a047fd09a8f656918fcae56b13396e8ab0daf54ca2af0/image18.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/435258e35ae35a70193d664279e94053de7e47aae6661ecd7a334eb99ce20880/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/435258e35ae35a70193d664279e94053de7e47aae6661ecd7a334eb99ce20880/image19.jpg"
+        },
+        {
+          "alt" : "376 Gilles Street Adelaide SA 5000 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ff29c809352adc82745d5d67d7766ba4fef997d2b6b092c7b7209c9d7965637e/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ff29c809352adc82745d5d67d7766ba4fef997d2b6b092c7b7209c9d7965637e/image20.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "High clearance warehouse",
+        "Generous, securely fenced hardstand yard",
+        "Ideal distribution location"
+      ],
+      "agencies" : [
+        {
+          "id" : "EGNOZX",
+          "name" : "Colliers - Sydney West  ",
+          "salespeople" : [
+            {
+              "id" : "1493066",
+              "name" : "Matthew Flynn",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/ac151e405e5074a884fb3c04ed4cdce2c7bc74d150896f6cc7d946da511a9cee/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/ac151e405e5074a884fb3c04ed4cdce2c7bc74d150896f6cc7d946da511a9cee/main.jpg"
+            },
+            {
+              "id" : "60246",
+              "name" : "Peter Dale",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6dc3beb35a67391fc396e7fc1f48ca544545f602f17000c3b499fb31c6b9828e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6dc3beb35a67391fc396e7fc1f48ca544545f602f17000c3b499fb31c6b9828e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Matthew Flynn",
+          "avatar" : "https://i1.au.reastatic.net/71x88/ac151e405e5074a884fb3c04ed4cdce2c7bc74d150896f6cc7d946da511a9cee/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/ac151e405e5074a884fb3c04ed4cdce2c7bc74d150896f6cc7d946da511a9cee/main.jpg"
+        },
+        {
+          "name" : "Peter Dale",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6dc3beb35a67391fc396e7fc1f48ca544545f602f17000c3b499fb31c6b9828e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6dc3beb35a67391fc396e7fc1f48ca544545f602f17000c3b499fb31c6b9828e/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "7262 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504461936",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-1-distribution-place-seven-hills-nsw-2147-504461936",
+      "title" : "Prime Logistics Facility – 7,262sqm* Warehouse + Exclusive yard",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2147",
+        "agencyIds" : "EGNOZX",
+        "subscription" : "",
+        "suburb" : "Seven Hills",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "EGNOZX"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "1 Distribution Place",
+        "postcode" : "2147",
+        "suburb" : "Seven Hills",
+        "suburbAddress" : "Seven Hills, NSW 2147"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "1 Distribution Place",
+        "suburbAddress" : "Seven Hills, NSW 2147"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Sydney West  ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "1 Distribution Place Seven Hills NSW 2147 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/70d06293ed27f5bc85cd1bda11379315b8e6b9783fdada88ff0cdbe706853dab/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/70d06293ed27f5bc85cd1bda11379315b8e6b9783fdada88ff0cdbe706853dab/image0.jpg"
+        },
+        {
+          "alt" : "1 Distribution Place Seven Hills NSW 2147 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0ed74657b107a7389319282109e38a9ee6ee560bb9d965e7ca9df346759de825/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0ed74657b107a7389319282109e38a9ee6ee560bb9d965e7ca9df346759de825/image1.jpg"
+        },
+        {
+          "alt" : "1 Distribution Place Seven Hills NSW 2147 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7f91f0640d2d94b96b2c8bb226af1e0cad6d7b52bd24b0959e2257ab29be14a1/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7f91f0640d2d94b96b2c8bb226af1e0cad6d7b52bd24b0959e2257ab29be14a1/image2.jpg"
+        },
+        {
+          "alt" : "1 Distribution Place Seven Hills NSW 2147 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/50340cae0448b53b40a29e93c3c92a4372d405bca4df3339399a6e1935b39934/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50340cae0448b53b40a29e93c3c92a4372d405bca4df3339399a6e1935b39934/image3.jpg"
+        },
+        {
+          "alt" : "1 Distribution Place Seven Hills NSW 2147 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7e4af6aeafc745b1d3730c346fb750095f6202972d909b261a66664044d15090/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7e4af6aeafc745b1d3730c346fb750095f6202972d909b261a66664044d15090/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "CAR PARKING - ON GRADE & UNDERCOVER",
+        "ON-SITE GYM & CAFE ",
+        "END OF TRIP FACILITIES"
+      ],
+      "agencies" : [
+        {
+          "id" : "VGEPRI",
+          "name" : "Crabtrees Real Estate - Melbourne ",
+          "salespeople" : [
+            {
+              "id" : "2724986",
+              "name" : "Elise Betts",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/d3e5823ef05446570605c324fe81a075ac8590704f2527b223a73169351edb5a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/d3e5823ef05446570605c324fe81a075ac8590704f2527b223a73169351edb5a/main.jpg"
+            },
+            {
+              "id" : "68990",
+              "name" : "Gavin Dumas",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/05ff42da6dae795ae6b8bbe679ea18d4f8b5c459f18cedf533861d4008643029/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/05ff42da6dae795ae6b8bbe679ea18d4f8b5c459f18cedf533861d4008643029/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 209,
+      "agents" : [
+        {
+          "name" : "Elise Betts",
+          "avatar" : "https://i1.au.reastatic.net/71x88/d3e5823ef05446570605c324fe81a075ac8590704f2527b223a73169351edb5a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/d3e5823ef05446570605c324fe81a075ac8590704f2527b223a73169351edb5a/main.jpg"
+        },
+        {
+          "name" : "Gavin Dumas",
+          "avatar" : "https://i1.au.reastatic.net/71x88/05ff42da6dae795ae6b8bbe679ea18d4f8b5c459f18cedf533861d4008643029/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/05ff42da6dae795ae6b8bbe679ea18d4f8b5c459f18cedf533861d4008643029/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "152 - 427 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504344124",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-270-ferntree-gully-road-notting-hill-vic-3168-504344124",
+      "title" : "GROW & THRIVE AT OMNICO BUSINESS CENTRE!",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3168",
+        "agencyIds" : "VGEPRI",
+        "subscription" : "",
+        "suburb" : "Notting Hill",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "VGEPRI"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "270 Ferntree Gully Road",
+        "postcode" : "3168",
+        "suburb" : "Notting Hill",
+        "suburbAddress" : "Notting Hill, VIC 3168"
+      },
+      "details" : {
+        "price" : "CONTACT AGENT",
+        "streetAddress" : "270 Ferntree Gully Road",
+        "suburbAddress" : "Notting Hill, VIC 3168"
+      },
+      "branding" : {
+        "color" : "#0a314f",
+        "logo" : {
+          "alt" : "Crabtrees Real Estate - Melbourne ",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/8a00aee7bae24e3d05b29b4d7ac34579405a5ef5f488197ad4332d1539dd4e15/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8a00aee7bae24e3d05b29b4d7ac34579405a5ef5f488197ad4332d1539dd4e15/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/efe9b26da3922a7907de5b25a710c936c87824cd9a589aed9e77fbb2ef3c408c/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/efe9b26da3922a7907de5b25a710c936c87824cd9a589aed9e77fbb2ef3c408c/image0.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/985bdf45038e0478e2986e5a309a19252c4320250310e8fe8b8ed1f34315a2af/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/985bdf45038e0478e2986e5a309a19252c4320250310e8fe8b8ed1f34315a2af/image1.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b3a945cba8e6805ff48d4f67b7a23bd89213df10c956f47f5a0e385b2dafb6b3/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b3a945cba8e6805ff48d4f67b7a23bd89213df10c956f47f5a0e385b2dafb6b3/image2.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/49dbaf446d6d9c51381eecb75897e7cdcf720c46309ef36055bfc965eb6a81bc/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/49dbaf446d6d9c51381eecb75897e7cdcf720c46309ef36055bfc965eb6a81bc/image3.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bbdced5a978040b154eae44109b7fd2313d2b52f7ad53b6a027cdd44dcbadbf7/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bbdced5a978040b154eae44109b7fd2313d2b52f7ad53b6a027cdd44dcbadbf7/image4.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ec33b0840af0392dcbee4366f82788645ae1bfdcb8c83d9f94ca2cb30bc8063d/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ec33b0840af0392dcbee4366f82788645ae1bfdcb8c83d9f94ca2cb30bc8063d/image5.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8d5a2997a886b8c662a8b03df5fa06b3fa59c98c11c8c21168be8ef57998fc0b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8d5a2997a886b8c662a8b03df5fa06b3fa59c98c11c8c21168be8ef57998fc0b/image6.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/50c219e9bfd846412d2e965eb54fadb8bf9f696ae554225b61784696fe95d69a/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50c219e9bfd846412d2e965eb54fadb8bf9f696ae554225b61784696fe95d69a/image7.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/daed105cfb2c1486ab14d4571a992d9dae55b6f1de886d534ee0899fc180fdf8/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/daed105cfb2c1486ab14d4571a992d9dae55b6f1de886d534ee0899fc180fdf8/image8.jpg"
+        },
+        {
+          "alt" : "270 Ferntree Gully Road Notting Hill VIC 3168 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6d0591a0b964d0a5de1622cfea566711aa2a460c8c24b9d78be668c38a9889d2/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6d0591a0b964d0a5de1622cfea566711aa2a460c8c24b9d78be668c38a9889d2/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Excellent Natural Light",
+        "Turn key Solution",
+        "High Quality End of trip Facilities"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "1292103",
+              "name" : "Will Dungey",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/40ff02988f84ac750a02144ab9338ba96c528293ab49bf41545b68af2d960799/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/40ff02988f84ac750a02144ab9338ba96c528293ab49bf41545b68af2d960799/main.jpg"
+            },
+            {
+              "id" : "2480918",
+              "name" : "Stuart Colquhoun",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 1051,
+      "agents" : [
+        {
+          "name" : "Will Dungey",
+          "avatar" : "https://i1.au.reastatic.net/71x88/40ff02988f84ac750a02144ab9338ba96c528293ab49bf41545b68af2d960799/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/40ff02988f84ac750a02144ab9338ba96c528293ab49bf41545b68af2d960799/main.jpg"
+        },
+        {
+          "name" : "Stuart Colquhoun",
+          "avatar" : "https://i1.au.reastatic.net/71x88/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "2337 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "503761694",
+      "hasTour" : true,
+      "pdpUrl" : "/for-lease/property-727-collins-street-docklands-vic-3008-503761694",
+      "title" : "SUBLEASE IN COLLINS SQUARE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3008",
+        "agencyIds" : "ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Docklands",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "727 Collins Street",
+        "postcode" : "3008",
+        "suburb" : "Docklands",
+        "suburbAddress" : "Docklands, VIC 3008"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "727 Collins Street",
+        "suburbAddress" : "Docklands, VIC 3008"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d5fd2f33ee29fed836feac759e61dd82bee55eb3722b9cf17b06557feccdcd52/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d5fd2f33ee29fed836feac759e61dd82bee55eb3722b9cf17b06557feccdcd52/image0.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/42d24d67880318b1cc74dca3b33a280a0d2263d02f34a26dd1afe0f49e0b4213/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/42d24d67880318b1cc74dca3b33a280a0d2263d02f34a26dd1afe0f49e0b4213/image1.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/07efb53e568867af0847df59146ad12249678db23e283cd8fbb314d2774d75e3/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/07efb53e568867af0847df59146ad12249678db23e283cd8fbb314d2774d75e3/image2.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d96289b8380bb44121140615fe46b2cd95a2530025036ba8f5c4d34cf2465d6a/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d96289b8380bb44121140615fe46b2cd95a2530025036ba8f5c4d34cf2465d6a/image3.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/73396334077e2b2b16cfd1ca4dea12047e91d10a2553e94bb5cd078de138ca48/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/73396334077e2b2b16cfd1ca4dea12047e91d10a2553e94bb5cd078de138ca48/image4.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/409fbba9dff8854af0cd87c499159237c441922d06e2ab9fa098cb55f9fa1d24/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/409fbba9dff8854af0cd87c499159237c441922d06e2ab9fa098cb55f9fa1d24/image5.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/16045eb570d800af18e43a3e7add7f2f29c03de89ad6e44a1d51695226052f79/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/16045eb570d800af18e43a3e7add7f2f29c03de89ad6e44a1d51695226052f79/image6.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c2fe7879334ddc8f61eea90e85b7963d1d6b9cc237a395c2942dcbb2d60147e2/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c2fe7879334ddc8f61eea90e85b7963d1d6b9cc237a395c2942dcbb2d60147e2/image7.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cabbf4bbda236fe3c2b74f7a6487b6e9a86bc995670cf8564b8e33a7371dd908/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cabbf4bbda236fe3c2b74f7a6487b6e9a86bc995670cf8564b8e33a7371dd908/image8.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cb659417a23df6f2fb75b5694ba0ec5e86cc3515ce0942b85f03470c9b0f832f/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cb659417a23df6f2fb75b5694ba0ec5e86cc3515ce0942b85f03470c9b0f832f/image9.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d7c463ed492d77f149df107a25f4a7f2ad56ed01c6c7e60955e16cabae6cee8f/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d7c463ed492d77f149df107a25f4a7f2ad56ed01c6c7e60955e16cabae6cee8f/image10.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/71f9ce4aa4c60c521d49a5381107df11daf643d2f9295d17b58981f4a4aae20e/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/71f9ce4aa4c60c521d49a5381107df11daf643d2f9295d17b58981f4a4aae20e/image11.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a5b709af79a8a211f42edc85281de5dce5ff25437addd266eaaec6870eaf9d7c/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a5b709af79a8a211f42edc85281de5dce5ff25437addd266eaaec6870eaf9d7c/image12.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ceb0b9652edf5c3769ad61c73f730bfd2fdef01a35d2a67bf24da4a55e962170/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ceb0b9652edf5c3769ad61c73f730bfd2fdef01a35d2a67bf24da4a55e962170/image13.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/54b63b3cd46049656c33a3db8494aa365aa9455b7adead53b184bdde0786e3dc/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/54b63b3cd46049656c33a3db8494aa365aa9455b7adead53b184bdde0786e3dc/image14.jpg"
+        },
+        {
+          "alt" : "727 Collins Street Docklands VIC 3008 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2b946d542cd6ca651c912a2ae87a00ed6577f87fa086cf59349c8a59a3043722/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b946d542cd6ca651c912a2ae87a00ed6577f87fa086cf59349c8a59a3043722/image15.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "OVLMEG",
+          "name" : "Laing and Simmons Commercial South East",
+          "salespeople" : [
+            {
+              "id" : "1992074",
+              "name" : "Michael Buium",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f1ba88369335e07bb411e5dc6182d16d2dab81fe0ae1f83d03ce6eef39b8f26a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f1ba88369335e07bb411e5dc6182d16d2dab81fe0ae1f83d03ce6eef39b8f26a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 27,
+      "agents" : [
+        {
+          "name" : "Michael Buium",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f1ba88369335e07bb411e5dc6182d16d2dab81fe0ae1f83d03ce6eef39b8f26a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f1ba88369335e07bb411e5dc6182d16d2dab81fe0ae1f83d03ce6eef39b8f26a/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "312 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods",
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "504481276",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-unit-51-61-ashford-avenue-milperra-nsw-2214-504481276",
+      "title" : "Brand New Front Facing Showroom.Warehouse ",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2214",
+        "agencyIds" : "OVLMEG",
+        "subscription" : "",
+        "suburb" : "Milperra",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "OVLMEG"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Unit 51, 61 Ashford Avenue",
+        "postcode" : "2214",
+        "suburb" : "Milperra",
+        "suburbAddress" : "Milperra, NSW 2214"
+      },
+      "details" : {
+        "price" : "For Lease Brand New Warehouse",
+        "streetAddress" : "Unit 51, 61 Ashford Avenue",
+        "suburbAddress" : "Milperra, NSW 2214"
+      },
+      "branding" : {
+        "color" : "#003246",
+        "logo" : {
+          "alt" : "Laing and Simmons Commercial South East",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/a7e58a71f4c4ad55394fb94df7155f9ca8cd72269b2e6040839df2457a5c0926/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a7e58a71f4c4ad55394fb94df7155f9ca8cd72269b2e6040839df2457a5c0926/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Unit 51, 61 Ashford Avenue Milperra NSW 2214 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56033d0d5a83282df8c89741fd3eda38b546b742c78f81e75e9beb6734d2d7d1/image0.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56033d0d5a83282df8c89741fd3eda38b546b742c78f81e75e9beb6734d2d7d1/image0.png"
+        },
+        {
+          "alt" : "Unit 51, 61 Ashford Avenue Milperra NSW 2214 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6073abfac9309a3b0dccae8eea958e93d0e3d4593ce8cb1c0ccb4c2bd21524f2/image1.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6073abfac9309a3b0dccae8eea958e93d0e3d4593ce8cb1c0ccb4c2bd21524f2/image1.png"
+        },
+        {
+          "alt" : "Unit 51, 61 Ashford Avenue Milperra NSW 2214 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3a4ecf5c02eb452c95856385802940bfec8dea0c00a6b7391c6e7fe1e111f248/image2.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3a4ecf5c02eb452c95856385802940bfec8dea0c00a6b7391c6e7fe1e111f248/image2.png"
+        },
+        {
+          "alt" : "Unit 51, 61 Ashford Avenue Milperra NSW 2214 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9373c80bdad1593d353ba618f30470dc9ffed2b9bf6dcb892082c8d24136a51f/image3.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9373c80bdad1593d353ba618f30470dc9ffed2b9bf6dcb892082c8d24136a51f/image3.png"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "XPNMOR",
+          "name" : "Jacobs & Lowe - MORNINGTON",
+          "salespeople" : [
+            {
+              "id" : "2330178",
+              "name" : "Jeremy Lewis",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6f62df192c3c76ea5e0e64773186b3c85b72e44bebe909468b700664f764fe8a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6f62df192c3c76ea5e0e64773186b3c85b72e44bebe909468b700664f764fe8a/main.jpg"
+            },
+            {
+              "id" : "46400",
+              "name" : "Michelle Adams",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/24089dac7703ec0f16e6fcbfc730a405fbd1e367554e44bb4745d5b019027420/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/24089dac7703ec0f16e6fcbfc730a405fbd1e367554e44bb4745d5b019027420/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "Jeremy Lewis",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6f62df192c3c76ea5e0e64773186b3c85b72e44bebe909468b700664f764fe8a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6f62df192c3c76ea5e0e64773186b3c85b72e44bebe909468b700664f764fe8a/main.jpg"
+        },
+        {
+          "name" : "Michelle Adams",
+          "avatar" : "https://i1.au.reastatic.net/71x88/24089dac7703ec0f16e6fcbfc730a405fbd1e367554e44bb4745d5b019027420/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/24089dac7703ec0f16e6fcbfc730a405fbd1e367554e44bb4745d5b019027420/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "35 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Offices"
+        ]
+      },
+      "id" : "504472360",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-ground-floor-1-10-blamey-place-mornington-vic-3931-504472360",
+      "title" : "Brilliance on Blamey",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3931",
+        "agencyIds" : "XPNMOR",
+        "subscription" : "",
+        "suburb" : "Mornington",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XPNMOR"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "Ground Floor 1, 10 Blamey Place",
+        "postcode" : "3931",
+        "suburb" : "Mornington",
+        "suburbAddress" : "Mornington, VIC 3931"
+      },
+      "details" : {
+        "price" : "$1456.12 PCM + GST + Outgoings",
+        "streetAddress" : "Ground Floor 1, 10 Blamey Place",
+        "suburbAddress" : "Mornington, VIC 3931"
+      },
+      "branding" : {
+        "color" : "#ef2a24",
+        "logo" : {
+          "alt" : "Jacobs & Lowe - MORNINGTON",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/f9f46b7f1be297f566d913e5cab3b88e63d7d2a963c0677f500aa1d6f4984a15/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f9f46b7f1be297f566d913e5cab3b88e63d7d2a963c0677f500aa1d6f4984a15/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/52781d17b959b67ea610d544f3583fa1adbdd7c13bee847700e6e4259418c1cd/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/52781d17b959b67ea610d544f3583fa1adbdd7c13bee847700e6e4259418c1cd/image0.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c7e77afc5d103a248f09aa1f02fd406e55960985c46ca3171caa1d04821796b5/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c7e77afc5d103a248f09aa1f02fd406e55960985c46ca3171caa1d04821796b5/image1.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5565a18a2701c918876a7bc51264afbb1a23ce623a5eeec0959e9dfb4782b8b0/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5565a18a2701c918876a7bc51264afbb1a23ce623a5eeec0959e9dfb4782b8b0/image2.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c43fc87633a6b3fa573867d2e004c1f1c813547f4a48934089e959822cde2584/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c43fc87633a6b3fa573867d2e004c1f1c813547f4a48934089e959822cde2584/image3.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ce68969a10f57aa9bdf1ebca89ba5ce59e5fc27355d95df07aaa5088da8425bb/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ce68969a10f57aa9bdf1ebca89ba5ce59e5fc27355d95df07aaa5088da8425bb/image4.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2116894b6861ffd916c57eb8997eb0bb83d34305937ce789127223b58e66326f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2116894b6861ffd916c57eb8997eb0bb83d34305937ce789127223b58e66326f/image5.jpg"
+        },
+        {
+          "alt" : "Ground Floor 1, 10 Blamey Place Mornington VIC 3931 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/98c7293cc8e7d29a175156b9530294f4cc9a877134d5464804c4a668336ebb60/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/98c7293cc8e7d29a175156b9530294f4cc9a877134d5464804c4a668336ebb60/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Prime position in Pyrmont",
+        "Quality existing fitout with a balcony",
+        "EOT facilities including wellness room"
+      ],
+      "agencies" : [
+        {
+          "id" : "PNXBFJ",
+          "name" : "Fringe Commercial - PYRMONT",
+          "salespeople" : [
+            {
+              "id" : "839439",
+              "name" : "Stuart Rodriguez",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a37a90f03379559064c5fb25c71af8a1106adeceafd4ccadd5c76bb9dd6779b7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a37a90f03379559064c5fb25c71af8a1106adeceafd4ccadd5c76bb9dd6779b7/main.jpg"
+            },
+            {
+              "id" : "839443",
+              "name" : "Karen Larcan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/59d2ab02e28a20bb37d5775248f2c985d83d4e6124a8222e2cb63a0d8179c2ae/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/59d2ab02e28a20bb37d5775248f2c985d83d4e6124a8222e2cb63a0d8179c2ae/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "VEULKG",
+          "name" : "Cadigal - North Sydney",
+          "salespeople" : [
+            {
+              "id" : "103841",
+              "name" : "Marcus Pratley",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6e4bcb4cb6910d5c3ba33bd0d77da9357413d7859f528766073e4f16d722f303/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6e4bcb4cb6910d5c3ba33bd0d77da9357413d7859f528766073e4f16d722f303/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "BIIBFS",
+          "name" : "Cadigal - Sydney",
+          "salespeople" : [
+            {
+              "id" : "304506",
+              "name" : "Andrew Keller",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/8aec0032c3a0f6062fa74cfbe24da2971819af3a4e38753bdbfa641cc88abf7e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/8aec0032c3a0f6062fa74cfbe24da2971819af3a4e38753bdbfa641cc88abf7e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 234,
+      "agents" : [
+        {
+          "name" : "Stuart Rodriguez",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a37a90f03379559064c5fb25c71af8a1106adeceafd4ccadd5c76bb9dd6779b7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a37a90f03379559064c5fb25c71af8a1106adeceafd4ccadd5c76bb9dd6779b7/main.jpg"
+        },
+        {
+          "name" : "Karen Larcan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/59d2ab02e28a20bb37d5775248f2c985d83d4e6124a8222e2cb63a0d8179c2ae/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/59d2ab02e28a20bb37d5775248f2c985d83d4e6124a8222e2cb63a0d8179c2ae/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1151 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504135147",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-u60-60-union-street-pyrmont-nsw-2009-504135147",
+      "title" : "Impressive A-grade building in one of Pyrmont’s most coveted locations",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/21882a17b0970d66b225a1b6f10e6041b0137bcd716d9aa602b0ed954927aa7e/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/21882a17b0970d66b225a1b6f10e6041b0137bcd716d9aa602b0ed954927aa7e/large.jpg",
+          "alt" : "Cadigal - North Sydney",
+          "logoSize" : "170x32",
+          "brandingColor" : "#0076bf"
+        },
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/30000b5809a7c05b7b19b0033b74bc5c3505f3e726b161fd92ecb27e4c27c6fb/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/30000b5809a7c05b7b19b0033b74bc5c3505f3e726b161fd92ecb27e4c27c6fb/large.jpg",
+          "alt" : "Cadigal - Sydney",
+          "logoSize" : "170x32",
+          "brandingColor" : "#0076bf"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Cadigal - North Sydney",
+        "Cadigal - Sydney"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2009",
+        "agencyIds" : "PNXBFJ,VEULKG,BIIBFS",
+        "subscription" : "",
+        "suburb" : "Pyrmont",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "PNXBFJ,VEULKG,BIIBFS"
+        }
+      },
+      "video" : {
+        "url" : "https://vimeo.com/manage/videos/890093796"
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "U60, 60 Union Street",
+        "postcode" : "2009",
+        "suburb" : "Pyrmont",
+        "suburbAddress" : "Pyrmont, NSW 2009"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "U60, 60 Union Street",
+        "suburbAddress" : "Pyrmont, NSW 2009"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Fringe Commercial - PYRMONT",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/ed21c1f6dd955dd785f3ceb53180240ada8d924260ee3f23890ae74a8a18902e/large.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed21c1f6dd955dd785f3ceb53180240ada8d924260ee3f23890ae74a8a18902e/large.gif",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6ffe8f28372612564d491f3eb93edaea2e4bb008a6a12f2bd281086c7e2e4f96/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6ffe8f28372612564d491f3eb93edaea2e4bb008a6a12f2bd281086c7e2e4f96/image0.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/24a1f98deced1853d147f6ecb74e2c0543cbdb0b3e4c597a58106aadaca59349/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/24a1f98deced1853d147f6ecb74e2c0543cbdb0b3e4c597a58106aadaca59349/image1.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3a3f37604c1d6ce85a2922d419d21712814c211b3454281a8fb514b99cc52eae/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3a3f37604c1d6ce85a2922d419d21712814c211b3454281a8fb514b99cc52eae/image2.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e26692ea7522e7159d38700b5f26730cb877f75bb4ae38251a42c2841d551c25/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e26692ea7522e7159d38700b5f26730cb877f75bb4ae38251a42c2841d551c25/image3.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e06b9a6255bdd56f6e660b4355c37c821cd5438819bec2abadc27f63c734f714/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e06b9a6255bdd56f6e660b4355c37c821cd5438819bec2abadc27f63c734f714/image4.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cfab5a98961674bc467de5ff29d4d7c011ddefc3e1c35568ea56b6b4abec62f5/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cfab5a98961674bc467de5ff29d4d7c011ddefc3e1c35568ea56b6b4abec62f5/image5.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fcb4e17b4145320082510f16b77d7a9e647c6164f31876904d9a96ce07d9566c/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fcb4e17b4145320082510f16b77d7a9e647c6164f31876904d9a96ce07d9566c/image6.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/89693294385809056828577a3e63d5fc4c32dd9ad60181e754a6adb43ba7962d/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/89693294385809056828577a3e63d5fc4c32dd9ad60181e754a6adb43ba7962d/image7.jpg"
+        },
+        {
+          "alt" : "U60, 60 Union Street Pyrmont NSW 2009 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d9b0089d045e796ef6644662e79831c87e9eea4a744e5bb077dfd23fda4cb270/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d9b0089d045e796ef6644662e79831c87e9eea4a744e5bb077dfd23fda4cb270/image8.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Flexible warehousing options available",
+        "20mins from Brisbane CBD",
+        "Adjacent to Brisbane Airport"
+      ],
+      "agencies" : [
+        {
+          "id" : "AWRYQN",
+          "name" : "CG Property Group",
+          "salespeople" : [
+            {
+              "id" : "3169876",
+              "name" : "James Doyle",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/1ed2ee3efbd869283e62c6d2fe6935420beb5f2ffee2897f233ce8ad1ba0522e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/1ed2ee3efbd869283e62c6d2fe6935420beb5f2ffee2897f233ce8ad1ba0522e/main.jpg"
+            },
+            {
+              "id" : "2832958",
+              "name" : "Tom Moloney",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7eff36bd41df31bb0da7da8e4aede1d64fa96b4791fb75808305fb63b3999fae/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7eff36bd41df31bb0da7da8e4aede1d64fa96b4791fb75808305fb63b3999fae/main.jpg"
+            },
+            {
+              "id" : "2670078",
+              "name" : "Michael Callow",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9ffe23e44b3144cd4c5f3469aa2cfdf60cb261c90033b9742858bfdc955699ac/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9ffe23e44b3144cd4c5f3469aa2cfdf60cb261c90033b9742858bfdc955699ac/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 69,
+      "agents" : [
+        {
+          "name" : "James Doyle",
+          "avatar" : "https://i1.au.reastatic.net/71x88/1ed2ee3efbd869283e62c6d2fe6935420beb5f2ffee2897f233ce8ad1ba0522e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/1ed2ee3efbd869283e62c6d2fe6935420beb5f2ffee2897f233ce8ad1ba0522e/main.jpg"
+        },
+        {
+          "name" : "Tom Moloney",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7eff36bd41df31bb0da7da8e4aede1d64fa96b4791fb75808305fb63b3999fae/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7eff36bd41df31bb0da7da8e4aede1d64fa96b4791fb75808305fb63b3999fae/main.jpg"
+        },
+        {
+          "name" : "Michael Callow",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9ffe23e44b3144cd4c5f3469aa2cfdf60cb261c90033b9742858bfdc955699ac/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9ffe23e44b3144cd4c5f3469aa2cfdf60cb261c90033b9742858bfdc955699ac/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "9851 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504444032",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-hendra-industrial-estate-420-448-nudgee-road-hendra-qld-4011-504444032",
+      "title" : "Give your business space to thrive - multiple warehouse options - one of Brisbane’s prime industrial estates",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4011",
+        "agencyIds" : "AWRYQN",
+        "subscription" : "",
+        "suburb" : "Hendra",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "AWRYQN"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Hendra Industrial Estate, 420-448 Nudgee Road",
+        "postcode" : "4011",
+        "suburb" : "Hendra",
+        "suburbAddress" : "Hendra, QLD 4011"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Hendra Industrial Estate, 420-448 Nudgee Road",
+        "suburbAddress" : "Hendra, QLD 4011"
+      },
+      "branding" : {
+        "color" : "#1A2942",
+        "logo" : {
+          "alt" : "CG Property Group",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/d2b505ea86a43fc7fa6092445e894cc9f8a5dcf5067dc40db5dab688e5b122a6/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d2b505ea86a43fc7fa6092445e894cc9f8a5dcf5067dc40db5dab688e5b122a6/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/06e70a55a77eac962e8325ab287f6e7fcbb44fcc10b8b5ae1c210e298181239e/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/06e70a55a77eac962e8325ab287f6e7fcbb44fcc10b8b5ae1c210e298181239e/image0.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3721a4e466b695200c3fb902faf8089768701d3946fc17766b170df8c267eca6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3721a4e466b695200c3fb902faf8089768701d3946fc17766b170df8c267eca6/image1.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9d8961b34ec0fd6c9a8ff6898c32622285d8cf1d807616778c61925acf69a50c/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9d8961b34ec0fd6c9a8ff6898c32622285d8cf1d807616778c61925acf69a50c/image2.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0c6d45bb6d916b3efd9e4cc731e8a450becb28e9c3f8b9d02d899154f0ea8c13/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0c6d45bb6d916b3efd9e4cc731e8a450becb28e9c3f8b9d02d899154f0ea8c13/image3.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cfc2f0d6b205e008786cf5e06e132afe2bc0b8f5d2e2613ed3987487f1b220fe/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cfc2f0d6b205e008786cf5e06e132afe2bc0b8f5d2e2613ed3987487f1b220fe/image4.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/73da51e5285ac5e3fe7a0e4cf10c4626fd0e30b8cda81102061e4bc0adafb3e6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/73da51e5285ac5e3fe7a0e4cf10c4626fd0e30b8cda81102061e4bc0adafb3e6/image5.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ac6c0181d5e29646712486e3665599214acc59996580dc5bfba6f7151943825b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac6c0181d5e29646712486e3665599214acc59996580dc5bfba6f7151943825b/image6.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9236ee3fa68370d7a76c9374cd9f58c274fe18b67e6b275e75cb7128c8c9956a/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9236ee3fa68370d7a76c9374cd9f58c274fe18b67e6b275e75cb7128c8c9956a/image7.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/04e907c7912d3e51bf9f281baddbeb773324e332e16dcd9e6b8e2802452dbca7/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/04e907c7912d3e51bf9f281baddbeb773324e332e16dcd9e6b8e2802452dbca7/image8.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5fbbc8190544d52a2fa1a6c334094822bfade1bfcf5a818f61a8f70578ce53eb/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5fbbc8190544d52a2fa1a6c334094822bfade1bfcf5a818f61a8f70578ce53eb/image9.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0a0be08fbc594beda6819a89d10cca83b74b1d2be28421bc354511f68d5afe40/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0a0be08fbc594beda6819a89d10cca83b74b1d2be28421bc354511f68d5afe40/image10.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bee765bc931b12e07c6b8b271e81f372dc85b032a938ed036e2e4cef54379053/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bee765bc931b12e07c6b8b271e81f372dc85b032a938ed036e2e4cef54379053/image11.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f79a405fa189413402c54abf1c6e207c0216b95cf19007d28373dd261d085759/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f79a405fa189413402c54abf1c6e207c0216b95cf19007d28373dd261d085759/image12.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a8ae660766a94790387c8c97b03151261825420e3d5d6c23641741ffe5108659/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a8ae660766a94790387c8c97b03151261825420e3d5d6c23641741ffe5108659/image13.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/91ae34a8bc8f42e56dfeb92115fd7a6157388a5f4859929255d80b0768af845d/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/91ae34a8bc8f42e56dfeb92115fd7a6157388a5f4859929255d80b0768af845d/image14.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4a5ac271c0ef983cffe8dda75d56c48fdbe935f3a1ab5637bef1b9ccac0348b8/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4a5ac271c0ef983cffe8dda75d56c48fdbe935f3a1ab5637bef1b9ccac0348b8/image15.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f5f429d7a3b5ec64f78b24ea2f40545307fe092934d37f2fb459aa69fcead254/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f5f429d7a3b5ec64f78b24ea2f40545307fe092934d37f2fb459aa69fcead254/image16.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1c698a2ebd3d0c9233bbeb62a6fb133fddf43f52e1e3830f6445a807e2ff5300/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1c698a2ebd3d0c9233bbeb62a6fb133fddf43f52e1e3830f6445a807e2ff5300/image17.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c34bf1003de1d7ce5d3e4851af5f5631ebe905b2ee51a3654cd1307366fba893/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c34bf1003de1d7ce5d3e4851af5f5631ebe905b2ee51a3654cd1307366fba893/image18.jpg"
+        },
+        {
+          "alt" : "Hendra Industrial Estate, 420-448 Nudgee Road Hendra QLD 4011 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c0de79fa64fd1d02289ab23b778f0b019d7a4c34772a996b65b6a56e7ec6c7fb/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c0de79fa64fd1d02289ab23b778f0b019d7a4c34772a996b65b6a56e7ec6c7fb/image19.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "First class onsite amenity & facilities",
+        "Excellent natural light and outlook",
+        "Connected to North Shore Health Precinct"
+      ],
+      "agencies" : [
+        {
+          "id" : "YOSLOV",
+          "name" : "Cushman & Wakefield - Sydney",
+          "salespeople" : [
+            {
+              "id" : "2466158",
+              "name" : "Giuseppe Ruberto",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg"
+            },
+            {
+              "id" : "2473078",
+              "name" : "Steve Clapham",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "HCHYKK",
+          "name" : "CBRE - Sydney North",
+          "salespeople" : [
+            {
+              "id" : "1530814",
+              "name" : "Michael Darcy",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 1036,
+      "agents" : [
+        {
+          "name" : "Giuseppe Ruberto",
+          "avatar" : "https://i1.au.reastatic.net/71x88/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg"
+        },
+        {
+          "name" : "Steve Clapham",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "112 - 2300 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "503773546",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-tower-a-207-pacific-highway-st-leonards-nsw-2065-503773546",
+      "title" : "207 Pacific Highway - St Leonards Premier Office Building",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "alt" : "CBRE - Sydney North",
+          "logoSize" : "84x63",
+          "brandingColor" : "#003f2d"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "CBRE - Sydney North"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2065",
+        "agencyIds" : "YOSLOV,HCHYKK",
+        "subscription" : "",
+        "suburb" : "St Leonards",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "YOSLOV,HCHYKK"
+        }
+      },
+      "video" : {
+        "url" : "https://vimeo.com/manage/videos/823621108"
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Tower A, 207 Pacific Highway",
+        "postcode" : "2065",
+        "suburb" : "St Leonards",
+        "suburbAddress" : "St Leonards, NSW 2065"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Tower A, 207 Pacific Highway",
+        "suburbAddress" : "St Leonards, NSW 2065"
+      },
+      "branding" : {
+        "color" : "#e4002b",
+        "logo" : {
+          "alt" : "Cushman & Wakefield - Sydney",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7c70d08756bdfa9f019a3249112caa52220b99e299206cd726c7d5ea61592021/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7c70d08756bdfa9f019a3249112caa52220b99e299206cd726c7d5ea61592021/image0.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/da3b65d8c4b23c04b11490da7d11422d5f6543989326769ca050c72ca820e532/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/da3b65d8c4b23c04b11490da7d11422d5f6543989326769ca050c72ca820e532/image1.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4de183633d2f7104aa2d737ddb9c66067e595ff35f88d11484b8c254852ae285/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4de183633d2f7104aa2d737ddb9c66067e595ff35f88d11484b8c254852ae285/image2.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0a92c122fc9426933927c4c1cf7f40ac2f1c54625e09333f01d7773754b2ba63/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0a92c122fc9426933927c4c1cf7f40ac2f1c54625e09333f01d7773754b2ba63/image3.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2e57c209378185a706228dabf95f011c427dce800d024ade510cf5946118cdfe/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2e57c209378185a706228dabf95f011c427dce800d024ade510cf5946118cdfe/image4.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/258271f330bb31af6779280456028e97989b3b54f272f6e416570a57e86dd9f4/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/258271f330bb31af6779280456028e97989b3b54f272f6e416570a57e86dd9f4/image5.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1b513832913e1a0ed294cd660176ccb467b454a5afd6fb1d70e85e2c21840c4b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1b513832913e1a0ed294cd660176ccb467b454a5afd6fb1d70e85e2c21840c4b/image6.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5a53df4665262a9c5d3c238ab26d969a12a2ec14bda17ca1a00479b2d524850c/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5a53df4665262a9c5d3c238ab26d969a12a2ec14bda17ca1a00479b2d524850c/image7.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/211c7ae69e239a4a6773ddc6cc57888c9d20c622eddda71a864115a0cbf657ac/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/211c7ae69e239a4a6773ddc6cc57888c9d20c622eddda71a864115a0cbf657ac/image8.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/47c11363612fd1ddbf6ee2105f4ea9f568069eca63d2e4212289e4c72d48ada4/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/47c11363612fd1ddbf6ee2105f4ea9f568069eca63d2e4212289e4c72d48ada4/image9.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2a780d98209141452deb3dfce183790f0895c11683c482d17e9f416e6f74139f/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2a780d98209141452deb3dfce183790f0895c11683c482d17e9f416e6f74139f/image10.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/60cb90b4ef061469cc3262eda34716540580dce11d8825daa223413e9fac8cad/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/60cb90b4ef061469cc3262eda34716540580dce11d8825daa223413e9fac8cad/image11.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f100594b2c6267bb38c6828fca620f0d14c532ba5bbc68440cd54aefaa7678ad/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f100594b2c6267bb38c6828fca620f0d14c532ba5bbc68440cd54aefaa7678ad/image12.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9d16b66ce25fd38380341180653f40c1c5b19648af714a50767d57da9784e243/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9d16b66ce25fd38380341180653f40c1c5b19648af714a50767d57da9784e243/image13.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/798ac49af6fda89cde9244b6613c1ad457a43ddeb30a3b4b9ca3cd96012ac5ee/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/798ac49af6fda89cde9244b6613c1ad457a43ddeb30a3b4b9ca3cd96012ac5ee/image14.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f566b964c8122a00e6e0a4f5763d233830c9c0c3077275766778db628f09c747/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f566b964c8122a00e6e0a4f5763d233830c9c0c3077275766778db628f09c747/image15.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3a556be4996db3f953fb384180b999c9ba5dd5b2ea78817512b62fe65b3d03fe/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3a556be4996db3f953fb384180b999c9ba5dd5b2ea78817512b62fe65b3d03fe/image16.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5d7d4a721fb77faa6f38834a4c794e76a7a238bbb9e63264a2902593fb3cf8ff/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5d7d4a721fb77faa6f38834a4c794e76a7a238bbb9e63264a2902593fb3cf8ff/image17.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8b332a2d42737f8f09167a5af0822077697d9af158a3c8188bc302aceec5bf86/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8b332a2d42737f8f09167a5af0822077697d9af158a3c8188bc302aceec5bf86/image18.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1318c8ea11eb4bf122d1652bd7cdd3585b88d590714b3d91596a712a21fa2caf/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1318c8ea11eb4bf122d1652bd7cdd3585b88d590714b3d91596a712a21fa2caf/image19.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/415837263da88db78fd21a2babecab7cda78fd4c88d8d3926a07f216aaba0e51/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/415837263da88db78fd21a2babecab7cda78fd4c88d8d3926a07f216aaba0e51/image20.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 22",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cc54dcaf6e4bb64955d6354ddd87048c65218b213eacdfb799a986e736134c1d/image21.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cc54dcaf6e4bb64955d6354ddd87048c65218b213eacdfb799a986e736134c1d/image21.jpg"
+        },
+        {
+          "alt" : "Tower A, 207 Pacific Highway St Leonards NSW 2065 - Image 23",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c9fe5bd4cd0de619138ea2a4f2d6201844a515bf5246c2032445aca8016ec427/image22.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c9fe5bd4cd0de619138ea2a4f2d6201844a515bf5246c2032445aca8016ec427/image22.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Iconic Waterfront Venue",
+        "Turn Key offering with long tenure",
+        "Signage, Exposure & Parking"
+      ],
+      "agencies" : [
+        {
+          "id" : "GVXAPQ",
+          "name" : "RWC - Sydney City Fringe",
+          "salespeople" : [
+            {
+              "id" : "1797286",
+              "name" : "Kristian Morris",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/3fa38ee1f374ebfc159adf21bb238413a8c1671e8f844a3af7f345228d93d812/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/3fa38ee1f374ebfc159adf21bb238413a8c1671e8f844a3af7f345228d93d812/main.jpg"
+            },
+            {
+              "id" : "2899734",
+              "name" : "Ade Sudiono",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/203fa47e47408f045bc36d01a1651062afdba9dbcd9d81734607ca5df4531833/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/203fa47e47408f045bc36d01a1651062afdba9dbcd9d81734607ca5df4531833/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 83,
+      "agents" : [
+        {
+          "name" : "Kristian Morris",
+          "avatar" : "https://i1.au.reastatic.net/71x88/3fa38ee1f374ebfc159adf21bb238413a8c1671e8f844a3af7f345228d93d812/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/3fa38ee1f374ebfc159adf21bb238413a8c1671e8f844a3af7f345228d93d812/main.jpg"
+        },
+        {
+          "name" : "Ade Sudiono",
+          "avatar" : "https://i1.au.reastatic.net/71x88/203fa47e47408f045bc36d01a1651062afdba9dbcd9d81734607ca5df4531833/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/203fa47e47408f045bc36d01a1651062afdba9dbcd9d81734607ca5df4531833/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "750 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Hotel/Leisure"
+        ]
+      },
+      "id" : "504440008",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-1-dobroyd-parade-haberfield-nsw-2045-504440008",
+      "title" : "Iconic Haberfield Rowers Club, Restaurant & Kiosk ",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2045",
+        "agencyIds" : "GVXAPQ",
+        "subscription" : "",
+        "suburb" : "Haberfield",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "GVXAPQ"
+        }
+      },
+      "video" : {
+        "youtubeId" : "kf9pvdOuKAc"
+      },
+      "status" : "Under Contract",
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "1 Dobroyd Parade",
+        "postcode" : "2045",
+        "suburb" : "Haberfield",
+        "suburbAddress" : "Haberfield, NSW 2045"
+      },
+      "details" : {
+        "price" : "Expressions of Interest",
+        "streetAddress" : "1 Dobroyd Parade",
+        "suburbAddress" : "Haberfield, NSW 2045"
+      },
+      "branding" : {
+        "color" : "#ffe419",
+        "logo" : {
+          "alt" : "RWC - Sydney City Fringe",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/80a60528a30dff41eaf0ab8950d3b0e02e4cd69269f0d98d86264cf065941f8f/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/80a60528a30dff41eaf0ab8950d3b0e02e4cd69269f0d98d86264cf065941f8f/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/265931f3c438d46cdbd17137ab1920cf5fd759c60b69f1c4e302f8b03fa1dc97/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/265931f3c438d46cdbd17137ab1920cf5fd759c60b69f1c4e302f8b03fa1dc97/image0.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7c368b7d33fd3e3567a497dd34d0ecb633567c6f5cbee427dae6c399ad1539c8/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7c368b7d33fd3e3567a497dd34d0ecb633567c6f5cbee427dae6c399ad1539c8/image1.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1b90b8e1eee1163aeb8cc32d149591c4846b32a2c5c66f3edf1aaee3d4354db9/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1b90b8e1eee1163aeb8cc32d149591c4846b32a2c5c66f3edf1aaee3d4354db9/image2.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6a6eb5f6ff4081a5bc66c8e6a3abe4bb33b5c862c64992fb3efbdfa27a8a3d86/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6a6eb5f6ff4081a5bc66c8e6a3abe4bb33b5c862c64992fb3efbdfa27a8a3d86/image3.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7a8bfea5027cf600d93b558c8c293235a0de53a8c17eb32d19ba86557c55e773/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7a8bfea5027cf600d93b558c8c293235a0de53a8c17eb32d19ba86557c55e773/image4.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/08b12fa4a0a22ea23366750e126fe0bc4967d66a239d40d2f8f2ee3eb5ced0f4/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/08b12fa4a0a22ea23366750e126fe0bc4967d66a239d40d2f8f2ee3eb5ced0f4/image5.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7abf2f61b1c15152fc750decc0d52471aac412c52cb8311cf43719dc517b5f86/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7abf2f61b1c15152fc750decc0d52471aac412c52cb8311cf43719dc517b5f86/image6.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a2f4397e72837d3013a146e8f8fd3d24184a56de7b2f7b54f1b276ef3e8b887e/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a2f4397e72837d3013a146e8f8fd3d24184a56de7b2f7b54f1b276ef3e8b887e/image7.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0a8bd9e508b1ebe2f4cd1559d1669360ac17c16bbabc0183fe3835c1a02a4be1/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0a8bd9e508b1ebe2f4cd1559d1669360ac17c16bbabc0183fe3835c1a02a4be1/image8.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bdfa19d6b8207022358a496489174992740472eec80c640ba42dacab8d51faa6/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bdfa19d6b8207022358a496489174992740472eec80c640ba42dacab8d51faa6/image9.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0eee3f980184c206d159b1f68f8faa18241e0fef4b3618519febb82fa3c85da4/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0eee3f980184c206d159b1f68f8faa18241e0fef4b3618519febb82fa3c85da4/image10.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c40814911f2ed46e8e5940a234cc321a42e14217eb73758135e3b1b3785cc5b6/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c40814911f2ed46e8e5940a234cc321a42e14217eb73758135e3b1b3785cc5b6/image11.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7468232b41aeecfed57939a654ed83ffffb7df2507b57ad031a894d639dd4105/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7468232b41aeecfed57939a654ed83ffffb7df2507b57ad031a894d639dd4105/image12.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cd11d2caa0bdc9228e60ddb5cee15ce4a506b5cdf5fd9138c71e92d8ee9cca0a/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cd11d2caa0bdc9228e60ddb5cee15ce4a506b5cdf5fd9138c71e92d8ee9cca0a/image13.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed0f6a23e20a3aa10fbc2760ea7f2ded3e15458ba635ff5a4569f02d8ca0c477/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed0f6a23e20a3aa10fbc2760ea7f2ded3e15458ba635ff5a4569f02d8ca0c477/image14.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0cebb48aa409b6b6ae29da166d21136c0693b6d18f7c9ca130a07903b45be0fc/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0cebb48aa409b6b6ae29da166d21136c0693b6d18f7c9ca130a07903b45be0fc/image15.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/71efb915f1b07b4705680d33797932b6752da74264938de5e97647b83deb1209/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/71efb915f1b07b4705680d33797932b6752da74264938de5e97647b83deb1209/image16.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/50e9450bdb2c75555693ab6d7caa7850159e5023949bcc4b73ff07440713ccd4/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50e9450bdb2c75555693ab6d7caa7850159e5023949bcc4b73ff07440713ccd4/image17.jpg"
+        },
+        {
+          "alt" : "1 Dobroyd Parade Haberfield NSW 2045 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/53939d8bb981023bceda184d1a8dd13aeabc3d8273fe9fd3b26e4d6ae553a9b5/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/53939d8bb981023bceda184d1a8dd13aeabc3d8273fe9fd3b26e4d6ae553a9b5/image18.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "SA",
+    "floorArea" : "189 m²",
+    "landArea" : "464 m²",
+    "carSpaces" : 6,
+    "suburb" : "adelaide",
+    "proptype" : "offices",
+    "region" : "city",
+    "postcode" : "5000",
+    "price" : "Contact Agent"
+  }
+}

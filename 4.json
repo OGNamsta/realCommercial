@@ -1,0 +1,1519 @@
+{
+  "listings" : [
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "SHXBRO",
+          "name" : "Shore Commercial - Brookvale",
+          "salespeople" : [
+            {
+              "id" : "32861",
+              "name" : "Martin O'Brien",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/100c7a1dcfd70062075d5cf13a98b15147e0cc67250ae3e82f9eb46e00663f7b/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/100c7a1dcfd70062075d5cf13a98b15147e0cc67250ae3e82f9eb46e00663f7b/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 314,
+      "agents" : [
+        {
+          "name" : "Martin O'Brien",
+          "avatar" : "https://i1.au.reastatic.net/71x88/100c7a1dcfd70062075d5cf13a98b15147e0cc67250ae3e82f9eb46e00663f7b/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/100c7a1dcfd70062075d5cf13a98b15147e0cc67250ae3e82f9eb46e00663f7b/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "67 - 1225 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504263360",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-belrose-nsw-2085-504263360",
+      "title" : "BEST OFFICES ON THE BEACHES",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2085",
+        "agencyIds" : "SHXBRO",
+        "subscription" : "",
+        "suburb" : "Belrose",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "SHXBRO"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Address available on request",
+        "postcode" : "2085",
+        "suburb" : "Belrose",
+        "suburbAddress" : "Belrose, NSW 2085"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Address available on request",
+        "suburbAddress" : "Belrose, NSW 2085"
+      },
+      "branding" : {
+        "color" : "#e41f26",
+        "logo" : {
+          "alt" : "Shore Commercial - Brookvale",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/2b7cc6d426e8489f2050ea5a7e670154e140ee7fb09faf8b7543205df57c00b2/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b7cc6d426e8489f2050ea5a7e670154e140ee7fb09faf8b7543205df57c00b2/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Belrose NSW 2085 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3c429a37ff3f8a851642e6e270eb301ad1d03c0fbf69b4a7aa0937db6f51e7ff/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3c429a37ff3f8a851642e6e270eb301ad1d03c0fbf69b4a7aa0937db6f51e7ff/image0.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8827286f0f800e31cc5f7b8ce8cce5deed8c53aeed02a32417db1e61cea2edb6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8827286f0f800e31cc5f7b8ce8cce5deed8c53aeed02a32417db1e61cea2edb6/image1.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/34460dced105f6064b5e894b8e62282f7ab7445dcfcacb528b697be36de6ee8b/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34460dced105f6064b5e894b8e62282f7ab7445dcfcacb528b697be36de6ee8b/image2.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1ce80f03ad26e015d59b37bf615b42869a36d2aa4821527a691ee9fd6d67e474/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1ce80f03ad26e015d59b37bf615b42869a36d2aa4821527a691ee9fd6d67e474/image3.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e2de1d7a1bc6eca16ff5cf9b1c0ce9538ee14858243b629ce1a4a2664beda472/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e2de1d7a1bc6eca16ff5cf9b1c0ce9538ee14858243b629ce1a4a2664beda472/image4.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a143538239b71fdd47641b886762404ee4d28a86599040eefc61829314a729a1/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a143538239b71fdd47641b886762404ee4d28a86599040eefc61829314a729a1/image5.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/11f967ca1c295da955f8b6b9ebade85cc5cc67787f7e7b7fa87cc71824f3600a/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/11f967ca1c295da955f8b6b9ebade85cc5cc67787f7e7b7fa87cc71824f3600a/image6.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/429b6278a4c3697258651d4bb9af8fe61a09f8b77115dd02598d0a9ac87be362/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/429b6278a4c3697258651d4bb9af8fe61a09f8b77115dd02598d0a9ac87be362/image7.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb1521faed41d5463816144ca36c8830bfb7c903f39f2826925062259dff903b/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb1521faed41d5463816144ca36c8830bfb7c903f39f2826925062259dff903b/image8.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6f536f5825eb3ba7843467edc50aded1ba98c3b8d1f2938da054717d28ed89f6/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6f536f5825eb3ba7843467edc50aded1ba98c3b8d1f2938da054717d28ed89f6/image9.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6c233b9429ad01842317367482276530ae59f38866936f3cb61346c418208339/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6c233b9429ad01842317367482276530ae59f38866936f3cb61346c418208339/image10.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5cfd7d7f3679d3422a6df2575360adcf5671e09a30d59684873b41309b36bf03/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5cfd7d7f3679d3422a6df2575360adcf5671e09a30d59684873b41309b36bf03/image11.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed74600cc2e14d1f114353f738847dc9fb9a82387598c2ac6bae47f5996f9626/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed74600cc2e14d1f114353f738847dc9fb9a82387598c2ac6bae47f5996f9626/image12.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9be351c60e6ab47c7e5de0896e864454dd8c9c14c56d1bcab1887120b1964366/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9be351c60e6ab47c7e5de0896e864454dd8c9c14c56d1bcab1887120b1964366/image13.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/291f5d96e3535094119c33a3d85365cd78b9623b3c8a41746e15002ebfc31119/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/291f5d96e3535094119c33a3d85365cd78b9623b3c8a41746e15002ebfc31119/image14.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0cb0fe14be2ea55d8502b22a040966470078b39aaf6175bd892f5e9b852b3a4c/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0cb0fe14be2ea55d8502b22a040966470078b39aaf6175bd892f5e9b852b3a4c/image15.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ed5c88bc44da99ccd39a99b375be0eeacd34853aab12313c4ec1b057a5d626b/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ed5c88bc44da99ccd39a99b375be0eeacd34853aab12313c4ec1b057a5d626b/image16.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1f8bfac29cef81b926d5a4ce3a0d25a25fb61cde6131f0d9251dbe2fd73635cf/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1f8bfac29cef81b926d5a4ce3a0d25a25fb61cde6131f0d9251dbe2fd73635cf/image17.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/82431b17383a613a59d8feb193d29467d2705be94171a1913d9483ff06867e61/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/82431b17383a613a59d8feb193d29467d2705be94171a1913d9483ff06867e61/image18.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d6111ac0688916d3b31d6a3391f0fb9b8bdce1493b75a453aab05fea6d1b49f2/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d6111ac0688916d3b31d6a3391f0fb9b8bdce1493b75a453aab05fea6d1b49f2/image19.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bc97796b0f5a1b85c2ad3700378826fa05714b81f8f57407d6e1a35e0f3c4fd6/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc97796b0f5a1b85c2ad3700378826fa05714b81f8f57407d6e1a35e0f3c4fd6/image20.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 22",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3bfbef2b831482518a81a45ebd70b23c92166f8dfba93ad5fdba4cfa811e5b0a/image21.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3bfbef2b831482518a81a45ebd70b23c92166f8dfba93ad5fdba4cfa811e5b0a/image21.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 23",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c77ba83aadeda195dff296fadac30f58ccd1e89be7d18db892cb41194ca7cb25/image22.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c77ba83aadeda195dff296fadac30f58ccd1e89be7d18db892cb41194ca7cb25/image22.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 24",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/39b098b6643bf19f78a606a9d39245ba786c2797fc93dc6bf4bc056632bb7594/image23.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/39b098b6643bf19f78a606a9d39245ba786c2797fc93dc6bf4bc056632bb7594/image23.jpg"
+        },
+        {
+          "alt" : "Belrose NSW 2085 - Image 25",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/58c34d565f71d2e5b89f13d4c4421710075641363e89bc0f60c07648ce03845d/image24.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/58c34d565f71d2e5b89f13d4c4421710075641363e89bc0f60c07648ce03845d/image24.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Versatile Warehouse",
+        "Secure Hardstand At Rear",
+        "Ample On-Site Parking"
+      ],
+      "agencies" : [
+        {
+          "id" : "RLHXKP",
+          "name" : "Sutton Anderson - CROWS NEST",
+          "salespeople" : [
+            {
+              "id" : "85932",
+              "name" : "Brad Sutton",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/94cd5ba4ca63fe15e6664b89adab862fc88b2e0fb0accaf3fb9ec5da05cc5011/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/94cd5ba4ca63fe15e6664b89adab862fc88b2e0fb0accaf3fb9ec5da05cc5011/main.jpg"
+            },
+            {
+              "id" : "85925",
+              "name" : "Hugh Anderson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/91a44f27b937ee8b3d61375f64346b02366f703fa678c1a986a1bf5ee8b5ef20/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/91a44f27b937ee8b3d61375f64346b02366f703fa678c1a986a1bf5ee8b5ef20/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "Brad Sutton",
+          "avatar" : "https://i1.au.reastatic.net/71x88/94cd5ba4ca63fe15e6664b89adab862fc88b2e0fb0accaf3fb9ec5da05cc5011/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/94cd5ba4ca63fe15e6664b89adab862fc88b2e0fb0accaf3fb9ec5da05cc5011/main.jpg"
+        },
+        {
+          "name" : "Hugh Anderson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/91a44f27b937ee8b3d61375f64346b02366f703fa678c1a986a1bf5ee8b5ef20/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/91a44f27b937ee8b3d61375f64346b02366f703fa678c1a986a1bf5ee8b5ef20/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "437 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504472336",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-27-carlotta-street-artarmon-nsw-2064-504472336",
+      "title" : "Freestanding Industrial Warehouse - Previously A Mechanical Workshop",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2064",
+        "agencyIds" : "RLHXKP",
+        "subscription" : "",
+        "suburb" : "Artarmon",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "RLHXKP"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "27 Carlotta Street",
+        "postcode" : "2064",
+        "suburb" : "Artarmon",
+        "suburbAddress" : "Artarmon, NSW 2064"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "27 Carlotta Street",
+        "suburbAddress" : "Artarmon, NSW 2064"
+      },
+      "branding" : {
+        "color" : "#ac231b",
+        "logo" : {
+          "alt" : "Sutton Anderson - CROWS NEST",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/c1393ebfaf107d27d5cf281a97d720f66603a14761b9af2e15b9de1375aad13e/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c1393ebfaf107d27d5cf281a97d720f66603a14761b9af2e15b9de1375aad13e/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/965f7d599dadef9af5c448972b4951bcc01d6e9069b894e7d41b8658afabb922/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/965f7d599dadef9af5c448972b4951bcc01d6e9069b894e7d41b8658afabb922/image0.jpg"
+        },
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/181a66298b51c786dc54cc8cca5d4d3f8d0af688a8835fd603f6084c4a5765d9/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/181a66298b51c786dc54cc8cca5d4d3f8d0af688a8835fd603f6084c4a5765d9/image1.jpg"
+        },
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/db86cec9d46f3120fcdcc99195cea852bee634d44812474e457d8b7b1143268a/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/db86cec9d46f3120fcdcc99195cea852bee634d44812474e457d8b7b1143268a/image2.jpg"
+        },
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4a9551536a3d3f0659b6b564a61f1509916e35b7fdb6ea5a5fbe0c169bce2938/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4a9551536a3d3f0659b6b564a61f1509916e35b7fdb6ea5a5fbe0c169bce2938/image3.jpg"
+        },
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ac77e50356db575c950e0e4289cb4e20f63ad3de380933712031923dfc950ba1/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac77e50356db575c950e0e4289cb4e20f63ad3de380933712031923dfc950ba1/image4.jpg"
+        },
+        {
+          "alt" : "27 Carlotta Street Artarmon NSW 2064 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/15ed30d25fb6e1ce242ca43998a5ce783f6e8f936990da535375f4a79eb1d18c/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/15ed30d25fb6e1ce242ca43998a5ce783f6e8f936990da535375f4a79eb1d18c/image5.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "STUAKU",
+          "name" : "RWC | Adelaide Asset Management - ADELAIDE",
+          "salespeople" : [
+            {
+              "id" : "1199531",
+              "name" : "Ian Lambert",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/39fb97c8094c65bba76e35cb322d4940d79ac6b7ab8331964e6a1075853fdd11/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/39fb97c8094c65bba76e35cb322d4940d79ac6b7ab8331964e6a1075853fdd11/main.jpg"
+            },
+            {
+              "id" : "3077003",
+              "name" : "Lauren Herman",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/32ac740e40b394219143924aca5edd2966b04aae59ac4d61f49d0c506eb0bd21/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/32ac740e40b394219143924aca5edd2966b04aae59ac4d61f49d0c506eb0bd21/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 83,
+      "agents" : [
+        {
+          "name" : "Ian Lambert",
+          "avatar" : "https://i1.au.reastatic.net/71x88/39fb97c8094c65bba76e35cb322d4940d79ac6b7ab8331964e6a1075853fdd11/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/39fb97c8094c65bba76e35cb322d4940d79ac6b7ab8331964e6a1075853fdd11/main.jpg"
+        },
+        {
+          "name" : "Lauren Herman",
+          "avatar" : "https://i1.au.reastatic.net/71x88/32ac740e40b394219143924aca5edd2966b04aae59ac4d61f49d0c506eb0bd21/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/32ac740e40b394219143924aca5edd2966b04aae59ac4d61f49d0c506eb0bd21/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "80 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Retail"
+        ]
+      },
+      "id" : "504439972",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-308a-glen-osmond-road-fullarton-sa-5063-504439972",
+      "title" : "Prime office/retail with great exposure",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5063",
+        "agencyIds" : "STUAKU",
+        "subscription" : "",
+        "suburb" : "Fullarton",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "STUAKU"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "308A Glen Osmond Road",
+        "postcode" : "5063",
+        "suburb" : "Fullarton",
+        "suburbAddress" : "Fullarton, SA 5063"
+      },
+      "details" : {
+        "price" : "Price upon enquiry",
+        "streetAddress" : "308A Glen Osmond Road",
+        "suburbAddress" : "Fullarton, SA 5063"
+      },
+      "branding" : {
+        "color" : "#FFE512",
+        "logo" : {
+          "alt" : "RWC | Adelaide Asset Management - ADELAIDE",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/80a60528a30dff41eaf0ab8950d3b0e02e4cd69269f0d98d86264cf065941f8f/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/80a60528a30dff41eaf0ab8950d3b0e02e4cd69269f0d98d86264cf065941f8f/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "308A Glen Osmond Road Fullarton SA 5063 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/90b4dbdcfa342cde32444d024effbb997ef995cca750b0b99312b21d51667c50/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/90b4dbdcfa342cde32444d024effbb997ef995cca750b0b99312b21d51667c50/image0.jpg"
+        },
+        {
+          "alt" : "308A Glen Osmond Road Fullarton SA 5063 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/20997287a9838fd233bbded68cfceaf8c01b918759114d7f7f97052af173bdf4/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/20997287a9838fd233bbded68cfceaf8c01b918759114d7f7f97052af173bdf4/image1.jpg"
+        },
+        {
+          "alt" : "308A Glen Osmond Road Fullarton SA 5063 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/78bf0202797f48af7815f3876ad41efb1dee8225add16163e7fd19d268fa3d59/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/78bf0202797f48af7815f3876ad41efb1dee8225add16163e7fd19d268fa3d59/image2.jpg"
+        },
+        {
+          "alt" : "308A Glen Osmond Road Fullarton SA 5063 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e4fac8a60e16d0246145048eac522127af37019bcc3afb625ad08add59533f8b/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e4fac8a60e16d0246145048eac522127af37019bcc3afb625ad08add59533f8b/image3.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "EQSKHW",
+          "name" : "Colliers - Wollongong",
+          "salespeople" : [
+            {
+              "id" : "2952651",
+              "name" : "Matthew Sanderson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b2ff852bbbe8554ea1c4c89f78c909926d81cc7718ea96e492fcef66a6f55b8c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b2ff852bbbe8554ea1c4c89f78c909926d81cc7718ea96e492fcef66a6f55b8c/main.jpg"
+            },
+            {
+              "id" : "1085579",
+              "name" : "Kady Leggett",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/727fd53a35859a2af76cae592541b3fded5989779c7f8dda0c28a76fb0e7176e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/727fd53a35859a2af76cae592541b3fded5989779c7f8dda0c28a76fb0e7176e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 69,
+      "agents" : [
+        {
+          "name" : "Matthew Sanderson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b2ff852bbbe8554ea1c4c89f78c909926d81cc7718ea96e492fcef66a6f55b8c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b2ff852bbbe8554ea1c4c89f78c909926d81cc7718ea96e492fcef66a6f55b8c/main.jpg"
+        },
+        {
+          "name" : "Kady Leggett",
+          "avatar" : "https://i1.au.reastatic.net/71x88/727fd53a35859a2af76cae592541b3fded5989779c7f8dda0c28a76fb0e7176e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/727fd53a35859a2af76cae592541b3fded5989779c7f8dda0c28a76fb0e7176e/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "262 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods",
+          "Other"
+        ]
+      },
+      "id" : "504450880",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-4-11-waverley-drive-unanderra-nsw-2526-504450880",
+      "title" : "Industrial Warehouse in Tightly Held Precinct",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2526",
+        "agencyIds" : "EQSKHW",
+        "subscription" : "",
+        "suburb" : "Unanderra",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "EQSKHW"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "4/11 Waverley Drive",
+        "postcode" : "2526",
+        "suburb" : "Unanderra",
+        "suburbAddress" : "Unanderra, NSW 2526"
+      },
+      "details" : {
+        "price" : "Contact agent",
+        "streetAddress" : "4/11 Waverley Drive",
+        "suburbAddress" : "Unanderra, NSW 2526"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Wollongong",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bbe031859df80e2fdb830154c0feac17f4df28278bd1b29c71781908078cb7db/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bbe031859df80e2fdb830154c0feac17f4df28278bd1b29c71781908078cb7db/image0.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/89e3e027505d78cc7e4c85ee073400e097978e01facfb0ada42a72822cb37ed8/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/89e3e027505d78cc7e4c85ee073400e097978e01facfb0ada42a72822cb37ed8/image1.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7ee1f24131b199251ddf2c3b4602ffccc4081e061db1772b2489bf63401d5151/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7ee1f24131b199251ddf2c3b4602ffccc4081e061db1772b2489bf63401d5151/image2.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/07ade7118ee8b06bebf0218065b1e1bc64e4a684aa2037b4c2c3a742ac5ea370/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/07ade7118ee8b06bebf0218065b1e1bc64e4a684aa2037b4c2c3a742ac5ea370/image3.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4ef561ceb504c487118c0f0bae8b46095915f9b2977b1ca2d3f8466c47a368a1/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4ef561ceb504c487118c0f0bae8b46095915f9b2977b1ca2d3f8466c47a368a1/image4.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/73cabb23ec0bafb543c8466373208c0fdc2ea8303ac39db32a45fa037a7ea069/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/73cabb23ec0bafb543c8466373208c0fdc2ea8303ac39db32a45fa037a7ea069/image5.jpg"
+        },
+        {
+          "alt" : "4/11 Waverley Drive Unanderra NSW 2526 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4cd379c2c0005f198b00b823b5de5df73c87e6a800beff24c9883a6e88965745/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4cd379c2c0005f198b00b823b5de5df73c87e6a800beff24c9883a6e88965745/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Brand New Development",
+        "7.5m* Internal Warehouse Clearance",
+        "Corporate Office Layout"
+      ],
+      "agencies" : [
+        {
+          "id" : "ACBGWR",
+          "name" : "Colliers - Melbourne East",
+          "salespeople" : [
+            {
+              "id" : "1572322",
+              "name" : "Richard Wilkinson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg"
+            },
+            {
+              "id" : "1293827",
+              "name" : "Jonathan Mercuri",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 83,
+      "agents" : [
+        {
+          "name" : "Richard Wilkinson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a8375bf9df2d9f118a513bb2d9dc455d89f404495ccdbb2404f8c8b1c7870454/main.jpg"
+        },
+        {
+          "name" : "Jonathan Mercuri",
+          "avatar" : "https://i1.au.reastatic.net/71x88/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/85e5476140cfe07d42f7c7925009426df3fd378f45e117e8795673a07c1183ec/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "470 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504439980",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-2-4-19-koornang-road-scoresby-vic-3179-504439980",
+      "title" : "Scoresby’s Brand New Development",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3179",
+        "agencyIds" : "ACBGWR",
+        "subscription" : "",
+        "suburb" : "Scoresby",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ACBGWR"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "2-4/19 Koornang Road",
+        "postcode" : "3179",
+        "suburb" : "Scoresby",
+        "suburbAddress" : "Scoresby, VIC 3179"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "2-4/19 Koornang Road",
+        "suburbAddress" : "Scoresby, VIC 3179"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Melbourne East",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b0ec21f18c303d40c77579b83687ad3518ef06b5ce98aa56b4703d094c20bc17/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b0ec21f18c303d40c77579b83687ad3518ef06b5ce98aa56b4703d094c20bc17/image0.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/74ad1df6939e5f18968ed62075ed9eadf746d74e71aac31610e0d7a1b8856700/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/74ad1df6939e5f18968ed62075ed9eadf746d74e71aac31610e0d7a1b8856700/image1.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/87d9b9bf12055eac47d29ee475b19af7bb56e5f09e5e7ab2211cb08bd6904607/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/87d9b9bf12055eac47d29ee475b19af7bb56e5f09e5e7ab2211cb08bd6904607/image2.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/81f3df4073b2691c3f3a425b27567605954ebe103de15c126ace63e19df115a6/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/81f3df4073b2691c3f3a425b27567605954ebe103de15c126ace63e19df115a6/image3.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/481683b7d49fe0fb497de78f54cd1112e9d4de07ba7112f3bc60f0dd54462e34/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/481683b7d49fe0fb497de78f54cd1112e9d4de07ba7112f3bc60f0dd54462e34/image4.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/686b1e9cec2f22214d822393fa162ff0bd0005da5a1d8702a72f71e8373613b6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/686b1e9cec2f22214d822393fa162ff0bd0005da5a1d8702a72f71e8373613b6/image5.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a4a3472bf8d244777d451e324607a389e164ae08d113071166f269ddac823c51/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a4a3472bf8d244777d451e324607a389e164ae08d113071166f269ddac823c51/image6.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/605350de7282abd965f409b93452966c7379633f8ffaf0c0aaac003e367e7a05/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/605350de7282abd965f409b93452966c7379633f8ffaf0c0aaac003e367e7a05/image7.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6dd4ad338de5d33114503908a359adfa140b857340fff46bf160abfdd25acfde/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6dd4ad338de5d33114503908a359adfa140b857340fff46bf160abfdd25acfde/image8.jpg"
+        },
+        {
+          "alt" : "2-4/19 Koornang Road Scoresby VIC 3179 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/923c455d2529a06c6fb9cd374f40fcae2de5889ec8403aa983120b1bb854954e/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/923c455d2529a06c6fb9cd374f40fcae2de5889ec8403aa983120b1bb854954e/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Building sizes from 1,000sqm-15,000sqm",
+        "Bulk earthworks have commenced on site",
+        "Targeting 5-Star-Green Star Rating"
+      ],
+      "agencies" : [
+        {
+          "id" : "UZJMXB",
+          "name" : "Modus Property Group",
+          "salespeople" : [
+            {
+              "id" : "3293132",
+              "name" : "Nick Bandiera",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg"
+            },
+            {
+              "id" : "3362392",
+              "name" : "David Gibson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/c857213f648023575833f27ce7382deae97e53355d953e5f62f8971c8e48ed30/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/c857213f648023575833f27ce7382deae97e53355d953e5f62f8971c8e48ed30/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "UJHZYK",
+          "name" : "JLL - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "2466086",
+              "name" : "Ben Jeffries",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/47bbbb188da78f31327746465140e36bc90f8973727e75f74001072efc03f76d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/47bbbb188da78f31327746465140e36bc90f8973727e75f74001072efc03f76d/main.jpg"
+            },
+            {
+              "id" : "3265880",
+              "name" : "Ben Ogilvie",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/96f7ad0caacd1d8e0f4949c8812cc5cd78e9af011f8c515d7215e8a76c234e94/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/96f7ad0caacd1d8e0f4949c8812cc5cd78e9af011f8c515d7215e8a76c234e94/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 90,
+      "agents" : [
+        {
+          "name" : "Nick Bandiera",
+          "avatar" : "https://i1.au.reastatic.net/71x88/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg"
+        },
+        {
+          "name" : "David Gibson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/c857213f648023575833f27ce7382deae97e53355d953e5f62f8971c8e48ed30/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/c857213f648023575833f27ce7382deae97e53355d953e5f62f8971c8e48ed30/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "32 ha (79.07 acres)",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Land/Development"
+        ]
+      },
+      "id" : "504434412",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-pinnacle-estate-109-135-boundary-road-north-lakes-qld-4509-504434412",
+      "title" : "North Brisbane’s Premier Industrial/Logistics Estate, Bulk Earthworks Now Underway",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "alt" : "JLL - Brisbane",
+          "logoSize" : "84x63",
+          "brandingColor" : "#000000"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "JLL - Brisbane"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4509",
+        "agencyIds" : "UZJMXB,UJHZYK",
+        "subscription" : "",
+        "suburb" : "North Lakes",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UZJMXB,UJHZYK"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Pinnacle Estate, 109-135 Boundary Road",
+        "postcode" : "4509",
+        "suburb" : "North Lakes",
+        "suburbAddress" : "North Lakes, QLD 4509"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Pinnacle Estate, 109-135 Boundary Road",
+        "suburbAddress" : "North Lakes, QLD 4509"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Modus Property Group",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/ac5c24e180d0d7fa0a9f68b549d5b1e2e923ea468c2bf71b3c999c72179dac2d/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac5c24e180d0d7fa0a9f68b549d5b1e2e923ea468c2bf71b3c999c72179dac2d/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f37a54b8e6d4948465425c0cc96aebe42e32c893d21d4db939ac6dc79ed3669d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f37a54b8e6d4948465425c0cc96aebe42e32c893d21d4db939ac6dc79ed3669d/image0.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4d81f84530af4adc83f66c57efa4c20cb692389f7808f5d2d40073cf4636b65d/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4d81f84530af4adc83f66c57efa4c20cb692389f7808f5d2d40073cf4636b65d/image1.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/92477a22e1a7ccfca7d27ed15508b38032a09c5df4290e321338f7df599b14ee/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/92477a22e1a7ccfca7d27ed15508b38032a09c5df4290e321338f7df599b14ee/image2.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8aeb7fd4b294f4e3ebc6c989f78b8e71e83ab616681b2081e8a9c3ea7b868fa4/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8aeb7fd4b294f4e3ebc6c989f78b8e71e83ab616681b2081e8a9c3ea7b868fa4/image3.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0cd9ca36da23715edebad6a96e0e3d4900687ddde135b087897a21883576941f/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0cd9ca36da23715edebad6a96e0e3d4900687ddde135b087897a21883576941f/image4.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb99166d427180fc244a0eb35a5e08d1a8fee03f0819740890ef04bf8c5f607f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb99166d427180fc244a0eb35a5e08d1a8fee03f0819740890ef04bf8c5f607f/image5.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/57959e6819af07730ed904de29d42230d6eb410c67609075fab18ba3b0a114d0/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/57959e6819af07730ed904de29d42230d6eb410c67609075fab18ba3b0a114d0/image6.jpg"
+        },
+        {
+          "alt" : "Pinnacle Estate, 109-135 Boundary Road North Lakes QLD 4509 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63b095375c0dd37813d11b21e04e7702ff9d7b5b7f5da4d925b553812ba0aa08/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63b095375c0dd37813d11b21e04e7702ff9d7b5b7f5da4d925b553812ba0aa08/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Box Hill’s newest lifestyle destination",
+        "Three levels of premier retail space",
+        "16 - 2,000 SQM tenancies available"
+      ],
+      "agencies" : [
+        {
+          "id" : "LCHDIO",
+          "name" : "Golden Age Group - Commercial Subscription (SKY SQ)",
+          "salespeople" : [
+            {
+              "id" : "3352408",
+              "name" : "Daniel Lombardi",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b9dec70da0eea974dd069a316a6b7021cdc5e3bd47cc0d5d8197a3f12c19f472/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b9dec70da0eea974dd069a316a6b7021cdc5e3bd47cc0d5d8197a3f12c19f472/main.jpg"
+            },
+            {
+              "id" : "3352412",
+              "name" : "James Batrouney",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/d0d75ab7faec487f3a234aa730b3a0d70acd7d7413b53991c9cbce9e425a9c00/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/d0d75ab7faec487f3a234aa730b3a0d70acd7d7413b53991c9cbce9e425a9c00/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 183,
+      "agents" : [
+        {
+          "name" : "Daniel Lombardi",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b9dec70da0eea974dd069a316a6b7021cdc5e3bd47cc0d5d8197a3f12c19f472/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b9dec70da0eea974dd069a316a6b7021cdc5e3bd47cc0d5d8197a3f12c19f472/main.jpg"
+        },
+        {
+          "name" : "James Batrouney",
+          "avatar" : "https://i1.au.reastatic.net/71x88/d0d75ab7faec487f3a234aa730b3a0d70acd7d7413b53991c9cbce9e425a9c00/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/d0d75ab7faec487f3a234aa730b3a0d70acd7d7413b53991c9cbce9e425a9c00/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "16 - 2000 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504363056",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-sky-sqr-517-521-station-street-box-hill-vic-3128-504363056",
+      "title" : "UNDER CONSTRUCTION | Exciting New Retail Opportunities in Box Hill’s New multicultural and culinary town square",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3128",
+        "agencyIds" : "LCHDIO",
+        "subscription" : "",
+        "suburb" : "Box Hill",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "LCHDIO"
+        }
+      },
+      "video" : {
+        "url" : "https://vimeo.com/manage/videos/826726380"
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "SKY SQR, 517–521  Station Street",
+        "postcode" : "3128",
+        "suburb" : "Box Hill",
+        "suburbAddress" : "Box Hill, VIC 3128"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "SKY SQR, 517–521  Station Street",
+        "suburbAddress" : "Box Hill, VIC 3128"
+      },
+      "branding" : {
+        "color" : "#ffffff",
+        "logo" : {
+          "alt" : "Golden Age Group - Commercial Subscription (SKY SQ)",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/247e202610677f12ed3f3f98b8c61203052d7f37ca1223a0afe9524036d5764f/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/247e202610677f12ed3f3f98b8c61203052d7f37ca1223a0afe9524036d5764f/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/de550416e742dde3e080467c7c1735d85f8864823a41a74fc0493d99be4799f8/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/de550416e742dde3e080467c7c1735d85f8864823a41a74fc0493d99be4799f8/image0.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/39b0b7e84120f8ab687652164470d0cba3ee2bd47794a22ad6035d7f8113aec6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/39b0b7e84120f8ab687652164470d0cba3ee2bd47794a22ad6035d7f8113aec6/image1.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a2092c072875afb70e0f46f4fc86cf817e1a6ef80c1a864cc699222b2d0b41f0/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a2092c072875afb70e0f46f4fc86cf817e1a6ef80c1a864cc699222b2d0b41f0/image2.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7838fcc6f7974a4dac10d26d3f2a69f87a93d14df966dd69019343a3b6b443af/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7838fcc6f7974a4dac10d26d3f2a69f87a93d14df966dd69019343a3b6b443af/image3.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/79526a9e456435df9da00f4fa5c29dd6d3dd65ca0b113ca5cd5d3607357e6c5e/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/79526a9e456435df9da00f4fa5c29dd6d3dd65ca0b113ca5cd5d3607357e6c5e/image4.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6cec470b757be2a4e013808596333d2a5b08e43a12c5d937b7f6c5a0cdded5bb/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6cec470b757be2a4e013808596333d2a5b08e43a12c5d937b7f6c5a0cdded5bb/image5.jpg"
+        },
+        {
+          "alt" : "SKY SQR, 517–521  Station Street Box Hill VIC 3128 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2a64358d79d605690cf6b50b54c9e27f1eace04396ebdeda1765e9a2ef0daf3a/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2a64358d79d605690cf6b50b54c9e27f1eace04396ebdeda1765e9a2ef0daf3a/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Building refurbishment commencing soon",
+        "Flagstaff Gardens aspect",
+        "Contiguous floors >7000 sq.m"
+      ],
+      "agencies" : [
+        {
+          "id" : "NEFKXI",
+          "name" : "JLL - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "79205",
+              "name" : "Richard Norman",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e7ea2ee88432e20424f428140d9b9a3101871947d8d60f77f0ec02d719c0f939/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e7ea2ee88432e20424f428140d9b9a3101871947d8d60f77f0ec02d719c0f939/main.jpg"
+            },
+            {
+              "id" : "1410474",
+              "name" : "Alexandra Harper",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/daf875d53dbd8315d58563a311d25a641701702eb9d60e968c42cdaad8ca3db8/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/daf875d53dbd8315d58563a311d25a641701702eb9d60e968c42cdaad8ca3db8/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "2480918",
+              "name" : "Stuart Colquhoun",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/adf43212f25952da66b7a135ebe7718881dfabaf27d45591303b58b4113697e9/main.jpg"
+            },
+            {
+              "id" : "3108292",
+              "name" : "Matthew Kent"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 301,
+      "agents" : [
+        {
+          "name" : "Richard Norman",
+          "avatar" : "https://i1.au.reastatic.net/71x88/e7ea2ee88432e20424f428140d9b9a3101871947d8d60f77f0ec02d719c0f939/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/e7ea2ee88432e20424f428140d9b9a3101871947d8d60f77f0ec02d719c0f939/main.jpg"
+        },
+        {
+          "name" : "Alexandra Harper",
+          "avatar" : "https://i1.au.reastatic.net/71x88/daf875d53dbd8315d58563a311d25a641701702eb9d60e968c42cdaad8ca3db8/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/daf875d53dbd8315d58563a311d25a641701702eb9d60e968c42cdaad8ca3db8/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "566 - 10000 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504274972",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-469-la-trobe-street-melbourne-vic-3000-504274972",
+      "title" : "Brights & Park at Flagstaff Gdns",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "alt" : "CBRE - Melbourne",
+          "logoSize" : "84x63",
+          "brandingColor" : "#003f2d"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "CBRE - Melbourne"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3000",
+        "agencyIds" : "NEFKXI,ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Melbourne",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "NEFKXI,ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "469 La Trobe Street",
+        "postcode" : "3000",
+        "suburb" : "Melbourne",
+        "suburbAddress" : "Melbourne, VIC 3000"
+      },
+      "details" : {
+        "price" : "Please contact one of the appointed agents",
+        "streetAddress" : "469 La Trobe Street",
+        "suburbAddress" : "Melbourne, VIC 3000"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "JLL - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a0aee5844fadc3f84ccb6bc1b39deb898120972a8b8dea9bd9130e31d9911c5b/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a0aee5844fadc3f84ccb6bc1b39deb898120972a8b8dea9bd9130e31d9911c5b/image0.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e90ff6185b61f6e5813ff6deef5e13a673fd4662fdb7c5b0127163c3c6718158/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e90ff6185b61f6e5813ff6deef5e13a673fd4662fdb7c5b0127163c3c6718158/image1.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/49840658423755e0ec60543d23d22f132db1f92ca2cacac7bf7d96e567892098/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/49840658423755e0ec60543d23d22f132db1f92ca2cacac7bf7d96e567892098/image2.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e9af2a9b8716c8162bf3a0f53866592763206c3d3f30f65134b556b01f5302e0/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e9af2a9b8716c8162bf3a0f53866592763206c3d3f30f65134b556b01f5302e0/image3.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/37b4ee47c47802417917e266703c37c1ccbd71d002d559656e603c3525037c3c/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/37b4ee47c47802417917e266703c37c1ccbd71d002d559656e603c3525037c3c/image4.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/59b907d79678199dbcdef188bc0a17097f6b3442e0584fa19c0f3820962acbd4/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/59b907d79678199dbcdef188bc0a17097f6b3442e0584fa19c0f3820962acbd4/image5.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/149a8428173e1338082506add22cf8156c8853f43d305a4855e543376f4b8f27/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/149a8428173e1338082506add22cf8156c8853f43d305a4855e543376f4b8f27/image6.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e7ffbb0a3bbce8bb30bcca366c103dfa2bf51acae081fb8e39327b4c64a1d968/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e7ffbb0a3bbce8bb30bcca366c103dfa2bf51acae081fb8e39327b4c64a1d968/image7.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/895206a3a3c85ab4bea5f15a1403c13ba9163c8716e0355f1acb951be2fefda9/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/895206a3a3c85ab4bea5f15a1403c13ba9163c8716e0355f1acb951be2fefda9/image8.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/83d48e3d64747b19aa178fef5da45c8ffd684e0dc2acd9a30520a7fec48af4f8/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/83d48e3d64747b19aa178fef5da45c8ffd684e0dc2acd9a30520a7fec48af4f8/image9.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/846fc5786aedaa8bfdb02d92c04b8ec200e9229ba687679d0b6093ee07453363/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/846fc5786aedaa8bfdb02d92c04b8ec200e9229ba687679d0b6093ee07453363/image10.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/db5a08bde4f42773598793214c7053761745e8a3665d2dd3a08c0ed960248ddc/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/db5a08bde4f42773598793214c7053761745e8a3665d2dd3a08c0ed960248ddc/image11.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a159bc4ef41b20b41ab456a263fce2b318eb08d45fa7df517b934568ea883e8c/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a159bc4ef41b20b41ab456a263fce2b318eb08d45fa7df517b934568ea883e8c/image12.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2557cc056f3c1229a70a2b4d020f6286b5c3f036bc5e0df11c850d673dd1806a/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2557cc056f3c1229a70a2b4d020f6286b5c3f036bc5e0df11c850d673dd1806a/image13.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e4bdce816468d27581dfcc0ed543c97ee7ba154799d44f13b430db9c57701573/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e4bdce816468d27581dfcc0ed543c97ee7ba154799d44f13b430db9c57701573/image14.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed9045e1fa19dc7fec3c24f2e81a2282ef6c4d40a8bb4b72dd3b6398607eb2e8/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed9045e1fa19dc7fec3c24f2e81a2282ef6c4d40a8bb4b72dd3b6398607eb2e8/image15.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2b6a484c3673845487734d06620e785e4892d6c0b3f9f11c9a105ec60840d832/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b6a484c3673845487734d06620e785e4892d6c0b3f9f11c9a105ec60840d832/image16.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/55a20f8e550334c2f8b430f21d697f6963cb35f29e65039ab7cf3d89509d379f/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/55a20f8e550334c2f8b430f21d697f6963cb35f29e65039ab7cf3d89509d379f/image17.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f473158a23bfbd4549ed3f994c040e0d11bf677dba89ae4c9a245b01c3352199/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f473158a23bfbd4549ed3f994c040e0d11bf677dba89ae4c9a245b01c3352199/image18.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5f4cd9887f814f428e44e9b4862681e6e7e7a1d10152ba2920870fb314e37cbd/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5f4cd9887f814f428e44e9b4862681e6e7e7a1d10152ba2920870fb314e37cbd/image19.jpg"
+        },
+        {
+          "alt" : "469 La Trobe Street Melbourne VIC 3000 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3b18c6c5d90ff18f49f386a3ac9a71a1acc91f2019e06cfa7e4d9ba339ba22b0/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3b18c6c5d90ff18f49f386a3ac9a71a1acc91f2019e06cfa7e4d9ba339ba22b0/image20.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Establish new inhouse café",
+        "40sqm approx.",
+        "Grease trap, exhaust & gas services"
+      ],
+      "agencies" : [
+        {
+          "id" : "VYHKZI",
+          "name" : "CBRE - Gold Coast",
+          "salespeople" : [
+            {
+              "id" : "1767542",
+              "name" : "Tania Moore",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/295a175306b249461cc5ec4d3cb01b48d06335a8aaab0b6baef51e17c2faf931/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/295a175306b249461cc5ec4d3cb01b48d06335a8aaab0b6baef51e17c2faf931/main.jpg"
+            },
+            {
+              "id" : "74973",
+              "name" : "Nick Selbie",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/40ebda7a45188fcc566bf734ba0523d7504c17ea8a1d34726804c4194a0ad0e7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/40ebda7a45188fcc566bf734ba0523d7504c17ea8a1d34726804c4194a0ad0e7/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 427,
+      "agents" : [
+        {
+          "name" : "Tania Moore",
+          "avatar" : "https://i1.au.reastatic.net/71x88/295a175306b249461cc5ec4d3cb01b48d06335a8aaab0b6baef51e17c2faf931/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/295a175306b249461cc5ec4d3cb01b48d06335a8aaab0b6baef51e17c2faf931/main.jpg"
+        },
+        {
+          "name" : "Nick Selbie",
+          "avatar" : "https://i1.au.reastatic.net/71x88/40ebda7a45188fcc566bf734ba0523d7504c17ea8a1d34726804c4194a0ad0e7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/40ebda7a45188fcc566bf734ba0523d7504c17ea8a1d34726804c4194a0ad0e7/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "40 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504195183",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-120-siganto-drive-helensvale-qld-4212-504195183",
+      "title" : "CAFÉ OPPORTUNITY WITHIN NEW OFFICE BUILDING",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4212",
+        "agencyIds" : "VYHKZI",
+        "subscription" : "",
+        "suburb" : "Helensvale",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "VYHKZI"
+        }
+      },
+      "video" : {
+        "youtubeId" : "d3uCHguILE8"
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "120 Siganto Drive",
+        "postcode" : "4212",
+        "suburb" : "Helensvale",
+        "suburbAddress" : "Helensvale, QLD 4212"
+      },
+      "details" : {
+        "price" : "Contact the exclusive leasing agents",
+        "streetAddress" : "120 Siganto Drive",
+        "suburbAddress" : "Helensvale, QLD 4212"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Gold Coast",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/149d93735d9b930ab1918e59b3165414eaea8ec7211b6049c211013c754be7f3/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/149d93735d9b930ab1918e59b3165414eaea8ec7211b6049c211013c754be7f3/image0.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/714eee1eedf9ae2047c65e1d8b8c6786d8dade302a726011cfc584441c996965/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/714eee1eedf9ae2047c65e1d8b8c6786d8dade302a726011cfc584441c996965/image1.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9ee7696baa4c92030a1796b0de595df1d57e46cd8176d5e482b56a6ce7c0f1b7/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9ee7696baa4c92030a1796b0de595df1d57e46cd8176d5e482b56a6ce7c0f1b7/image2.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/27ddea0d2b532b387d177341b1fcef30fe720e4841f82a693ebab7712f3e9533/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/27ddea0d2b532b387d177341b1fcef30fe720e4841f82a693ebab7712f3e9533/image3.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9ab593d6f30c5276a82eb52f9593905e0f226df59c0791df963a771c69f6885b/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9ab593d6f30c5276a82eb52f9593905e0f226df59c0791df963a771c69f6885b/image4.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/51b949f54448e2214f1fb1427066f24ab7e47b94d1053fa97901455fcecf0f9e/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/51b949f54448e2214f1fb1427066f24ab7e47b94d1053fa97901455fcecf0f9e/image5.jpg"
+        },
+        {
+          "alt" : "120 Siganto Drive Helensvale QLD 4212 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/86f8fbdd615995caeb743a442ec65f7748630ee24c6b9b9674b8bdd2854ec6a2/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/86f8fbdd615995caeb743a442ec65f7748630ee24c6b9b9674b8bdd2854ec6a2/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Brand new and high quality fitted suites",
+        "Outstanding light and views",
+        "Club style End of Trip Facilities"
+      ],
+      "agencies" : [
+        {
+          "id" : "CXXSIC",
+          "name" : "Colliers - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "3015775",
+              "name" : "Georgina Murray",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/968b3bc7b5f24d88d70509e0979244313726f14ff47d6389cadef530b056f603/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/968b3bc7b5f24d88d70509e0979244313726f14ff47d6389cadef530b056f603/main.jpg"
+            },
+            {
+              "id" : "1312897",
+              "name" : "Shane Burns",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e666f0154eb4e3ca69bef25ab15baa02904ce2bc9a08f691288c0e4b2aff1f4f/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e666f0154eb4e3ca69bef25ab15baa02904ce2bc9a08f691288c0e4b2aff1f4f/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "DOAWTM",
+          "name" : "Knight Frank  - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "680009",
+              "name" : "James Pappas",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/1accc5a002e285f9fe5276a639bd46c2239a2116fcafddb93fe15629324423a0/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/1accc5a002e285f9fe5276a639bd46c2239a2116fcafddb93fe15629324423a0/main.jpg"
+            },
+            {
+              "id" : "992895",
+              "name" : "Hamish Sutherland",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bcf12fc4415788fd4b33e7391876ffccaa6b73728b084090dc6a52ee9bd765a2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bcf12fc4415788fd4b33e7391876ffccaa6b73728b084090dc6a52ee9bd765a2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 48,
+      "agents" : [
+        {
+          "name" : "Georgina Murray",
+          "avatar" : "https://i1.au.reastatic.net/71x88/968b3bc7b5f24d88d70509e0979244313726f14ff47d6389cadef530b056f603/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/968b3bc7b5f24d88d70509e0979244313726f14ff47d6389cadef530b056f603/main.jpg"
+        },
+        {
+          "name" : "Shane Burns",
+          "avatar" : "https://i1.au.reastatic.net/71x88/e666f0154eb4e3ca69bef25ab15baa02904ce2bc9a08f691288c0e4b2aff1f4f/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/e666f0154eb4e3ca69bef25ab15baa02904ce2bc9a08f691288c0e4b2aff1f4f/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "251 - 625 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504467616",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-140-william-street-melbourne-vic-3000-504467616",
+      "title" : "Fitted Suites in Melbourne Landmark",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5631def7d7ad734e022b814fb7b7081b530df0cd5951d63d1e67be9c9b9ad30a/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/5631def7d7ad734e022b814fb7b7081b530df0cd5951d63d1e67be9c9b9ad30a/large.jpg",
+          "alt" : "Knight Frank  - Melbourne",
+          "logoSize" : "170x32",
+          "brandingColor" : "#d1213c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Knight Frank  - Melbourne"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3000",
+        "agencyIds" : "CXXSIC,DOAWTM",
+        "subscription" : "",
+        "suburb" : "Melbourne",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "CXXSIC,DOAWTM"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "140 William Street",
+        "postcode" : "3000",
+        "suburb" : "Melbourne",
+        "suburbAddress" : "Melbourne, VIC 3000"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "140 William Street",
+        "suburbAddress" : "Melbourne, VIC 3000"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3ddb49d81220bb78015bc54273b26e969ec4bfd17570707118e511a0726ccd52/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3ddb49d81220bb78015bc54273b26e969ec4bfd17570707118e511a0726ccd52/image0.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/877e606346bbe979da511ec7f297298e7e0c1f10fac3faef2d3bed84bc507408/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/877e606346bbe979da511ec7f297298e7e0c1f10fac3faef2d3bed84bc507408/image1.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8ee5df57b5120cf44de884e87136fd8c309c93004eb74ee1790d485931b70ff5/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8ee5df57b5120cf44de884e87136fd8c309c93004eb74ee1790d485931b70ff5/image2.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f8e799a8f160c633374458fa64fe73cbd8f774357d643678c1fb5a8af3fad4ac/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f8e799a8f160c633374458fa64fe73cbd8f774357d643678c1fb5a8af3fad4ac/image3.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b565167ce4e94902d3d72d479897010da895f4afe84398e4a1a2c028193fab63/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b565167ce4e94902d3d72d479897010da895f4afe84398e4a1a2c028193fab63/image4.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/54663a7f28858dbcfd1b25f837ee83cb190373773eeb02ebc4da2627cf1a2063/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/54663a7f28858dbcfd1b25f837ee83cb190373773eeb02ebc4da2627cf1a2063/image5.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8f98531dd602d93a6d805fe9d2777df10d612333bd3446870b8c07ccccdb28cb/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8f98531dd602d93a6d805fe9d2777df10d612333bd3446870b8c07ccccdb28cb/image6.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b3a76155fe039b21690cd32c3f41c9dd63fba74c8cf1e8e87d7be67cc6c296ff/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b3a76155fe039b21690cd32c3f41c9dd63fba74c8cf1e8e87d7be67cc6c296ff/image7.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a99bd059a9a709553126863a6fa30cd4cd5705b46097ea56b910091abaa1aa28/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a99bd059a9a709553126863a6fa30cd4cd5705b46097ea56b910091abaa1aa28/image8.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/da279e31bd172e6fbc227908bded6014a025e2309f6dc19dc71d4f368990f2bb/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/da279e31bd172e6fbc227908bded6014a025e2309f6dc19dc71d4f368990f2bb/image9.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7920da0353fca8c33b2f0887b0f54bbac892f90cb3b8197710d82e849194fcca/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7920da0353fca8c33b2f0887b0f54bbac892f90cb3b8197710d82e849194fcca/image10.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/abc1bf225c882bfa9eada4cb152e02bd3a764f86f47ce747cadc2dd473425577/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/abc1bf225c882bfa9eada4cb152e02bd3a764f86f47ce747cadc2dd473425577/image11.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1ab020fa59279a59f02f9a207a16a5d3dcbc486355c8feaaf1e811cb1d718ad6/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1ab020fa59279a59f02f9a207a16a5d3dcbc486355c8feaaf1e811cb1d718ad6/image12.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a7dc7d525958495ac8cbd57d8661de9923f84e856f51ccb4ddfb9485da8f996/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1a7dc7d525958495ac8cbd57d8661de9923f84e856f51ccb4ddfb9485da8f996/image13.jpg"
+        },
+        {
+          "alt" : "140 William Street Melbourne VIC 3000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6bacc7ac696dd2f7f6f348f2c23615e40a5dffd429148a64f3cad2850dc54bf7/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6bacc7ac696dd2f7f6f348f2c23615e40a5dffd429148a64f3cad2850dc54bf7/image14.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "NSW",
+    "floorArea" : "67 - 1225 m²",
+    "suburb" : "belrose",
+    "proptype" : "offices",
+    "region" : "northern_beaches",
+    "postcode" : "2085",
+    "price" : "Contact Agent"
+  }
+}

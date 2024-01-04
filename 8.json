@@ -1,0 +1,1443 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "On-site parking",
+        "Located within meters to the CBD",
+        "Subject to a variety of uses (STCA)"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "2316402",
+              "name" : "Jason Orenbuch",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg"
+            },
+            {
+              "id" : "2848186",
+              "name" : "Lachie Maynes",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Jason Orenbuch",
+          "avatar" : "https://i1.au.reastatic.net/71x88/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg"
+        },
+        {
+          "name" : "Lachie Maynes",
+          "avatar" : "https://i1.au.reastatic.net/71x88/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "255 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "504462024",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-71-73-victoria-parade-collingwood-vic-3066-504462024",
+      "title" : "PRIME COLLINGWOOD CREATIVE OR MEDICAL SPACE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3066",
+        "agencyIds" : "ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Collingwood",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "71-73 Victoria Parade",
+        "postcode" : "3066",
+        "suburb" : "Collingwood",
+        "suburbAddress" : "Collingwood, VIC 3066"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "71-73 Victoria Parade",
+        "suburbAddress" : "Collingwood, VIC 3066"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cf0f3cbb6f2918f6ddc75408db89c483b11c0fe521875e28b165ac2950362485/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cf0f3cbb6f2918f6ddc75408db89c483b11c0fe521875e28b165ac2950362485/image0.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0bb3e2437e4a568c35ff30a07c9ce1f3cc4330be6b0b409b5f3615ca4d562d2f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0bb3e2437e4a568c35ff30a07c9ce1f3cc4330be6b0b409b5f3615ca4d562d2f/image1.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/afc07cf5beee2a7118407af6505557b13d39934916022ea9f9c81a0947d1e163/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/afc07cf5beee2a7118407af6505557b13d39934916022ea9f9c81a0947d1e163/image2.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f3eb3eca12f26dad626836107c8e29da69edecfa684f4e767d809e6f2344755d/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f3eb3eca12f26dad626836107c8e29da69edecfa684f4e767d809e6f2344755d/image3.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7157be07a63c1f0ef8e805266d983181519bd8aabc2385167a8a4b69f728dead/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7157be07a63c1f0ef8e805266d983181519bd8aabc2385167a8a4b69f728dead/image4.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8d5150836ddd9a84d45f673ebc5e2fcd0cc97cb72852a2ac3e5e1ad1aeca434e/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8d5150836ddd9a84d45f673ebc5e2fcd0cc97cb72852a2ac3e5e1ad1aeca434e/image5.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3028f05d99b7e7e649f5a148354267277b69ec17a85e49361e304081c6a6c3e0/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3028f05d99b7e7e649f5a148354267277b69ec17a85e49361e304081c6a6c3e0/image6.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/88580ed05d2bcb35e3af20ff8c6208cdeaa5a978415952798aa13d1b064c6b24/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/88580ed05d2bcb35e3af20ff8c6208cdeaa5a978415952798aa13d1b064c6b24/image7.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cf8bf196ed5634dd51be834304576d153abb751fabea799aaf00dfbac881c0d5/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cf8bf196ed5634dd51be834304576d153abb751fabea799aaf00dfbac881c0d5/image8.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e40e352578f2afe34f844ecd848c10904c47566b13fe3cf58cf037919d638fcf/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e40e352578f2afe34f844ecd848c10904c47566b13fe3cf58cf037919d638fcf/image9.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bcee7566d5bbdc829ba5e064c8ed9a11ff80031855c238b2fffebf807a78fe80/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bcee7566d5bbdc829ba5e064c8ed9a11ff80031855c238b2fffebf807a78fe80/image10.jpg"
+        },
+        {
+          "alt" : "71-73 Victoria Parade Collingwood VIC 3066 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bba1459c2421321ff1b833b63923615a62f7a494589509112b3609162e0cacc5/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bba1459c2421321ff1b833b63923615a62f7a494589509112b3609162e0cacc5/image11.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Whole Floor Opportunity",
+        "Located within Tally Ho Office Park",
+        "49 On-site Parking Spaces"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "1168227",
+              "name" : "Gianni Macdonald",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg"
+            },
+            {
+              "id" : "3266064",
+              "name" : "Ellie Scala",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 76,
+      "agents" : [
+        {
+          "name" : "Gianni Macdonald",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7bb7a31210e462de4968b9d7f800ee0aa69dc6a5d6682b9099c79a864d11c02d/main.jpg"
+        },
+        {
+          "name" : "Ellie Scala",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6d3e8eb868ef0a2ac9b8e60edc9889a5cb4ed7cd7e29aa869c21992d90f83f23/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1113 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504445348",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-level-3-10-wesley-court-burwood-east-vic-3151-504445348",
+      "title" : "FITTED OFFICE WITH LAKE VIEWS",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3151",
+        "agencyIds" : "ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Burwood East",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "Level 3, 10 Wesley Court",
+        "postcode" : "3151",
+        "suburb" : "Burwood East",
+        "suburbAddress" : "Burwood East, VIC 3151"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Level 3, 10 Wesley Court",
+        "suburbAddress" : "Burwood East, VIC 3151"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c9d75edcdc5d74a8d480de14330dddc2aabb5a9d5f94de84aacee0301c6a8b9d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c9d75edcdc5d74a8d480de14330dddc2aabb5a9d5f94de84aacee0301c6a8b9d/image0.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e1bc9afde8fbd60a07ab34d5582f43e0f272f54337c2d3c6a4a37c92d715009f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e1bc9afde8fbd60a07ab34d5582f43e0f272f54337c2d3c6a4a37c92d715009f/image1.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/15dda58ae4749f78425842ad41abac74be8cd6a7e56a5f7be6f67ba7bef5c578/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/15dda58ae4749f78425842ad41abac74be8cd6a7e56a5f7be6f67ba7bef5c578/image2.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/099a88bf5530f35af5c2b2ef1a69e31d748f5846c4a32c81bb7e9ec83c4dd8b9/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/099a88bf5530f35af5c2b2ef1a69e31d748f5846c4a32c81bb7e9ec83c4dd8b9/image3.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0beb533c81c34bdb9ec8a8e591cf23d9f8bec69612345150dc76bcc5b21064e3/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0beb533c81c34bdb9ec8a8e591cf23d9f8bec69612345150dc76bcc5b21064e3/image4.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb40a860c63ca2e8ee5ded1e130093e19df8c4583579301d5f3c6da277951695/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb40a860c63ca2e8ee5ded1e130093e19df8c4583579301d5f3c6da277951695/image5.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/db8868c859710678c39e423f5295748108803b283596fad6ecae60708037b811/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/db8868c859710678c39e423f5295748108803b283596fad6ecae60708037b811/image6.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/11a901b0c088bdcde7609e7d36dcff7df7176e3e9f0bc848f2942710b4ed9cfc/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/11a901b0c088bdcde7609e7d36dcff7df7176e3e9f0bc848f2942710b4ed9cfc/image7.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/334fdcf9d9651888bd6c74b3704be2f971faae249baf3bb444766d9c1b888d4c/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/334fdcf9d9651888bd6c74b3704be2f971faae249baf3bb444766d9c1b888d4c/image8.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f5ac2da4c4ed541446e6564029074686cdc2abae340e933f84ab7bf0ac584f76/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f5ac2da4c4ed541446e6564029074686cdc2abae340e933f84ab7bf0ac584f76/image9.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/87bb5099b4bb22ad6b2458a2d039b188729ce8c31bbd5bf05253b41d35d760cc/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/87bb5099b4bb22ad6b2458a2d039b188729ce8c31bbd5bf05253b41d35d760cc/image10.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5abc75f823c293bbe99f21cd264c3110a8f86872babf2e155763613ba817e877/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5abc75f823c293bbe99f21cd264c3110a8f86872babf2e155763613ba817e877/image11.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/73c4983a3fa88723cb7c4de0a32aefaded64027551a4216327cc617a900adcd4/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/73c4983a3fa88723cb7c4de0a32aefaded64027551a4216327cc617a900adcd4/image12.jpg"
+        },
+        {
+          "alt" : "Level 3, 10 Wesley Court Burwood East VIC 3151 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ec2b1387201fae76d9dfd8adcf1ff9ed3f9c68977a5f78328af8d71a480557e/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ec2b1387201fae76d9dfd8adcf1ff9ed3f9c68977a5f78328af8d71a480557e/image13.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "BQYNVY",
+          "name" : "Ray White - Morphett Vale | Christies Beach RLA262999",
+          "salespeople" : [
+            {
+              "id" : "2588066",
+              "name" : "Deb Sorensen",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a43495114d5995754efab15bda94f65793cb1cbcc75d2268684eacf6921def57/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a43495114d5995754efab15bda94f65793cb1cbcc75d2268684eacf6921def57/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 134,
+      "agents" : [
+        {
+          "name" : "Deb Sorensen",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a43495114d5995754efab15bda94f65793cb1cbcc75d2268684eacf6921def57/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a43495114d5995754efab15bda94f65793cb1cbcc75d2268684eacf6921def57/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "2000 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504401276",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-25-johansson-road-wingfield-sa-5013-504401276",
+      "title" : "2000 sqm of Superior Built Warehouse",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5013",
+        "agencyIds" : "BQYNVY",
+        "subscription" : "",
+        "suburb" : "Wingfield",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "BQYNVY"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "25 Johansson Road",
+        "postcode" : "5013",
+        "suburb" : "Wingfield",
+        "suburbAddress" : "Wingfield, SA 5013"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "25 Johansson Road",
+        "suburbAddress" : "Wingfield, SA 5013"
+      },
+      "branding" : {
+        "color" : "#ffe512",
+        "logo" : {
+          "alt" : "Ray White - Morphett Vale | Christies Beach RLA262999",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/1b94fa6c2607d0fab15b414d5df9539e5d822bb7a874208619427449f07a5838/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1b94fa6c2607d0fab15b414d5df9539e5d822bb7a874208619427449f07a5838/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f6be5697a725bb37bf258cac1832054663515d9254a5c86d1ab10078a9aabcc1/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f6be5697a725bb37bf258cac1832054663515d9254a5c86d1ab10078a9aabcc1/image0.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb8ed80819ce74982af35fe58e7eb3db20a353a62f3ad87554a1700543b0554e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb8ed80819ce74982af35fe58e7eb3db20a353a62f3ad87554a1700543b0554e/image1.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d29fa88bb2d9d55fb0c9b98856e1e144b8afcebaa66a17a6081abdc903d7a1ff/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d29fa88bb2d9d55fb0c9b98856e1e144b8afcebaa66a17a6081abdc903d7a1ff/image2.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c0e903cecf24f68105141ee5d9dfd4d0f977cf6705f508c6013089636044f53a/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c0e903cecf24f68105141ee5d9dfd4d0f977cf6705f508c6013089636044f53a/image3.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/26955a14fbfa1d6aa3c473c5dc560da86d32b2b8cce3e71271a455b899e36dca/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/26955a14fbfa1d6aa3c473c5dc560da86d32b2b8cce3e71271a455b899e36dca/image4.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9a56078ecc30008133e9d8149f5a3adc99ad5e6c6b02543ecda358e65cb714d0/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9a56078ecc30008133e9d8149f5a3adc99ad5e6c6b02543ecda358e65cb714d0/image5.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/85eb4983af89b792dee3b201b983f593c90c215988b856125ba542a8dff1572e/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/85eb4983af89b792dee3b201b983f593c90c215988b856125ba542a8dff1572e/image6.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ae77bc5140aa3fe4d70b324e31bc201d8a5a7f6319e427fb5f48c047340e1eb3/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ae77bc5140aa3fe4d70b324e31bc201d8a5a7f6319e427fb5f48c047340e1eb3/image7.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e8c2eae477aa8b63b0d819e64c0d304b2d1e8801e00d2009fe4af4c85f635c37/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e8c2eae477aa8b63b0d819e64c0d304b2d1e8801e00d2009fe4af4c85f635c37/image8.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/47816011481c31cbe624dafb25a70e07e7bbf016bc6d20534dfbdb4c7ad181bc/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/47816011481c31cbe624dafb25a70e07e7bbf016bc6d20534dfbdb4c7ad181bc/image9.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bc2f1316d7f99c9cee9ae8fc764ff7427b6090182166d12f90a82c6e0f9daf0b/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc2f1316d7f99c9cee9ae8fc764ff7427b6090182166d12f90a82c6e0f9daf0b/image10.jpg"
+        },
+        {
+          "alt" : "25 Johansson Road Wingfield SA 5013 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/08064ba93cd9ffa0bb70699eff02b86e2645fa2fc7f79288fd8c0dad74ef96bb/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/08064ba93cd9ffa0bb70699eff02b86e2645fa2fc7f79288fd8c0dad74ef96bb/image11.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "HUGE FRONTAGE & EXPOSURE",
+        "SUITS A VARIETY OF RETAIL/OFFICE USES",
+        "ONSITE PARKING"
+      ],
+      "agencies" : [
+        {
+          "id" : "WLIKRU",
+          "name" : "Dawson Real Estate Pty Ltd - Doncaster",
+          "salespeople" : [
+            {
+              "id" : "45127",
+              "name" : "Ben Dawson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4fd17a7222b6cf014d08e7213ad4e384822a9a2d9d36c7a1859ee516fb2728c5/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4fd17a7222b6cf014d08e7213ad4e384822a9a2d9d36c7a1859ee516fb2728c5/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "AMRMEM",
+          "name" : "Gorman Allard Shelton",
+          "salespeople" : [
+            {
+              "id" : "56100",
+              "name" : "Joseph Walton",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4335aae0d5a87157739e7770ed5f3e42397d77e38033e3fbd76308ae341bcce5/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4335aae0d5a87157739e7770ed5f3e42397d77e38033e3fbd76308ae341bcce5/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "Ben Dawson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/4fd17a7222b6cf014d08e7213ad4e384822a9a2d9d36c7a1859ee516fb2728c5/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/4fd17a7222b6cf014d08e7213ad4e384822a9a2d9d36c7a1859ee516fb2728c5/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "474 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Showrooms/Bulky Goods",
+          "Offices"
+        ],
+        "carSpaces" : 8
+      },
+      "id" : "504472428",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-989-995-doncaster-road-doncaster-vic-3108-504472428",
+      "title" : "Open for Inspection: Thursday 14 December 4pm to 4:45pm",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/e78fc52bc6e8dbaaa0d2c50befa857892ed0d7ceacff8622fb02fa9e6a99dd40/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/e78fc52bc6e8dbaaa0d2c50befa857892ed0d7ceacff8622fb02fa9e6a99dd40/large.jpg",
+          "alt" : "Gorman Allard Shelton",
+          "logoSize" : "170x32",
+          "brandingColor" : "#00B1A8"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Gorman Allard Shelton"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3108",
+        "agencyIds" : "WLIKRU,AMRMEM",
+        "subscription" : "",
+        "suburb" : "Doncaster",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "WLIKRU,AMRMEM"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "989-995 Doncaster Road",
+        "postcode" : "3108",
+        "suburb" : "Doncaster",
+        "suburbAddress" : "Doncaster, VIC 3108"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "989-995 Doncaster Road",
+        "suburbAddress" : "Doncaster, VIC 3108"
+      },
+      "branding" : {
+        "color" : "#002942",
+        "logo" : {
+          "alt" : "Dawson Real Estate Pty Ltd - Doncaster",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/5db19acd1f6a8879030325204be266efe4af91f9ceb4e053aed987fad63ced7d/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5db19acd1f6a8879030325204be266efe4af91f9ceb4e053aed987fad63ced7d/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b302feabbb63669b0a153ec4386ec1de370310a269625d62ae0fbe5b8810d077/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b302feabbb63669b0a153ec4386ec1de370310a269625d62ae0fbe5b8810d077/image0.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/26e4c9f3faa43611fa7c4c05209deb1a1def4c88744166dd03334d6b8985b75e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/26e4c9f3faa43611fa7c4c05209deb1a1def4c88744166dd03334d6b8985b75e/image1.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0d0f248e66ecfb94fd7e3374f0df0bf8b1c27677b7dd0257048d64e00ac209eb/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0d0f248e66ecfb94fd7e3374f0df0bf8b1c27677b7dd0257048d64e00ac209eb/image2.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/00d4f3aa9408905c02c6128685d586ff6ebb827c2b56b4e297cb4ec4b29c6c57/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/00d4f3aa9408905c02c6128685d586ff6ebb827c2b56b4e297cb4ec4b29c6c57/image3.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3c15c18498d36d29bfc32774d566a78fff5a1e7a11af60164e7bc8290208c3d1/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3c15c18498d36d29bfc32774d566a78fff5a1e7a11af60164e7bc8290208c3d1/image4.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c7088d008e41daa1fa61c97776fff74c5ff940cbc61ee6ca1fb3b300ae431a8e/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c7088d008e41daa1fa61c97776fff74c5ff940cbc61ee6ca1fb3b300ae431a8e/image5.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ccf619d1176d410518f78dc41b118ac1fa21c92037f638d0291f81aaee4b131/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ccf619d1176d410518f78dc41b118ac1fa21c92037f638d0291f81aaee4b131/image6.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5c99b423dd5d6af0ba947ea93938f268b054254ae4dd67dabc07bc24e7179259/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5c99b423dd5d6af0ba947ea93938f268b054254ae4dd67dabc07bc24e7179259/image7.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/11df7738e4a78c315a0befebf155a83a99f5925c93f2ce65b80f78aa30a95900/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/11df7738e4a78c315a0befebf155a83a99f5925c93f2ce65b80f78aa30a95900/image8.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5bc574bfea5cc372ebf215cc655468c2e3a678fe068ee9ced311c70470a9c84/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b5bc574bfea5cc372ebf215cc655468c2e3a678fe068ee9ced311c70470a9c84/image9.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/076701ba9fabc95979821475e27928fa3b788f61061f371de382062d458445ce/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/076701ba9fabc95979821475e27928fa3b788f61061f371de382062d458445ce/image10.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5a075e722d2a5f312b7f50c29c30c9da02fad0fcb8dd12e68c851b2b7d885150/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5a075e722d2a5f312b7f50c29c30c9da02fad0fcb8dd12e68c851b2b7d885150/image11.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/88dcd25ae9744fbd7d5fdcaa37ba1fd63d00640ae6eb16819f3fbffb0c349b38/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/88dcd25ae9744fbd7d5fdcaa37ba1fd63d00640ae6eb16819f3fbffb0c349b38/image12.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/26bb17dfbed9d6e925b21d6088881505b649e0bcaa27bc4790c7ffe38771751c/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/26bb17dfbed9d6e925b21d6088881505b649e0bcaa27bc4790c7ffe38771751c/image13.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cf746e3a42d3ac609a7891043de5f739df076ba4256d8d5011aae26cd00408f1/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cf746e3a42d3ac609a7891043de5f739df076ba4256d8d5011aae26cd00408f1/image14.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d3b82fe39e36cc43dfb883900f6ecff39dc36e582ff9504892b60382984c3e67/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d3b82fe39e36cc43dfb883900f6ecff39dc36e582ff9504892b60382984c3e67/image15.jpg"
+        },
+        {
+          "alt" : "989-995 Doncaster Road Doncaster VIC 3108 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b41bbc94267a4a4d6db7e2ccb568812553db6737ae916909cf7ed651ce26d827/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b41bbc94267a4a4d6db7e2ccb568812553db6737ae916909cf7ed651ce26d827/image16.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "18m2 Kiosk Available in front of Coles",
+        "64m2 Shop Available, previously a bakery",
+        "Rare opportunity to join Shopping Centre"
+      ],
+      "agencies" : [
+        {
+          "id" : "DYKKMM",
+          "name" : "CLARK Commercial",
+          "salespeople" : [
+            {
+              "id" : "3237860",
+              "name" : "Ryan Chandler",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/08048cc69373048c214f9d50669b1b8eb9c2d71abe5b69e0d45f525e8e9a3703/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/08048cc69373048c214f9d50669b1b8eb9c2d71abe5b69e0d45f525e8e9a3703/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Ryan Chandler",
+          "avatar" : "https://i1.au.reastatic.net/71x88/08048cc69373048c214f9d50669b1b8eb9c2d71abe5b69e0d45f525e8e9a3703/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/08048cc69373048c214f9d50669b1b8eb9c2d71abe5b69e0d45f525e8e9a3703/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "18 - 64 m²",
+        "propertyTypes" : [
+          "Retail"
+        ],
+        "carSpaces" : 900
+      },
+      "id" : "504462444",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-102-pimpama-jacobs-well-road-pimpama-qld-4209-504462444",
+      "title" : "18m2 Kiosk & 64m2 Shop Available | Pimpama City Shopping Centre",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4209",
+        "agencyIds" : "DYKKMM",
+        "subscription" : "",
+        "suburb" : "Pimpama",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "DYKKMM"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "102 Pimpama Jacobs Well Road",
+        "postcode" : "4209",
+        "suburb" : "Pimpama",
+        "suburbAddress" : "Pimpama, QLD 4209"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "102 Pimpama Jacobs Well Road",
+        "suburbAddress" : "Pimpama, QLD 4209"
+      },
+      "branding" : {
+        "color" : "#be1e2d",
+        "logo" : {
+          "alt" : "CLARK Commercial",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1231cf6615e2e50823ea541b18d8b9ce42d196af61a6f35dcc480ef2e1ef5ddf/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1231cf6615e2e50823ea541b18d8b9ce42d196af61a6f35dcc480ef2e1ef5ddf/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/533334aabd7aedccb5d9a889d5d03e4a4666aff564921d7d98988759d8e8a7c3/image0.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/533334aabd7aedccb5d9a889d5d03e4a4666aff564921d7d98988759d8e8a7c3/image0.png"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63309bca96d87c1a3239cca8d1fd98aa1d450f500e799086eba4f13501eb956f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63309bca96d87c1a3239cca8d1fd98aa1d450f500e799086eba4f13501eb956f/image1.jpg"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/57452b7f2918f386740b2267a3569ad9d98a60885748948f5c532fb805ee611b/image2.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/57452b7f2918f386740b2267a3569ad9d98a60885748948f5c532fb805ee611b/image2.png"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9fbc19caa9d475f178cf5ca8ceea77d6f5519091b17674285f923cade0adc5d1/image3.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9fbc19caa9d475f178cf5ca8ceea77d6f5519091b17674285f923cade0adc5d1/image3.png"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7db0dbd4d6c2c301efb7bf9e20615b9a3ab105a1b8f968b5e673a7571d1fd54e/image4.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7db0dbd4d6c2c301efb7bf9e20615b9a3ab105a1b8f968b5e673a7571d1fd54e/image4.png"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/acc7e62b1809ae3de14d2af36a5c550e0eb23777d01c8a13be28b70a971581d8/image5.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/acc7e62b1809ae3de14d2af36a5c550e0eb23777d01c8a13be28b70a971581d8/image5.png"
+        },
+        {
+          "alt" : "102 Pimpama Jacobs Well Road Pimpama QLD 4209 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f08db80edb3e83d3c03b8f32f45e61eeff90740fe98b58020e2dd06ec709b267/image6.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f08db80edb3e83d3c03b8f32f45e61eeff90740fe98b58020e2dd06ec709b267/image6.png"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "420 sqm",
+        "Blank canvas offering outdoor dining",
+        "Loading access"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "2316402",
+              "name" : "Jason Orenbuch",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg"
+            },
+            {
+              "id" : "2848186",
+              "name" : "Lachie Maynes",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Jason Orenbuch",
+          "avatar" : "https://i1.au.reastatic.net/71x88/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/43f03c9bb031fc28ba804886d64365250c7d9957dd2ca1d532d4662a45da79a1/main.jpg"
+        },
+        {
+          "name" : "Lachie Maynes",
+          "avatar" : "https://i1.au.reastatic.net/71x88/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/4938e89798e791ffb66f7a34c66e4f673d88bae9b4385e369f75885ec8bcbba2/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "420 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "504462028",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-1-wellington-street-collingwood-vic-3066-504462028",
+      "title" : "PRIME COLLINGWOOD HOSPITALITY OR SHOWROOM OFFERING",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3066",
+        "agencyIds" : "ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Collingwood",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "1 Wellington Street",
+        "postcode" : "3066",
+        "suburb" : "Collingwood",
+        "suburbAddress" : "Collingwood, VIC 3066"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "1 Wellington Street",
+        "suburbAddress" : "Collingwood, VIC 3066"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/88b0901d2a0fe9eae1b5efeb1b4a0ec38ec11dee7f50163eac813e3fc6bbeaa5/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/88b0901d2a0fe9eae1b5efeb1b4a0ec38ec11dee7f50163eac813e3fc6bbeaa5/image0.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c5cd07b96e795089cb1af2ee5902d7f7e3b7e3744dcdc4dab326f411ecc240f4/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c5cd07b96e795089cb1af2ee5902d7f7e3b7e3744dcdc4dab326f411ecc240f4/image1.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dafb6f8ce1ca50215db63e440465dd187305ecef13774611061db92bc9d38b58/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dafb6f8ce1ca50215db63e440465dd187305ecef13774611061db92bc9d38b58/image2.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/de7fd070a72353cdf744d6985c7b9116b80f480ea5c22513830852433b5202d1/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/de7fd070a72353cdf744d6985c7b9116b80f480ea5c22513830852433b5202d1/image3.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/25e4d6e1e0187c76e024d02ac15cc88d06cdcc2c8aa6d1bd1a73b659691ef952/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/25e4d6e1e0187c76e024d02ac15cc88d06cdcc2c8aa6d1bd1a73b659691ef952/image4.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/98946e0ca1066f7ee70f6bdb2cfc82eec36554099de4bec95b4448aa1689cda6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/98946e0ca1066f7ee70f6bdb2cfc82eec36554099de4bec95b4448aa1689cda6/image5.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0aaf01a6bad13bd8538a4a094aaa7f2b6db0787866755559f7834c3742535fab/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0aaf01a6bad13bd8538a4a094aaa7f2b6db0787866755559f7834c3742535fab/image6.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e40e352578f2afe34f844ecd848c10904c47566b13fe3cf58cf037919d638fcf/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e40e352578f2afe34f844ecd848c10904c47566b13fe3cf58cf037919d638fcf/image7.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bcee7566d5bbdc829ba5e064c8ed9a11ff80031855c238b2fffebf807a78fe80/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bcee7566d5bbdc829ba5e064c8ed9a11ff80031855c238b2fffebf807a78fe80/image8.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bba1459c2421321ff1b833b63923615a62f7a494589509112b3609162e0cacc5/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bba1459c2421321ff1b833b63923615a62f7a494589509112b3609162e0cacc5/image9.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fab8b77eb13aa74e1efe94a1ffa77aa1c0e6fb53adb8f1ca1745a44f4aac9716/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fab8b77eb13aa74e1efe94a1ffa77aa1c0e6fb53adb8f1ca1745a44f4aac9716/image10.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9b72ec61deec0321263f4efe56a76cec6fd346ced9929ef0e3831ccaa88645b9/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9b72ec61deec0321263f4efe56a76cec6fd346ced9929ef0e3831ccaa88645b9/image11.jpg"
+        },
+        {
+          "alt" : "1 Wellington Street Collingwood VIC 3066 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/97769b1d6add97f5325f188a77fabb32199a5940e7cfe8d672c4321de6a3d5e5/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/97769b1d6add97f5325f188a77fabb32199a5940e7cfe8d672c4321de6a3d5e5/image12.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Offered With Vacant Possession",
+        "Versatile E3 Productivity Support Zoning",
+        "Showroom, Warehouse, Yard & Office"
+      ],
+      "agencies" : [
+        {
+          "id" : "XFNBAE",
+          "name" : "Niemeyer Commercial Industrial Property",
+          "salespeople" : [
+            {
+              "id" : "109131",
+              "name" : "Emilios Michael",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/eea2d3193d3dd7091a16db25ffb9396b3dcec8039b85936f0dd7aa31544b3277/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/eea2d3193d3dd7091a16db25ffb9396b3dcec8039b85936f0dd7aa31544b3277/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "STALIV",
+          "name" : "Benchmark National - Moorebank",
+          "salespeople" : [
+            {
+              "id" : "619561",
+              "name" : "Vince Tripodina",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/47662984fabc5282b5c620f14065e647dccb22c04aa32199b00714eebe5a7295/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/47662984fabc5282b5c620f14065e647dccb22c04aa32199b00714eebe5a7295/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 62,
+      "agents" : [
+        {
+          "name" : "Emilios Michael",
+          "avatar" : "https://i1.au.reastatic.net/71x88/eea2d3193d3dd7091a16db25ffb9396b3dcec8039b85936f0dd7aa31544b3277/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/eea2d3193d3dd7091a16db25ffb9396b3dcec8039b85936f0dd7aa31544b3277/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "3396 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Land/Development",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504456636",
+      "hasTour" : false,
+      "pdpUrl" : "/for-sale/property-2-ironbark-avenue-camden-nsw-2570-504456636?listingType=rent",
+      "title" : "OUTSTANDING COMMERCIAL OPPORTUNITY",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/95960cebbabe86a39917b82b280f326c1a883f81ab6a4f645a284447175e2f49/large.gif",
+          "logo" : "https://i1.au.reastatic.net/170x32/95960cebbabe86a39917b82b280f326c1a883f81ab6a4f645a284447175e2f49/large.gif",
+          "alt" : "Benchmark National - Moorebank",
+          "logoSize" : "170x32",
+          "brandingColor" : "#6B1516"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Benchmark National - Moorebank"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for sale or lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2570",
+        "agencyIds" : "XFNBAE,STALIV",
+        "subscription" : "",
+        "suburb" : "Camden",
+        "imageCarousel" : {
+          "channel" : "for sale or lease:vacant",
+          "agencyIds" : "XFNBAE,STALIV"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "2 Ironbark Avenue",
+        "postcode" : "2570",
+        "suburb" : "Camden",
+        "suburbAddress" : "Camden, NSW 2570"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "2 Ironbark Avenue",
+        "suburbAddress" : "Camden, NSW 2570"
+      },
+      "branding" : {
+        "color" : "#e76c1f",
+        "logo" : {
+          "alt" : "Niemeyer Commercial Industrial Property",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/c2da18d276353fb79c81487c0a5548b84751de4d849d3866fdc01b92562f1412/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c2da18d276353fb79c81487c0a5548b84751de4d849d3866fdc01b92562f1412/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ef072429cb18af928652c2e55e43d7c667960a19d0423e9efc9ee89b7a1ffc37/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ef072429cb18af928652c2e55e43d7c667960a19d0423e9efc9ee89b7a1ffc37/image0.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/75393e5c4cc0cb4e4ad72f74ff3b276de909f53fcc704b565f9a9220fa3a6350/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/75393e5c4cc0cb4e4ad72f74ff3b276de909f53fcc704b565f9a9220fa3a6350/image1.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9b0f64a9dbc89e54d2d2134f592fffbc180c957543fea231dcaf1608b7606061/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9b0f64a9dbc89e54d2d2134f592fffbc180c957543fea231dcaf1608b7606061/image2.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/348e589940d57efaf89a2042e9e4c65efe2472bb90915bd02e742bc6fcde7511/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/348e589940d57efaf89a2042e9e4c65efe2472bb90915bd02e742bc6fcde7511/image3.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2b72ebce01ae5e57bc810a9c04b22d2aebfccf0160ef7fa9c30ea46c5bfaa90d/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b72ebce01ae5e57bc810a9c04b22d2aebfccf0160ef7fa9c30ea46c5bfaa90d/image4.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a87ae73f58a9005c544a0f4b54bed8537bfe907e2a8c7802a74553d9b709102b/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a87ae73f58a9005c544a0f4b54bed8537bfe907e2a8c7802a74553d9b709102b/image5.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/28356a1f5bb30cee8726d4b9a053e5cd6956fcee01f960d56354a056ac4352aa/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/28356a1f5bb30cee8726d4b9a053e5cd6956fcee01f960d56354a056ac4352aa/image6.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2fd52115a95b4ad4d2644c82f356aa7a007f0e958f92e8f18fb429d6d253a22b/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2fd52115a95b4ad4d2644c82f356aa7a007f0e958f92e8f18fb429d6d253a22b/image7.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/afe6613b7b0fac2c48785800811318bd06a5715970062f8324a7de346f40e58e/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/afe6613b7b0fac2c48785800811318bd06a5715970062f8324a7de346f40e58e/image8.jpg"
+        },
+        {
+          "alt" : "2 Ironbark Avenue Camden NSW 2570 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9931bf25d131ebc79964937250b03204ecc147c48d8f15fce87781d35db8745e/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9931bf25d131ebc79964937250b03204ecc147c48d8f15fce87781d35db8745e/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "DBPSUR",
+          "name" : "X Commercial - Surry Hills",
+          "salespeople" : [
+            {
+              "id" : "42059",
+              "name" : "Nelson Ferreira",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9b6c5f1184658931a6133ec1b4bef46110b05f310ce0cad744aa22e0ffb35892/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9b6c5f1184658931a6133ec1b4bef46110b05f310ce0cad744aa22e0ffb35892/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 202,
+      "agents" : [
+        {
+          "name" : "Nelson Ferreira",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9b6c5f1184658931a6133ec1b4bef46110b05f310ce0cad744aa22e0ffb35892/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9b6c5f1184658931a6133ec1b4bef46110b05f310ce0cad744aa22e0ffb35892/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "170 m²",
+        "propertyTypes" : [
+          "Offices"
+        ],
+        "carSpaces" : 1
+      },
+      "id" : "504348780",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-487-elizabeth-street-surry-hills-nsw-2010-504348780",
+      "title" : "Outstanding Office with Terrace & Balcony",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2010",
+        "agencyIds" : "DBPSUR",
+        "subscription" : "",
+        "suburb" : "Surry Hills",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "DBPSUR"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "487 Elizabeth Street",
+        "postcode" : "2010",
+        "suburb" : "Surry Hills",
+        "suburbAddress" : "Surry Hills, NSW 2010"
+      },
+      "details" : {
+        "price" : "Price on Application",
+        "streetAddress" : "487 Elizabeth Street",
+        "suburbAddress" : "Surry Hills, NSW 2010"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "X Commercial - Surry Hills",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/172acc2235d794ab581cf8958eea7b817a0ae582471421ad5f853c3f04e68aca/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/172acc2235d794ab581cf8958eea7b817a0ae582471421ad5f853c3f04e68aca/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/396b478578988d65ce7d7859f20b5d10e2ebf5223a9f744a41526c4c64d41a7b/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/396b478578988d65ce7d7859f20b5d10e2ebf5223a9f744a41526c4c64d41a7b/image0.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e23ec416dda1293aa350f28171df033f64ccfc7255d0de7935bc2b5d7db5aa11/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e23ec416dda1293aa350f28171df033f64ccfc7255d0de7935bc2b5d7db5aa11/image1.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e4721e6ece4446c20b923b40ab656d1bba3dcbfe03af55be4105a0e1705398ae/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e4721e6ece4446c20b923b40ab656d1bba3dcbfe03af55be4105a0e1705398ae/image2.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fcc18398743557f190901e7032eb0f054d7986619cb4dbd25f65417291c51871/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fcc18398743557f190901e7032eb0f054d7986619cb4dbd25f65417291c51871/image3.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ddb596abd79096f7030b8624673691d8af3123f643edd2cbb6ff27b1fcb1b7f/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ddb596abd79096f7030b8624673691d8af3123f643edd2cbb6ff27b1fcb1b7f/image4.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7915fcde4260181b18a87af122e41aa47d52098c4a57ddc74c0321f782650bc8/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7915fcde4260181b18a87af122e41aa47d52098c4a57ddc74c0321f782650bc8/image5.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2bd75e02c2e150b13998a32bdc5d914a56f34d1ce009baa86651e47179569f78/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2bd75e02c2e150b13998a32bdc5d914a56f34d1ce009baa86651e47179569f78/image6.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/83336e3c234844dfbe7b63966ce8df618e84ec383aa44b538b32655e53ec7758/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/83336e3c234844dfbe7b63966ce8df618e84ec383aa44b538b32655e53ec7758/image7.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/090576e3d31d76932715f04253efd0b57e71c732686269b3b2d806d29341f9a9/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/090576e3d31d76932715f04253efd0b57e71c732686269b3b2d806d29341f9a9/image8.jpg"
+        },
+        {
+          "alt" : "487 Elizabeth Street Surry Hills NSW 2010 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/29667d82b22da64ba539ad716405cde1ef5eab251ecbc3ff8e4c3701ff8ab08e/image9.png",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/29667d82b22da64ba539ad716405cde1ef5eab251ecbc3ff8e4c3701ff8ab08e/image9.png"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "CSXSOU",
+          "name" : "Commercial Property Group - Southern Sydney",
+          "salespeople" : [
+            {
+              "id" : "2489254",
+              "name" : "Jackson Chambers",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/49f209c834f4a0da4160873cb81b186f8ddc235a1492c37952943666ca7feaeb/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/49f209c834f4a0da4160873cb81b186f8ddc235a1492c37952943666ca7feaeb/main.jpg"
+            },
+            {
+              "id" : "2331586",
+              "name" : "Greg Carr",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/06d602f1eb9e5a3048e347c7ee6ba4fa9ce43ee7dbb886a367f643b514bd956c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/06d602f1eb9e5a3048e347c7ee6ba4fa9ce43ee7dbb886a367f643b514bd956c/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Jackson Chambers",
+          "avatar" : "https://i1.au.reastatic.net/71x88/49f209c834f4a0da4160873cb81b186f8ddc235a1492c37952943666ca7feaeb/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/49f209c834f4a0da4160873cb81b186f8ddc235a1492c37952943666ca7feaeb/main.jpg"
+        },
+        {
+          "name" : "Greg Carr",
+          "avatar" : "https://i1.au.reastatic.net/71x88/06d602f1eb9e5a3048e347c7ee6ba4fa9ce43ee7dbb886a367f643b514bd956c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/06d602f1eb9e5a3048e347c7ee6ba4fa9ce43ee7dbb886a367f643b514bd956c/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "586 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504476828",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-76-planthurst-road-carlton-nsw-2218-504476828",
+      "title" : "Rare 586m²* Freestanding Warehouse Opportunity | For Lease",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2218",
+        "agencyIds" : "CSXSOU",
+        "subscription" : "",
+        "suburb" : "Carlton",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "CSXSOU"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "76 Planthurst Road",
+        "postcode" : "2218",
+        "suburb" : "Carlton",
+        "suburbAddress" : "Carlton, NSW 2218"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "76 Planthurst Road",
+        "suburbAddress" : "Carlton, NSW 2218"
+      },
+      "branding" : {
+        "color" : "#ffffff",
+        "logo" : {
+          "alt" : "Commercial Property Group - Southern Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/87e437ac87eb6a8b8e4c02d67ade037511df6f1a2fef70a4c525bc19fb1cfe91/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/87e437ac87eb6a8b8e4c02d67ade037511df6f1a2fef70a4c525bc19fb1cfe91/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "76 Planthurst Road Carlton NSW 2218 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/554c416d3434308e26be374fb6e494a38d4a3ffcbc9b1eb9ddfba5feaed38528/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/554c416d3434308e26be374fb6e494a38d4a3ffcbc9b1eb9ddfba5feaed38528/image0.jpg"
+        },
+        {
+          "alt" : "76 Planthurst Road Carlton NSW 2218 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ef01560ddab6cca0759c77b13793d2fd6dfb54f86fa7e2511bb04c0690add76f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ef01560ddab6cca0759c77b13793d2fd6dfb54f86fa7e2511bb04c0690add76f/image1.jpg"
+        },
+        {
+          "alt" : "76 Planthurst Road Carlton NSW 2218 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f972941216bfbafd993ac361bb3910bbd66fd379c8bf93848a4c720f2e319d85/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f972941216bfbafd993ac361bb3910bbd66fd379c8bf93848a4c720f2e319d85/image2.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Exposure to 39,000 vehicles per day",
+        "Incentives available",
+        "71sqm to 142sqm available"
+      ],
+      "agencies" : [
+        {
+          "id" : "XRWXPZ",
+          "name" : "RWC  - QUEENSLAND     ",
+          "salespeople" : [
+            {
+              "id" : "1748518",
+              "name" : "Elliot Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+            },
+            {
+              "id" : "1476158",
+              "name" : "Stephen Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "XZATPW",
+          "name" : "Dexus",
+          "salespeople" : [
+            {
+              "id" : "1723630",
+              "name" : "Cameron Haddad",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 111,
+      "agents" : [
+        {
+          "name" : "Elliot Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+        },
+        {
+          "name" : "Stephen Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "71 - 142 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting",
+          "Offices"
+        ],
+        "carSpaces" : 29
+      },
+      "id" : "504418808",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-3201-old-cleveland-road-chandler-qld-4155-504418808",
+      "title" : "Last remaining vacancies at high performing service centre - rents from $700 per week + outgoings",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "logo" : "https://i1.au.reastatic.net/84x63/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "alt" : "Dexus",
+          "logoSize" : "84x63",
+          "brandingColor" : "#1e1d1c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Dexus"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4155",
+        "agencyIds" : "XRWXPZ,XZATPW",
+        "subscription" : "",
+        "suburb" : "Chandler",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XRWXPZ,XZATPW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "3201 Old Cleveland Road",
+        "postcode" : "4155",
+        "suburb" : "Chandler",
+        "suburbAddress" : "Chandler, QLD 4155"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "3201 Old Cleveland Road",
+        "suburbAddress" : "Chandler, QLD 4155"
+      },
+      "branding" : {
+        "color" : "#FFE512",
+        "logo" : {
+          "alt" : "RWC  - QUEENSLAND     ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ccd19700ad3bc5d0158ac62fd9089b4a3f2af30116454dddd32ec76d7d0624f8/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ccd19700ad3bc5d0158ac62fd9089b4a3f2af30116454dddd32ec76d7d0624f8/image0.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1aa4bba707610d8d68ec9ffae4778d1835555421f512531c1ad17a6ac43cf58a/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1aa4bba707610d8d68ec9ffae4778d1835555421f512531c1ad17a6ac43cf58a/image1.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d0393d1964b35f175198202affcec4e92448d794352dc6fe55213d1d308f40d6/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d0393d1964b35f175198202affcec4e92448d794352dc6fe55213d1d308f40d6/image2.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/68e8db83108c53d809fc6270f0a3e0e7f92c4fa835f70b56e66cc5d6ec579eb9/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/68e8db83108c53d809fc6270f0a3e0e7f92c4fa835f70b56e66cc5d6ec579eb9/image3.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aab2adc7ffe27e02a6a64054456d72b1f001916bf40f2c113a7046dbb6277cf5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aab2adc7ffe27e02a6a64054456d72b1f001916bf40f2c113a7046dbb6277cf5/image4.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/40f54340bcaa5612e642042b450ea0869592398ab0ea91eaafabe50135f9405d/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/40f54340bcaa5612e642042b450ea0869592398ab0ea91eaafabe50135f9405d/image5.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/25e46b0832f6b6084e217209acc0e633d3bc3c528aa2663ecff7e2b2ec69c7f3/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/25e46b0832f6b6084e217209acc0e633d3bc3c528aa2663ecff7e2b2ec69c7f3/image6.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e79cb7d5b5ecdbc021add9cbe2a79c23c996f82af02dcba30d45810589c0c026/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e79cb7d5b5ecdbc021add9cbe2a79c23c996f82af02dcba30d45810589c0c026/image7.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "VIC",
+    "floorArea" : "255 m²",
+    "suburb" : "collingwood",
+    "proptype" : "retail",
+    "region" : "melbourne_city___greater_region",
+    "postcode" : "3066",
+    "price" : "Contact Agent"
+  }
+}

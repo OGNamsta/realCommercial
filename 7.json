@@ -1,0 +1,1573 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "Affordable Rent and Fitted Suite",
+        "Flooded with Natural Light",
+        "Superb Retail Amenity"
+      ],
+      "agencies" : [
+        {
+          "id" : "WRKNEW",
+          "name" : "Cushman & Wakefield - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "3102039",
+              "name" : "Jack Neumann",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bd9241f519cd5630611af685a47d3243db31dad3588208bf4732c7b3cc9dffb7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bd9241f519cd5630611af685a47d3243db31dad3588208bf4732c7b3cc9dffb7/main.jpg"
+            },
+            {
+              "id" : "2030546",
+              "name" : "Billy Miller",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7b8c55b17a8090e53cf734d188c5055ed8f6fcb3c9385767a3c187ec22ed88c7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8c55b17a8090e53cf734d188c5055ed8f6fcb3c9385767a3c187ec22ed88c7/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Jack Neumann",
+          "avatar" : "https://i1.au.reastatic.net/71x88/bd9241f519cd5630611af685a47d3243db31dad3588208bf4732c7b3cc9dffb7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/bd9241f519cd5630611af685a47d3243db31dad3588208bf4732c7b3cc9dffb7/main.jpg"
+        },
+        {
+          "name" : "Billy Miller",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7b8c55b17a8090e53cf734d188c5055ed8f6fcb3c9385767a3c187ec22ed88c7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8c55b17a8090e53cf734d188c5055ed8f6fcb3c9385767a3c187ec22ed88c7/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "300 - 439 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504476808",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-33-remora-road-hamilton-qld-4007-504476808",
+      "title" : "Fitted office suite in the heart of Hamilton",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4007",
+        "agencyIds" : "WRKNEW",
+        "subscription" : "",
+        "suburb" : "Hamilton",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "WRKNEW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "33 Remora Road",
+        "postcode" : "4007",
+        "suburb" : "Hamilton",
+        "suburbAddress" : "Hamilton, QLD 4007"
+      },
+      "details" : {
+        "price" : "Contact Agents",
+        "streetAddress" : "33 Remora Road",
+        "suburbAddress" : "Hamilton, QLD 4007"
+      },
+      "branding" : {
+        "color" : "#e4002b",
+        "logo" : {
+          "alt" : "Cushman & Wakefield - Brisbane",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2e6cd75fc1cc6144554887dbac82a762f55e00b88d4dd4964d08d01ec6052c32/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2e6cd75fc1cc6144554887dbac82a762f55e00b88d4dd4964d08d01ec6052c32/image0.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/021d4bf016e55d0b8af0ff78a7971cbd0cde19205efe0847d4681185dbc57913/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/021d4bf016e55d0b8af0ff78a7971cbd0cde19205efe0847d4681185dbc57913/image1.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9677490fcd4f378dad936153f4f9572c099e636692f6e59cdb45e405b42ab7a7/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9677490fcd4f378dad936153f4f9572c099e636692f6e59cdb45e405b42ab7a7/image2.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ba189b56600d87c9d5c9b1719460a71595e14c76aa718415718f6108b3740e4d/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ba189b56600d87c9d5c9b1719460a71595e14c76aa718415718f6108b3740e4d/image3.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/624a8d4349195a0252c9a7597b6f712cbfa70be9bf7aaa4c24211de9c613a817/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/624a8d4349195a0252c9a7597b6f712cbfa70be9bf7aaa4c24211de9c613a817/image4.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fb147704ae1a6e7a5ccd3cefc965f0b785bcb53d91d2d6033e04c5821bb9fdb1/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fb147704ae1a6e7a5ccd3cefc965f0b785bcb53d91d2d6033e04c5821bb9fdb1/image5.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/46148701a7d460d6a2964dc915a6f6f375f7017639f9d8ce8dc1a322334f8711/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/46148701a7d460d6a2964dc915a6f6f375f7017639f9d8ce8dc1a322334f8711/image6.jpg"
+        },
+        {
+          "alt" : "33 Remora Road Hamilton QLD 4007 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/70045d2cdaa69736c059bf528898fc4a4304b5de08d35eaf33ee2ad7f2f3ca37/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/70045d2cdaa69736c059bf528898fc4a4304b5de08d35eaf33ee2ad7f2f3ca37/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Zoned Highway Commercial",
+        "Showrooms between 500sqm and 10,000sqm*",
+        "Homemaker Centre"
+      ],
+      "agencies" : [
+        {
+          "id" : "DSLBPI",
+          "name" : "Colliers International - Perth",
+          "salespeople" : [
+            {
+              "id" : "2925743",
+              "name" : "Hadley Missell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/12e4863133fe1df30f9f970048bef6542edfd173546d07590056109fb0d8fba5/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/12e4863133fe1df30f9f970048bef6542edfd173546d07590056109fb0d8fba5/main.jpg"
+            },
+            {
+              "id" : "3218972",
+              "name" : "Joel Humich",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/19686549c71e4a678c1555700577223a5a8d6c017edceb913ae7894abd9dd0e2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/19686549c71e4a678c1555700577223a5a8d6c017edceb913ae7894abd9dd0e2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 294,
+      "agents" : [
+        {
+          "name" : "Hadley Missell",
+          "avatar" : "https://i1.au.reastatic.net/71x88/12e4863133fe1df30f9f970048bef6542edfd173546d07590056109fb0d8fba5/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/12e4863133fe1df30f9f970048bef6542edfd173546d07590056109fb0d8fba5/main.jpg"
+        },
+        {
+          "name" : "Joel Humich",
+          "avatar" : "https://i1.au.reastatic.net/71x88/19686549c71e4a678c1555700577223a5a8d6c017edceb913ae7894abd9dd0e2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/19686549c71e4a678c1555700577223a5a8d6c017edceb913ae7894abd9dd0e2/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "500 - 10000 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504279488",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-homeport-geraldton-lot-206-horwood-road-geraldton-wa-6530-504279488",
+      "title" : "HomePort Geraldton For Lease",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "WA",
+        "postcode" : "6530",
+        "agencyIds" : "DSLBPI",
+        "subscription" : "",
+        "suburb" : "Geraldton",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "DSLBPI"
+        }
+      },
+      "address" : {
+        "state" : "WA",
+        "streetAddress" : "HomePort Geraldton Lot 206 Horwood Road",
+        "postcode" : "6530",
+        "suburb" : "Geraldton",
+        "suburbAddress" : "Geraldton, WA 6530"
+      },
+      "details" : {
+        "price" : "Contact Leasing Agent for Further Information",
+        "streetAddress" : "HomePort Geraldton Lot 206 Horwood Road",
+        "suburbAddress" : "Geraldton, WA 6530"
+      },
+      "branding" : {
+        "color" : "#25408F",
+        "logo" : {
+          "alt" : "Colliers International - Perth",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/885db9ef5eaf9951964d5d741bec3e8ccd706e78a9bc9d23c2cc672e6d4a05da/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/885db9ef5eaf9951964d5d741bec3e8ccd706e78a9bc9d23c2cc672e6d4a05da/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f6638b8cfd1be6533b77545ca7a8b0d4c652f42625b71f8875dae3433bc50dd3/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f6638b8cfd1be6533b77545ca7a8b0d4c652f42625b71f8875dae3433bc50dd3/image0.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7909cf10fd689d6272199a7e53758246bf63a9fb679e3927b0b8ecd5fd25e77f/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7909cf10fd689d6272199a7e53758246bf63a9fb679e3927b0b8ecd5fd25e77f/image1.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5c5d83f1b091cc04c298845bc44d89a1bb850b3a1a960ae4a7e5164712e896f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b5c5d83f1b091cc04c298845bc44d89a1bb850b3a1a960ae4a7e5164712e896f/image2.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7b8ca0d5c245b353f99442f14211c225ed9d861f88f0182a95fa03120782c397/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7b8ca0d5c245b353f99442f14211c225ed9d861f88f0182a95fa03120782c397/image3.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/eb4b959213ee1441d9715322951a7352ae2d42533befe0f87076406810ff0211/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eb4b959213ee1441d9715322951a7352ae2d42533befe0f87076406810ff0211/image4.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/83fc9f9165a86c2865ecf9196159a742d2317205cb102136ca20c1ed97d44599/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/83fc9f9165a86c2865ecf9196159a742d2317205cb102136ca20c1ed97d44599/image5.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/26d81270d1c8c0baba088a1ce06a8947926631bc474ec1b91f6ec7377591748b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/26d81270d1c8c0baba088a1ce06a8947926631bc474ec1b91f6ec7377591748b/image6.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/83d1145236f606efcb61243615f4771c4bb35fec593be3b94cdfc66f8a932be4/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/83d1145236f606efcb61243615f4771c4bb35fec593be3b94cdfc66f8a932be4/image7.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e44928f2eae51dd51d14be6baa6e15d7a2fa17f0afe1aa644f9e7fe89d5e348d/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e44928f2eae51dd51d14be6baa6e15d7a2fa17f0afe1aa644f9e7fe89d5e348d/image8.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aecfdc6375dfec231fb9e642bab7d74d7fce4060fcbdd98418ca2330ad2daaa2/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aecfdc6375dfec231fb9e642bab7d74d7fce4060fcbdd98418ca2330ad2daaa2/image9.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c3795314ff14e7481edd1299683bd65ccd15318eadd8be8972024006ce1e8619/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c3795314ff14e7481edd1299683bd65ccd15318eadd8be8972024006ce1e8619/image10.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f7ef9222fdd41bdcfdfe2cb731ac2f57f1fc3928c46ac1f1e48646c655d3cdce/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f7ef9222fdd41bdcfdfe2cb731ac2f57f1fc3928c46ac1f1e48646c655d3cdce/image11.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/53b69863120adc5ebcd078861f91da779cd6f1b85c3454e40215d6194c5e0061/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/53b69863120adc5ebcd078861f91da779cd6f1b85c3454e40215d6194c5e0061/image12.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/612f4c8313ce4a13f639a43637ad99832da633ecf613fd25d11771ebc2b15bfa/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/612f4c8313ce4a13f639a43637ad99832da633ecf613fd25d11771ebc2b15bfa/image13.jpg"
+        },
+        {
+          "alt" : "HomePort Geraldton Lot 206 Horwood Road Geraldton WA 6530 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4f79d2b88894a8c39300f827b02d00adaeece12f44ef1816b0476868222ed9d0/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4f79d2b88894a8c39300f827b02d00adaeece12f44ef1816b0476868222ed9d0/image14.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Completed and Ready For Business",
+        "Convenient Rouse Hill Location",
+        "24/7 Access"
+      ],
+      "agencies" : [
+        {
+          "id" : "XRWPEO",
+          "name" : "PRD Norwest -   ",
+          "salespeople" : [
+            {
+              "id" : "53860",
+              "name" : "Adam Bragg",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/c2f4eccf007ee473e225d7033269fc83583a520ae2398beda9dc3ce5ebc606d3/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/c2f4eccf007ee473e225d7033269fc83583a520ae2398beda9dc3ce5ebc606d3/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 349,
+      "agents" : [
+        {
+          "name" : "Adam Bragg",
+          "avatar" : "https://i1.au.reastatic.net/71x88/c2f4eccf007ee473e225d7033269fc83583a520ae2398beda9dc3ce5ebc606d3/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/c2f4eccf007ee473e225d7033269fc83583a520ae2398beda9dc3ce5ebc606d3/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "57 - 1126 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Retail",
+          "Other"
+        ]
+      },
+      "id" : "504237196",
+      "hasTour" : false,
+      "pdpUrl" : "/for-sale/property-5-money-close-rouse-hill-nsw-2155-504237196?listingType=rent",
+      "title" : "CAFE and High Exposure Units - FOR SALE OR LEASE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for sale or lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2155",
+        "agencyIds" : "XRWPEO",
+        "subscription" : "",
+        "suburb" : "Rouse Hill",
+        "imageCarousel" : {
+          "channel" : "for sale or lease:vacant",
+          "agencyIds" : "XRWPEO"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "5 Money Close",
+        "postcode" : "2155",
+        "suburb" : "Rouse Hill",
+        "suburbAddress" : "Rouse Hill, NSW 2155"
+      },
+      "details" : {
+        "price" : "CONTACT AGENT",
+        "streetAddress" : "5 Money Close",
+        "suburbAddress" : "Rouse Hill, NSW 2155"
+      },
+      "branding" : {
+        "color" : "#d0cdcd",
+        "logo" : {
+          "alt" : "PRD Norwest -   ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/201fcd81936f7be3e878f6773e3b608a8a347b556fd6d4d129afc3a7f218d684/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/201fcd81936f7be3e878f6773e3b608a8a347b556fd6d4d129afc3a7f218d684/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/59cb6ecc18321d5df831abd81491bd7ed994e5a5b571bb18bce028de81284240/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/59cb6ecc18321d5df831abd81491bd7ed994e5a5b571bb18bce028de81284240/image0.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8e9277ab2a3c9d303bb8564a9b4712ea530ca7015ca63fd159ab328c4334ca9e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e9277ab2a3c9d303bb8564a9b4712ea530ca7015ca63fd159ab328c4334ca9e/image1.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f892df69251149206717096c9be17b588ae5b451019eeed55a14a80424e9a316/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f892df69251149206717096c9be17b588ae5b451019eeed55a14a80424e9a316/image2.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bf4a31a610179a077d67a0e75d62c29bf6c695bf546f88bdb0d4a61076fc8622/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bf4a31a610179a077d67a0e75d62c29bf6c695bf546f88bdb0d4a61076fc8622/image3.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f9dbc756be0a81703a6286846c36cbd886a980bc70043ac2719a0901fa2fcd78/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f9dbc756be0a81703a6286846c36cbd886a980bc70043ac2719a0901fa2fcd78/image4.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aba5446eada79218ca32b43be77c59a7bf38762f5d774a902f0077fb301f45b1/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aba5446eada79218ca32b43be77c59a7bf38762f5d774a902f0077fb301f45b1/image5.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b14ac461d5810c6375bef323a1a5cce57c89bb73d13b11244542f15e292910b3/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b14ac461d5810c6375bef323a1a5cce57c89bb73d13b11244542f15e292910b3/image6.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/db415fe4bb117afa7686e778c4d00c92ce119f4155bc756d00e3bfa277c1694e/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/db415fe4bb117afa7686e778c4d00c92ce119f4155bc756d00e3bfa277c1694e/image7.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f872408874563128459581a6781bf5ae55694a7e688de1e5cc6851820e8ec56a/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f872408874563128459581a6781bf5ae55694a7e688de1e5cc6851820e8ec56a/image8.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c56df8973cc9b09c8437d188b89a948b028f31a4f57c21d8033d5298633aeaae/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c56df8973cc9b09c8437d188b89a948b028f31a4f57c21d8033d5298633aeaae/image9.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/28002144d92a351b32e2a7beabafba72cf4ecfa42576d516f9ed67603693155e/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/28002144d92a351b32e2a7beabafba72cf4ecfa42576d516f9ed67603693155e/image10.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2616d33bd96e860e1f03f44ead814102bd31a569c6e27649c934d5523a1e463b/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2616d33bd96e860e1f03f44ead814102bd31a569c6e27649c934d5523a1e463b/image11.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e0cdb4abcb4e990f066309e4d95ff7e75fcfb69885a53442c2ae7ba055985ed1/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e0cdb4abcb4e990f066309e4d95ff7e75fcfb69885a53442c2ae7ba055985ed1/image12.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ef7e821f34ecd2174c47e0422acce9562aebc2d842de1fe402d3589ff7008f77/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ef7e821f34ecd2174c47e0422acce9562aebc2d842de1fe402d3589ff7008f77/image13.jpg"
+        },
+        {
+          "alt" : "5 Money Close Rouse Hill NSW 2155 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/020570c61169cee8433534909f399d4340e7081296dc648afe612e706a56d5f1/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/020570c61169cee8433534909f399d4340e7081296dc648afe612e706a56d5f1/image14.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Uninterrupted city views",
+        "On-site café",
+        "Office fitouts and furniture available"
+      ],
+      "agencies" : [
+        {
+          "id" : "ACBGWR",
+          "name" : "Colliers - Melbourne East",
+          "salespeople" : [
+            {
+              "id" : "1673662",
+              "name" : "Tom Rothel",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/1daf4395468cb01c1a13ef258d6f3f10e17e6a17ca7d6b7e3cc8817b333c532f/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/1daf4395468cb01c1a13ef258d6f3f10e17e6a17ca7d6b7e3cc8817b333c532f/main.jpg"
+            },
+            {
+              "id" : "1943230",
+              "name" : "John Howell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "FGBEJM",
+          "name" : "JLL - Melbourne Metropolitan ",
+          "salespeople" : [
+            {
+              "id" : "2994835",
+              "name" : "Sam Torrance",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/167bc8c802f2cc6137df1590d668878a71ba2fbaeb96ed255c4dc01439ade4b7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/167bc8c802f2cc6137df1590d668878a71ba2fbaeb96ed255c4dc01439ade4b7/main.jpg"
+            },
+            {
+              "id" : "2294650",
+              "name" : "Mario Nobrega",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/350b53cefeacee605c63748b0d6539d3f979ecdb86da8c3e4701097e5c1199cd/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/350b53cefeacee605c63748b0d6539d3f979ecdb86da8c3e4701097e5c1199cd/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 280,
+      "agents" : [
+        {
+          "name" : "Tom Rothel",
+          "avatar" : "https://i1.au.reastatic.net/71x88/1daf4395468cb01c1a13ef258d6f3f10e17e6a17ca7d6b7e3cc8817b333c532f/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/1daf4395468cb01c1a13ef258d6f3f10e17e6a17ca7d6b7e3cc8817b333c532f/main.jpg"
+        },
+        {
+          "name" : "John Howell",
+          "avatar" : "https://i1.au.reastatic.net/71x88/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/2ec5c696edad7bbe8a3ef6cc468055f86d96e3edfffc890ce52dfdd801c7bc10/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "290 - 473 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504290772",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-689-burke-road-camberwell-vic-3124-504290772",
+      "title" : "OFFICE EXCELLENCE IN CAMBERWELL",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/7f34c365fe95612f562f8681202154b34f8aee475649865c959e817cfa73260a/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/7f34c365fe95612f562f8681202154b34f8aee475649865c959e817cfa73260a/large_commercial.jpg",
+          "alt" : "JLL - Melbourne Metropolitan ",
+          "logoSize" : "84x63",
+          "brandingColor" : "#000000"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "JLL - Melbourne Metropolitan "
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3124",
+        "agencyIds" : "ACBGWR,FGBEJM",
+        "subscription" : "",
+        "suburb" : "Camberwell",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ACBGWR,FGBEJM"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "689 Burke Road",
+        "postcode" : "3124",
+        "suburb" : "Camberwell",
+        "suburbAddress" : "Camberwell, VIC 3124"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "689 Burke Road",
+        "suburbAddress" : "Camberwell, VIC 3124"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Melbourne East",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c2d60c1ed04513950343555c73fc7a92cd7ddb288eaffe63bcf8acc8a58144e3/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c2d60c1ed04513950343555c73fc7a92cd7ddb288eaffe63bcf8acc8a58144e3/image0.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a0a16bccab0fd311042077e891e488971a9292feee148bd2edb60c70a8e13ac6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a0a16bccab0fd311042077e891e488971a9292feee148bd2edb60c70a8e13ac6/image1.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9260d8cd9da76307845a1aa44627b9bbab1eba74aca566234d45d4cd2d1e04fe/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9260d8cd9da76307845a1aa44627b9bbab1eba74aca566234d45d4cd2d1e04fe/image2.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/abc6ac1308be8968e390b8320c045c175fd462f2e18783897dc06a2ff449a47f/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/abc6ac1308be8968e390b8320c045c175fd462f2e18783897dc06a2ff449a47f/image3.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ddb8db76913712f513174c763d6368760d6f532497d2e862542c87fae2f31938/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ddb8db76913712f513174c763d6368760d6f532497d2e862542c87fae2f31938/image4.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/84bdfe736dbd099405cc3ec1fc7b64864c5764ab26984aa65644a55a074dc269/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/84bdfe736dbd099405cc3ec1fc7b64864c5764ab26984aa65644a55a074dc269/image5.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/41ab9aa40ba55a2d450340d6c249a8f9755a646373f33c834c9f574751d3e67e/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/41ab9aa40ba55a2d450340d6c249a8f9755a646373f33c834c9f574751d3e67e/image6.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0926a1ac35b7952d60115510140deb9aa573777c635106c5a4e09af178f2a726/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0926a1ac35b7952d60115510140deb9aa573777c635106c5a4e09af178f2a726/image7.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0294ada4dfa3538206579b38c33d1ee15d2f7b5ef41c2b424eda625706ace57f/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0294ada4dfa3538206579b38c33d1ee15d2f7b5ef41c2b424eda625706ace57f/image8.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ea5b71792abf8b314a73161e6b3b5d3e9e871aa93ff16b13565978fb3b720b42/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ea5b71792abf8b314a73161e6b3b5d3e9e871aa93ff16b13565978fb3b720b42/image9.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ad648d8a8b5fe129cbc9041e3d9cbd5ec4f88b6d94def2f4d82e2c9093a2b580/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ad648d8a8b5fe129cbc9041e3d9cbd5ec4f88b6d94def2f4d82e2c9093a2b580/image10.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8ef98e33ebce3a577e7a0b8dce12fb3d0794c7d3f5219281a673d3edff178793/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8ef98e33ebce3a577e7a0b8dce12fb3d0794c7d3f5219281a673d3edff178793/image11.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/43390b3906ce3a9a3e9dc5f099f60329488e01a5b88ec27c2eb013581507b37a/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/43390b3906ce3a9a3e9dc5f099f60329488e01a5b88ec27c2eb013581507b37a/image12.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/71f84ce3d8b38c4143f98d39af520e2b5bf498956c929696b3c5a40679417b29/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/71f84ce3d8b38c4143f98d39af520e2b5bf498956c929696b3c5a40679417b29/image13.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2833e88c8a439b8f9893ba72a669ca0db966a3f654973011e6dde281bdee957d/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2833e88c8a439b8f9893ba72a669ca0db966a3f654973011e6dde281bdee957d/image14.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7eacd44d143d7fb322242472eb1ac9149a0673313699cf52cb7bc41b271ef524/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7eacd44d143d7fb322242472eb1ac9149a0673313699cf52cb7bc41b271ef524/image15.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d3cbf90ffc8c121e731d9c2585f0bb0e6e4baae6f20e6acdd8c0f998ea51650d/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d3cbf90ffc8c121e731d9c2585f0bb0e6e4baae6f20e6acdd8c0f998ea51650d/image16.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1eecef97c63853eb2bf03b23eba60a6ee43b4811a3d591bf2ddb9ca8ee9380db/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1eecef97c63853eb2bf03b23eba60a6ee43b4811a3d591bf2ddb9ca8ee9380db/image17.jpg"
+        },
+        {
+          "alt" : "689 Burke Road Camberwell VIC 3124 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dc6a63d3d426bc850574236388e830340c269c2ec07a47abbc49ba96c4bdffe7/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dc6a63d3d426bc850574236388e830340c269c2ec07a47abbc49ba96c4bdffe7/image18.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Lockable Warehouse/logistics facility",
+        "On grade door and dock access",
+        "Warehouse clearance reaching 7.9m*"
+      ],
+      "agencies" : [
+        {
+          "id" : "URDMRG",
+          "name" : "JLL - Parramatta",
+          "salespeople" : [
+            {
+              "id" : "1219687",
+              "name" : "Marco Chiodo",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+            },
+            {
+              "id" : "1209443",
+              "name" : "David Lidgard",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 323,
+      "agents" : [
+        {
+          "name" : "Marco Chiodo",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9083012f20c605eeefb9549c8523eeacffe8d67fb9bb2173979553c4975c837d/main.jpg"
+        },
+        {
+          "name" : "David Lidgard",
+          "avatar" : "https://i1.au.reastatic.net/71x88/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/14f15a15f69dbf451e4367544c3dd4fafdfe711d07d41f00754845badead2f39/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "3783 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504255648",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-regents-park-nsw-2143-504255648",
+      "title" : "Sublease / $150/sqm Net / Two Doors / Huge Apron",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2143",
+        "agencyIds" : "URDMRG",
+        "subscription" : "",
+        "suburb" : "Regents Park",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "URDMRG"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Address available on request",
+        "postcode" : "2143",
+        "suburb" : "Regents Park",
+        "suburbAddress" : "Regents Park, NSW 2143"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Address available on request",
+        "suburbAddress" : "Regents Park, NSW 2143"
+      },
+      "branding" : {
+        "color" : "#161313",
+        "logo" : {
+          "alt" : "JLL - Parramatta",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Regents Park NSW 2143 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8383aeffe857c8601e364debf191d207f5b56539da31ea4f04dfb866a56cbc8d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8383aeffe857c8601e364debf191d207f5b56539da31ea4f04dfb866a56cbc8d/image0.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d9d8a2b67d6cf05a200fca548ee8f181a17dc74148bf50fa217e4f4b94a8cb19/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d9d8a2b67d6cf05a200fca548ee8f181a17dc74148bf50fa217e4f4b94a8cb19/image1.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b67df9f603d575a7ef4ddab6cf291868250241bd31b5fe6c1a8a4bc89c716618/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b67df9f603d575a7ef4ddab6cf291868250241bd31b5fe6c1a8a4bc89c716618/image2.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b67df9f603d575a7ef4ddab6cf291868250241bd31b5fe6c1a8a4bc89c716618/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b67df9f603d575a7ef4ddab6cf291868250241bd31b5fe6c1a8a4bc89c716618/image3.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4f3f33cffe8814817d878d2892c4fe6bc905a5995bb8742d0911a21d1c0b93cc/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4f3f33cffe8814817d878d2892c4fe6bc905a5995bb8742d0911a21d1c0b93cc/image4.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8135037aaabedc62e712353f9dde1eaa1e0c1bf8b6b744c4cffdef0d181f2bfd/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8135037aaabedc62e712353f9dde1eaa1e0c1bf8b6b744c4cffdef0d181f2bfd/image5.jpg"
+        },
+        {
+          "alt" : "Regents Park NSW 2143 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b6ba412a96797a6be7e6c2b9fb1a52bf109856300a5dbff4945d10a56c978726/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b6ba412a96797a6be7e6c2b9fb1a52bf109856300a5dbff4945d10a56c978726/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Central Brisbane Legal district",
+        "Located in prestigious Brisbane Quarter",
+        "Last suite remaining!"
+      ],
+      "agencies" : [
+        {
+          "id" : "PKNLGU",
+          "name" : "JLL - Brisbane Leasing",
+          "salespeople" : [
+            {
+              "id" : "3344180",
+              "name" : "Stephanie Macourt"
+            }
+          ]
+        },
+        {
+          "id" : "UJHZYK",
+          "name" : "JLL - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "2907223",
+              "name" : "Stephanie Macourt",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/230a34547c9a76017cab6a12bbe296fc3d452f18a8f409d8e096c116a8124a93/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/230a34547c9a76017cab6a12bbe296fc3d452f18a8f409d8e096c116a8124a93/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "CEGPOL",
+          "name" : "CBRE - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "2970095",
+              "name" : "Megan Kay",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e2536b4ef191766e39890032f8b0be54177ec36487181b3858bfe312311f7aba/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e2536b4ef191766e39890032f8b0be54177ec36487181b3858bfe312311f7aba/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 275,
+      "agents" : [],
+      "attributes" : {
+        "area" : "230 - 580 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504295108",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-300-george-street-brisbane-city-qld-4000-504295108",
+      "title" : "FIRST-CLASS FITOUTS READY TO OCCUPY OR BUILD YOUR OWN",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "alt" : "JLL - Brisbane",
+          "logoSize" : "84x63",
+          "brandingColor" : "#000000"
+        },
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "alt" : "CBRE - Brisbane",
+          "logoSize" : "84x63",
+          "brandingColor" : "#003f2d"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "JLL - Brisbane",
+        "CBRE - Brisbane"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4000",
+        "agencyIds" : "PKNLGU,UJHZYK,CEGPOL",
+        "subscription" : "",
+        "suburb" : "Brisbane City",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "PKNLGU,UJHZYK,CEGPOL"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "300 George Street",
+        "postcode" : "4000",
+        "suburb" : "Brisbane City",
+        "suburbAddress" : "Brisbane City, QLD 4000"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "300 George Street",
+        "suburbAddress" : "Brisbane City, QLD 4000"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "JLL - Brisbane Leasing",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/97a0589ed08aab696abe6496fb471caa8bc38fa26a8f78e8d30aac817cbbdd6e/large_commercial.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/97a0589ed08aab696abe6496fb471caa8bc38fa26a8f78e8d30aac817cbbdd6e/large_commercial.gif",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c3ad89f86be4842cddadd3eaadca2b7b4fcacf0ba4b62429a1403b5506329cba/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c3ad89f86be4842cddadd3eaadca2b7b4fcacf0ba4b62429a1403b5506329cba/image0.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c965d6aa5ff904d7ba0b61e0371e81b6fd472de0159d5d385d1af9372167a1ce/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c965d6aa5ff904d7ba0b61e0371e81b6fd472de0159d5d385d1af9372167a1ce/image1.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ac99c965bdcf717926598ffbe44a2718a6663fe898947cad93267072a4e536b3/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac99c965bdcf717926598ffbe44a2718a6663fe898947cad93267072a4e536b3/image2.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d8ddcf326baed869aa0482b1a7c6dbe4c2fef962025c8d79a6994761565911f5/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d8ddcf326baed869aa0482b1a7c6dbe4c2fef962025c8d79a6994761565911f5/image3.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d457c95edd82bed60c793e0b86636bdfdca954cd2ac1779c68fa9368eebb7381/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d457c95edd82bed60c793e0b86636bdfdca954cd2ac1779c68fa9368eebb7381/image4.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9e2fa82b2d130a7881ee52bd4ec579d3eb587210776c65d4c04f1cc5ff6bf9b1/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9e2fa82b2d130a7881ee52bd4ec579d3eb587210776c65d4c04f1cc5ff6bf9b1/image5.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3610a88f602501bccee2dba18fe45cd266958144ab907b9b8f9eb6e265598b59/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3610a88f602501bccee2dba18fe45cd266958144ab907b9b8f9eb6e265598b59/image6.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9b0822e433a5513d3d636bfd7ed1eb5951ddd82168873ca4230ea7c6db63b619/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9b0822e433a5513d3d636bfd7ed1eb5951ddd82168873ca4230ea7c6db63b619/image7.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/08f6008b9fe242c379a3522eb997090706ad8672110a07c3807c107fed4ddba6/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/08f6008b9fe242c379a3522eb997090706ad8672110a07c3807c107fed4ddba6/image8.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4148970d981e9b107f092aabb29387977cafb916a2b9f975318320ebafc311c1/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4148970d981e9b107f092aabb29387977cafb916a2b9f975318320ebafc311c1/image9.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1273467a3ebec78977f8476c83a80c641b71e67167cfc85c64834da881a9f077/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1273467a3ebec78977f8476c83a80c641b71e67167cfc85c64834da881a9f077/image10.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/955af367e94df7b8a1909557de8d11e94e93e5d50f36141525f5963f3c310e34/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/955af367e94df7b8a1909557de8d11e94e93e5d50f36141525f5963f3c310e34/image11.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b281cd50c1ff5aa44bc0079e4e966816ecd0ef068d1745731e1b4639b59e8aa4/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b281cd50c1ff5aa44bc0079e4e966816ecd0ef068d1745731e1b4639b59e8aa4/image12.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/98808a27e7de7a6a397935b5429296ba310b998b98d476d91270f57eedf61fad/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/98808a27e7de7a6a397935b5429296ba310b998b98d476d91270f57eedf61fad/image13.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/443ffd334432a26c6f47b36868228dd520c441ce5bc0b1ab0787cfc09ce9368c/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/443ffd334432a26c6f47b36868228dd520c441ce5bc0b1ab0787cfc09ce9368c/image14.jpg"
+        },
+        {
+          "alt" : "300 George Street Brisbane City QLD 4000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7998256b1aff75a54b7606ca0557beac6d4a0644e5dd4bf536c71325dc7eeedf/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7998256b1aff75a54b7606ca0557beac6d4a0644e5dd4bf536c71325dc7eeedf/image15.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "NEFKXI",
+          "name" : "JLL - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "1711154",
+              "name" : "David Cohen",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/97267e4bb36f942a73b829c0b44da851363c2a45ddf24e89092fe6007ca0b3de/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/97267e4bb36f942a73b829c0b44da851363c2a45ddf24e89092fe6007ca0b3de/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 477,
+      "agents" : [
+        {
+          "name" : "David Cohen",
+          "avatar" : "https://i1.au.reastatic.net/71x88/97267e4bb36f942a73b829c0b44da851363c2a45ddf24e89092fe6007ca0b3de/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/97267e4bb36f942a73b829c0b44da851363c2a45ddf24e89092fe6007ca0b3de/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "311 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504159827",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-shops-1-6-443-449-toorak-road-toorak-vic-3142-504159827",
+      "title" : "Massive retail opportunity in Toorak Village",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3142",
+        "agencyIds" : "NEFKXI",
+        "subscription" : "",
+        "suburb" : "Toorak",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "NEFKXI"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "Shops 1 – 6, 443 - 449 Toorak Road",
+        "postcode" : "3142",
+        "suburb" : "Toorak",
+        "suburbAddress" : "Toorak, VIC 3142"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Shops 1 – 6, 443 - 449 Toorak Road",
+        "suburbAddress" : "Toorak, VIC 3142"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "JLL - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Shops 1 – 6, 443 - 449 Toorak Road Toorak VIC 3142 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8a713bcfee1f3c3de667140781c8eaa5d52b5add87521199154a708d625e3e05/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8a713bcfee1f3c3de667140781c8eaa5d52b5add87521199154a708d625e3e05/image0.jpg"
+        },
+        {
+          "alt" : "Shops 1 – 6, 443 - 449 Toorak Road Toorak VIC 3142 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c1ba67ff162bafa42f11755ee4eddc644d667930cf49c5f199086a3d46f5edbb/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c1ba67ff162bafa42f11755ee4eddc644d667930cf49c5f199086a3d46f5edbb/image1.jpg"
+        },
+        {
+          "alt" : "Shops 1 – 6, 443 - 449 Toorak Road Toorak VIC 3142 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/288bc932d7bf93687b74ef0cc7e7801de2878542934b25859f57d095ed7c95f2/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/288bc932d7bf93687b74ef0cc7e7801de2878542934b25859f57d095ed7c95f2/image2.jpg"
+        },
+        {
+          "alt" : "Shops 1 – 6, 443 - 449 Toorak Road Toorak VIC 3142 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ebb6871b4f3b14bc7813876366f8178b3b9439d8015dec2e293e59b969f41869/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ebb6871b4f3b14bc7813876366f8178b3b9439d8015dec2e293e59b969f41869/image3.jpg"
+        },
+        {
+          "alt" : "Shops 1 – 6, 443 - 449 Toorak Road Toorak VIC 3142 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/746ad2415cfe88591c63b1bfb8354b263299bfdd53f33d3727f1081d8b04b933/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/746ad2415cfe88591c63b1bfb8354b263299bfdd53f33d3727f1081d8b04b933/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Fitted/Non-Fitted Suites Available",
+        "Within ISPT's National Circuit Precinct",
+        "Customer Centric Work Environment"
+      ],
+      "agencies" : [
+        {
+          "id" : "TDFIGQ",
+          "name" : "CBRE - Canberra",
+          "salespeople" : [
+            {
+              "id" : "1707830",
+              "name" : "Troy Markos",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b0fec2e17ae32a3132356096219559d4f3d6829e84f9cee522a707f205eee749/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b0fec2e17ae32a3132356096219559d4f3d6829e84f9cee522a707f205eee749/main.jpg"
+            },
+            {
+              "id" : "3041863",
+              "name" : "Ravi Soni",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/c436225cec8f27b497be5fdf816632de3fe4973ec4c47911622439f6cbbfc10c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/c436225cec8f27b497be5fdf816632de3fe4973ec4c47911622439f6cbbfc10c/main.jpg"
+            },
+            {
+              "id" : "2656510",
+              "name" : "Brendan Laus",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b638e5d4043da4377004d4e1892116fbc141bae6efd0901a15ad11c50f312386/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b638e5d4043da4377004d4e1892116fbc141bae6efd0901a15ad11c50f312386/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 62,
+      "agents" : [
+        {
+          "name" : "Troy Markos",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b0fec2e17ae32a3132356096219559d4f3d6829e84f9cee522a707f205eee749/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b0fec2e17ae32a3132356096219559d4f3d6829e84f9cee522a707f205eee749/main.jpg"
+        },
+        {
+          "name" : "Ravi Soni",
+          "avatar" : "https://i1.au.reastatic.net/71x88/c436225cec8f27b497be5fdf816632de3fe4973ec4c47911622439f6cbbfc10c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/c436225cec8f27b497be5fdf816632de3fe4973ec4c47911622439f6cbbfc10c/main.jpg"
+        },
+        {
+          "name" : "Brendan Laus",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b638e5d4043da4377004d4e1892116fbc141bae6efd0901a15ad11c50f312386/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b638e5d4043da4377004d4e1892116fbc141bae6efd0901a15ad11c50f312386/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "624 - 817 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504456632",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-6-national-circuit-barton-act-2600-504456632",
+      "title" : "NATIONAL CIRCUIT PRECINCT: A-GRADE OFFICE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "ACT",
+        "postcode" : "2600",
+        "agencyIds" : "TDFIGQ",
+        "subscription" : "",
+        "suburb" : "Barton",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "TDFIGQ"
+        }
+      },
+      "address" : {
+        "state" : "ACT",
+        "streetAddress" : "6 National Circuit",
+        "postcode" : "2600",
+        "suburb" : "Barton",
+        "suburbAddress" : "Barton, ACT 2600"
+      },
+      "details" : {
+        "price" : "Contact Agent for Price Guide",
+        "streetAddress" : "6 National Circuit",
+        "suburbAddress" : "Barton, ACT 2600"
+      },
+      "branding" : {
+        "color" : "#012A2D",
+        "logo" : {
+          "alt" : "CBRE - Canberra",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/143fa965139340395c79143ae30d8440573ad4172022b3385dbcfa7307ae4c4a/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/143fa965139340395c79143ae30d8440573ad4172022b3385dbcfa7307ae4c4a/image0.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63f508d4beecffeaeac09f406a165275cbc96c9e888b71f62c3751bd6a111f46/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63f508d4beecffeaeac09f406a165275cbc96c9e888b71f62c3751bd6a111f46/image1.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/46b570a369aa57c4048bfb28295afa9b3a8015844fd1a18d28b3a6981eca67c9/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/46b570a369aa57c4048bfb28295afa9b3a8015844fd1a18d28b3a6981eca67c9/image2.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/45b8d6c1e09cfef81d4ddfa40530c8a13b79238d5fb1d5439055074e98e12713/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/45b8d6c1e09cfef81d4ddfa40530c8a13b79238d5fb1d5439055074e98e12713/image3.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4efd83d805fd1e1063dab3521e0af2b902af05d12b36bf45d7b1049c4070ff2b/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4efd83d805fd1e1063dab3521e0af2b902af05d12b36bf45d7b1049c4070ff2b/image4.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/55da382d82e2b73e94ca91c1884c76179bf1ade149ecbe334bf9515994171c81/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/55da382d82e2b73e94ca91c1884c76179bf1ade149ecbe334bf9515994171c81/image5.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/075666ae63ab004213e66854780e47e96a1ec9fe692a71f2e16add38594f0bdf/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/075666ae63ab004213e66854780e47e96a1ec9fe692a71f2e16add38594f0bdf/image6.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4e4a72092f0a5383aa95a3f5c6986aae4e289803bebe46832058b00164e11ddd/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4e4a72092f0a5383aa95a3f5c6986aae4e289803bebe46832058b00164e11ddd/image7.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8e52d85b4fc61a8a2ea9a0c6ab7662c4089f6a43fd695fb5d186d54bb82cdb96/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e52d85b4fc61a8a2ea9a0c6ab7662c4089f6a43fd695fb5d186d54bb82cdb96/image8.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/572ece4396528b4830afa13c233bb4ab7a457ebb1dc73633b4102abfdcd88314/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/572ece4396528b4830afa13c233bb4ab7a457ebb1dc73633b4102abfdcd88314/image9.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e994dbe35773a9b407f04dee654474120474210b1f7b9d5d2fc013520eae4e34/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e994dbe35773a9b407f04dee654474120474210b1f7b9d5d2fc013520eae4e34/image10.jpg"
+        },
+        {
+          "alt" : "6 National Circuit Barton ACT 2600 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/730588ccf12b4e3ea3d3c16d6ea54f115d1e45f1fbde3d5e7cd86a929934bc08/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/730588ccf12b4e3ea3d3c16d6ea54f115d1e45f1fbde3d5e7cd86a929934bc08/image11.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "High quality full existing fit-out",
+        "Generous car parking ratio",
+        "Opposite Macquarie Shopping Centre"
+      ],
+      "agencies" : [
+        {
+          "id" : "HCHYKK",
+          "name" : "CBRE - Sydney North",
+          "salespeople" : [
+            {
+              "id" : "2903470",
+              "name" : "Francesco Princi",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/064ebebf581bc5e56c8c82ab520ff96c6b6884b6831eaa00482d4c81314be8f4/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/064ebebf581bc5e56c8c82ab520ff96c6b6884b6831eaa00482d4c81314be8f4/main.jpg"
+            },
+            {
+              "id" : "822347",
+              "name" : "Peter Mangraviti",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/5a92c5498af395e41e1a6a98b524a5bf5460cdc4d687a13cbb18306533951778/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/5a92c5498af395e41e1a6a98b524a5bf5460cdc4d687a13cbb18306533951778/main.jpg"
+            },
+            {
+              "id" : "801399",
+              "name" : "Geoff Hunt",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bb9c73af6d7ef122b62089928d83587667b92e241a6f036ab45b3cf206e1a32c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bb9c73af6d7ef122b62089928d83587667b92e241a6f036ab45b3cf206e1a32c/main.jpg"
+            },
+            {
+              "id" : "3322424",
+              "name" : "Richard Casey",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/70a3b5a90656d74d86ea630b7b0e4cd2d64b45e2d9626be69f2e45c6cbc52058/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/70a3b5a90656d74d86ea630b7b0e4cd2d64b45e2d9626be69f2e45c6cbc52058/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 379,
+      "agents" : [
+        {
+          "name" : "Francesco Princi",
+          "avatar" : "https://i1.au.reastatic.net/71x88/064ebebf581bc5e56c8c82ab520ff96c6b6884b6831eaa00482d4c81314be8f4/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/064ebebf581bc5e56c8c82ab520ff96c6b6884b6831eaa00482d4c81314be8f4/main.jpg"
+        },
+        {
+          "name" : "Peter Mangraviti",
+          "avatar" : "https://i1.au.reastatic.net/71x88/5a92c5498af395e41e1a6a98b524a5bf5460cdc4d687a13cbb18306533951778/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/5a92c5498af395e41e1a6a98b524a5bf5460cdc4d687a13cbb18306533951778/main.jpg"
+        },
+        {
+          "name" : "Geoff Hunt",
+          "avatar" : "https://i1.au.reastatic.net/71x88/bb9c73af6d7ef122b62089928d83587667b92e241a6f036ab45b3cf206e1a32c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/bb9c73af6d7ef122b62089928d83587667b92e241a6f036ab45b3cf206e1a32c/main.jpg"
+        },
+        {
+          "name" : "Richard Casey",
+          "avatar" : "https://i1.au.reastatic.net/71x88/70a3b5a90656d74d86ea630b7b0e4cd2d64b45e2d9626be69f2e45c6cbc52058/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/70a3b5a90656d74d86ea630b7b0e4cd2d64b45e2d9626be69f2e45c6cbc52058/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "500 - 610 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504227608",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-66-talavera-road-macquarie-park-nsw-2113-504227608",
+      "title" : "PLUG AND PLAY FULLY FITTED OFFICE SPACE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2113",
+        "agencyIds" : "HCHYKK",
+        "subscription" : "",
+        "suburb" : "Macquarie Park",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "HCHYKK"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "66 Talavera Road",
+        "postcode" : "2113",
+        "suburb" : "Macquarie Park",
+        "suburbAddress" : "Macquarie Park, NSW 2113"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "66 Talavera Road",
+        "suburbAddress" : "Macquarie Park, NSW 2113"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Sydney North",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/401eaccdb8c5c04884f996de37de349333ef8535a49d393f4b72e818a25b18fe/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/401eaccdb8c5c04884f996de37de349333ef8535a49d393f4b72e818a25b18fe/image0.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2b32e1f395e9d4cdf9251154707ed4b191f7cb4005aa7449248f23db91285601/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2b32e1f395e9d4cdf9251154707ed4b191f7cb4005aa7449248f23db91285601/image1.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/eddb6ee9d7e65abc0ab3e89cf9ce9acd0efbbd6d05ee0ba9a71e9cc5b9f22566/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eddb6ee9d7e65abc0ab3e89cf9ce9acd0efbbd6d05ee0ba9a71e9cc5b9f22566/image2.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cf7e501d7a26a5071d1f2335f75846386626eeb13b8970b5227a01b09a1b4ed6/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cf7e501d7a26a5071d1f2335f75846386626eeb13b8970b5227a01b09a1b4ed6/image3.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c5141c014094ce9c99de5bafbd7551a5c25d443b46aabb467902e2e8af358fbe/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c5141c014094ce9c99de5bafbd7551a5c25d443b46aabb467902e2e8af358fbe/image4.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9e5a7d75aec394d591fc8369f81b62e4ee37361f1cbfe8b40db2e442b49e2839/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9e5a7d75aec394d591fc8369f81b62e4ee37361f1cbfe8b40db2e442b49e2839/image5.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/294e667eee20f479a292bf4e6d7aba104f2ef0e95e51e2473adb1264f66b0397/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/294e667eee20f479a292bf4e6d7aba104f2ef0e95e51e2473adb1264f66b0397/image6.jpg"
+        },
+        {
+          "alt" : "66 Talavera Road Macquarie Park NSW 2113 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/26edb3ddafc0681f1e18bba2a6347f23a5a291289e8ed95a52e4573fd43b9a6b/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/26edb3ddafc0681f1e18bba2a6347f23a5a291289e8ed95a52e4573fd43b9a6b/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Rare Character Opportunity",
+        "Whole Building or Floor by Floor",
+        "178-617 square metres*"
+      ],
+      "agencies" : [
+        {
+          "id" : "KDHMNF",
+          "name" : "CBRE - South Australia (RLA 208125)",
+          "salespeople" : [
+            {
+              "id" : "701689",
+              "name" : "Michael Pfitzner",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7256d9c57298fa7545a7baede723f5d38fed45a9d71752d7e040a3deeda08f10/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7256d9c57298fa7545a7baede723f5d38fed45a9d71752d7e040a3deeda08f10/main.jpg"
+            },
+            {
+              "id" : "701673",
+              "name" : "Andrew Bahr",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/03512d1573b79d7365042038756b298d00a480943feeb3a00875b79a9a6e4483/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/03512d1573b79d7365042038756b298d00a480943feeb3a00875b79a9a6e4483/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "EPGBQW",
+          "name" : "Knight Frank - Adelaide (RLA 199257)",
+          "salespeople" : [
+            {
+              "id" : "2242382",
+              "name" : "Rory Dyus",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9202e47d397d6c7594ae3f05477bc4a5590d537f8d20fec8846859b38b470f79/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9202e47d397d6c7594ae3f05477bc4a5590d537f8d20fec8846859b38b470f79/main.jpg"
+            },
+            {
+              "id" : "60703",
+              "name" : "Martin Potter",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/d206666b3c7dce2b94c4a3fd4cc08640a9f8f2c4d003446f7cb2d226a5a69a66/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/d206666b3c7dce2b94c4a3fd4cc08640a9f8f2c4d003446f7cb2d226a5a69a66/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Michael Pfitzner",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7256d9c57298fa7545a7baede723f5d38fed45a9d71752d7e040a3deeda08f10/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7256d9c57298fa7545a7baede723f5d38fed45a9d71752d7e040a3deeda08f10/main.jpg"
+        },
+        {
+          "name" : "Andrew Bahr",
+          "avatar" : "https://i1.au.reastatic.net/71x88/03512d1573b79d7365042038756b298d00a480943feeb3a00875b79a9a6e4483/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/03512d1573b79d7365042038756b298d00a480943feeb3a00875b79a9a6e4483/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "178 - 617 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504476816",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-27-hindmarsh-square-adelaide-sa-5000-504476816",
+      "title" : "A STUNNING CBD TRANSFORMATION",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5631def7d7ad734e022b814fb7b7081b530df0cd5951d63d1e67be9c9b9ad30a/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/5631def7d7ad734e022b814fb7b7081b530df0cd5951d63d1e67be9c9b9ad30a/large.jpg",
+          "alt" : "Knight Frank - Adelaide (RLA 199257)",
+          "logoSize" : "170x32",
+          "brandingColor" : "#d1213c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Knight Frank - Adelaide (RLA 199257)"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "SA",
+        "postcode" : "5000",
+        "agencyIds" : "KDHMNF,EPGBQW",
+        "subscription" : "",
+        "suburb" : "Adelaide",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "KDHMNF,EPGBQW"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "27 Hindmarsh Square",
+        "postcode" : "5000",
+        "suburb" : "Adelaide",
+        "suburbAddress" : "Adelaide, SA 5000"
+      },
+      "details" : {
+        "price" : "Please contact agents",
+        "streetAddress" : "27 Hindmarsh Square",
+        "suburbAddress" : "Adelaide, SA 5000"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - South Australia (RLA 208125)",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/76ccf154461c5a67fe4c7643a800a035ef52dd3abd0e2a83612e157e4e7f5a17/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/76ccf154461c5a67fe4c7643a800a035ef52dd3abd0e2a83612e157e4e7f5a17/image0.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b81679e49570baf714e4b89eeec849085343464eeeff8e8e6771a2d7635e3b0d/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b81679e49570baf714e4b89eeec849085343464eeeff8e8e6771a2d7635e3b0d/image1.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a402c085c325ebe52ed9ffcf4119821153c810ad6751e15d5f0a37821b195369/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a402c085c325ebe52ed9ffcf4119821153c810ad6751e15d5f0a37821b195369/image2.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/83f0416f37b9559689c6096a44d1003c983523e7286b171d11a2795d46e0042a/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/83f0416f37b9559689c6096a44d1003c983523e7286b171d11a2795d46e0042a/image3.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9ab491a95f7185eb167421120e9c042c3cc29a896d51b23d802ff8eb436c5cd8/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9ab491a95f7185eb167421120e9c042c3cc29a896d51b23d802ff8eb436c5cd8/image4.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e8233656c9a87f6b0dc34b78bbd614ddede38176095af97ade39af879aed18b7/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e8233656c9a87f6b0dc34b78bbd614ddede38176095af97ade39af879aed18b7/image5.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/badc8f03b41dc331cb636bd32b33483a195dfe96ce0ec6459f63e877b121646b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/badc8f03b41dc331cb636bd32b33483a195dfe96ce0ec6459f63e877b121646b/image6.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b135c26984148a42ecae44a290c3f3ec9ae527e1cb5bf3df656d0cdb4394f9cc/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b135c26984148a42ecae44a290c3f3ec9ae527e1cb5bf3df656d0cdb4394f9cc/image7.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/03854fe678ff544709fbbe688aa88b99b16d861aee710215f0a21e301470d8ce/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/03854fe678ff544709fbbe688aa88b99b16d861aee710215f0a21e301470d8ce/image8.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4ac9cbfb4b9485c830c2e2ac8deb1ceaa9ad3359729d688139fba697487d36a7/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4ac9cbfb4b9485c830c2e2ac8deb1ceaa9ad3359729d688139fba697487d36a7/image9.jpg"
+        },
+        {
+          "alt" : "27 Hindmarsh Square Adelaide SA 5000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/76283fcdd68fead61d102b2cd4440f6f35f2f2b2051dfd044541a4c8fad6186b/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/76283fcdd68fead61d102b2cd4440f6f35f2f2b2051dfd044541a4c8fad6186b/image10.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "QLD",
+    "floorArea" : "300 - 439 m²",
+    "suburb" : "hamilton",
+    "proptype" : "offices",
+    "region" : "inner_brisbane",
+    "postcode" : "4007",
+    "price" : "Contact Agents"
+  }
+}
