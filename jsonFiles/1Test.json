@@ -1,0 +1,183 @@
+{
+  "listings": [
+    {
+      "highlights": [
+        "Views out to Black Mountain",
+        "Fantastic Public Transport links",
+        "4.5-star NABERS Energy rating"
+      ],
+      "agencies": [
+        {
+          "id": "CVAMEL",
+          "name": "CVA Property Consultants - Melbourne",
+          "salespeople": [
+            {
+              "id": "2557302",
+              "name": "Ben Quennell",
+              "imagePath": "https://i1.au.reastatic.net/71x88/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg",
+              "imageUrlTemplate": "https://i1.au.reastatic.net{options}/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg"
+            },
+            {
+              "id": "80033",
+              "name": "Ian Angelico",
+              "imagePath": "https://i1.au.reastatic.net/71x88/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg",
+              "imageUrlTemplate": "https://i1.au.reastatic.net{options}/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg"
+            },
+            {
+              "id": "2916519",
+              "name": "Anders Skoglund",
+              "imagePath": "https://i1.au.reastatic.net/71x88/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg",
+              "imageUrlTemplate": "https://i1.au.reastatic.net{options}/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive": 63,
+      "agents": [
+        {
+          "name": "Ben Quennell",
+          "avatar": "https://i1.au.reastatic.net/71x88/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg",
+          "avatarUrlTemplate": "https://i1.au.reastatic.net{options}/6dcc733feb3a86f3ce997209dbc56efb131780c9a223d18743d78675d9aee662/main.jpg"
+        },
+        {
+          "name": "Ian Angelico",
+          "avatar": "https://i1.au.reastatic.net/71x88/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg",
+          "avatarUrlTemplate": "https://i1.au.reastatic.net{options}/90b9652f1beccefbd06628a45a005d691d5b2a0192f97958e4f2dac50c5a3dd7/main.jpg"
+        },
+        {
+          "name": "Anders Skoglund",
+          "avatar": "https://i1.au.reastatic.net/71x88/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg",
+          "avatarUrlTemplate": "https://i1.au.reastatic.net{options}/8021c937d114b3170656a4bdf40976e4e6fddefddeef7b9694b90c34b9f38e10/main.jpg"
+        }
+      ],
+      "attributes": {
+        "area": "575 m�",
+        "propertyTypes": [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id": "504456484",
+      "hasTour": false,
+      "pdpUrl": "/for-lease/property-117-119-thistlethwaite-street-south-melbourne-vic-3205-504456484",
+      "title": "STRATEGICALLY POSITIONED SOUTH MELBOURNE STANDOUT.",
+      "conjunctionalAgencies": [],
+      "product": "eliteplus",
+      "otherAgencies": [],
+      "omniture": {
+        "channel": "for lease",
+        "state": "VIC",
+        "postcode": "3205",
+        "agencyIds": "CVAMEL",
+        "subscription": "",
+        "suburb": "South Melbourne",
+        "imageCarousel": {
+          "channel": "for lease",
+          "agencyIds": "CVAMEL"
+        }
+      },
+      "address": {
+        "state": "VIC",
+        "streetAddress": "117-119 Thistlethwaite Street",
+        "postcode": "3205",
+        "suburb": "South Melbourne",
+        "suburbAddress": "South Melbourne, VIC 3205"
+      },
+      "details": {
+        "price": "Contact Agent",
+        "streetAddress": "117-119 Thistlethwaite Street",
+        "suburbAddress": "South Melbourne, VIC 3205"
+      },
+      "branding": {
+        "color": "#000000",
+        "logo": {
+          "alt": "CVA Property Consultants - Melbourne",
+          "url": "https://i1.au.reastatic.net/84x63-fit/12df43b35438fcf3af01a289177bad2da081b54d8636d890331861dc7b68b285/large_commercial.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/12df43b35438fcf3af01a289177bad2da081b54d8636d890331861dc7b68b285/large_commercial.jpg",
+          "size": "84x63"
+        }
+      },
+      "photos": [
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 1",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a771289892922a799d2b62733919c4bd372065a495243038da31e55e7d304bd7/image0.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/a771289892922a799d2b62733919c4bd372065a495243038da31e55e7d304bd7/image0.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 2",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/33264bbf94d35f45115d37959ee1de8dbcc58c4bf8d4e41c1d3ff52bbd8b1408/image1.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/33264bbf94d35f45115d37959ee1de8dbcc58c4bf8d4e41c1d3ff52bbd8b1408/image1.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 3",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/be7d6be152c144fd68a7f06ce69b050a9ad4831dd8284d4a38d2e23e892faa3d/image2.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/be7d6be152c144fd68a7f06ce69b050a9ad4831dd8284d4a38d2e23e892faa3d/image2.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 4",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ffff5364635104299a7f4ff82c504284a14ead6ae44594f05e589dfcd8172513/image3.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/ffff5364635104299a7f4ff82c504284a14ead6ae44594f05e589dfcd8172513/image3.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 5",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/00334fae12986e34c2071680fce1ed3a5b3ab1ddd05375f2cd7e27c29796f8bf/image4.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/00334fae12986e34c2071680fce1ed3a5b3ab1ddd05375f2cd7e27c29796f8bf/image4.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 6",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d0dfef4825e654db525eaecc26939bf0ebdd2903e359949a628e326e05e3c444/image5.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/d0dfef4825e654db525eaecc26939bf0ebdd2903e359949a628e326e05e3c444/image5.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 7",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5ac7444fedb915dab9cb319ab969d56fbe2ca5bcffb5887039d41f417afded6/image6.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/b5ac7444fedb915dab9cb319ab969d56fbe2ca5bcffb5887039d41f417afded6/image6.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 8",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b1405f58523ac3dfdb108e03c53fbd14dc3cd5e8423b48bdb7cc9fe7d977e8c9/image7.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/b1405f58523ac3dfdb108e03c53fbd14dc3cd5e8423b48bdb7cc9fe7d977e8c9/image7.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 9",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fdedb5f6bd879432d8f1229874614da0847c6e20b7b0cf9f9c48dbae6117562f/image8.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/fdedb5f6bd879432d8f1229874614da0847c6e20b7b0cf9f9c48dbae6117562f/image8.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 10",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a64a52a7610628ff5de67202e58ea923776a403677d9187cfa740db8fdabf8e/image9.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/1a64a52a7610628ff5de67202e58ea923776a403677d9187cfa740db8fdabf8e/image9.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 11",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/75efa302831416ebd74eaed56609c35589ac279b632280342c77b21c7686f07b/image10.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/75efa302831416ebd74eaed56609c35589ac279b632280342c77b21c7686f07b/image10.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 12",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed242b823055b25a7eb1cb14f0099828685b2799996cd4028d505477c51b192c/image11.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/ed242b823055b25a7eb1cb14f0099828685b2799996cd4028d505477c51b192c/image11.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 13",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e8f088c1c053893c76dcc1dc732ae06a4f3c09049f9f7a6fe9a1c4f8f858b054/image12.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/e8f088c1c053893c76dcc1dc732ae06a4f3c09049f9f7a6fe9a1c4f8f858b054/image12.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 14",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/51c8b3e8bec3d2ede2384016abc9e7f86b719d75f8b6f90910008faf0b03b13b/image13.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/51c8b3e8bec3d2ede2384016abc9e7f86b719d75f8b6f90910008faf0b03b13b/image13.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 15",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4561d12ecaa5d7c4eea3ca91a374012483ea12afd4c7e31de5561dc50ccc6906/image14.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/4561d12ecaa5d7c4eea3ca91a374012483ea12afd4c7e31de5561dc50ccc6906/image14.jpg"
+        },
+        {
+          "alt": "117-119 Thistlethwaite Street South Melbourne VIC 3205 - Image 16",
+          "url": "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/387a3b14692fdcbf3c2397606a148c6fad34edad251b665d972abdc490837426/image15.jpg",
+          "urlTemplate": "https://i1.au.reastatic.net{options}/387a3b14692fdcbf3c2397606a148c6fad34edad251b665d972abdc490837426/image15.jpg"
+        }
+      ]
+    }
+  ]
+}
