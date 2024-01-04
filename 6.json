@@ -1,0 +1,1461 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "Container set down area",
+        "Exclusive car parking for each unit",
+        "Feature landscaping throughout"
+      ],
+      "agencies" : [
+        {
+          "id" : "SYPLRL",
+          "name" : "Crew Commercial -  Brisbane & Gold Coast Offices",
+          "salespeople" : [
+            {
+              "id" : "2682914",
+              "name" : "Jacob Zhou",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/acada4ac1f510d65f75033b0465492f01e9d7a6474af22b35f167491cf4018db/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/acada4ac1f510d65f75033b0465492f01e9d7a6474af22b35f167491cf4018db/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 168,
+      "agents" : [
+        {
+          "name" : "Jacob Zhou",
+          "avatar" : "https://i1.au.reastatic.net/71x88/acada4ac1f510d65f75033b0465492f01e9d7a6474af22b35f167491cf4018db/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/acada4ac1f510d65f75033b0465492f01e9d7a6474af22b35f167491cf4018db/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "227 - 2423 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Offices",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504376104",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-arundel-qld-4214-504376104",
+      "title" : "Brand New Architecturally Designed  Industrial Units",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4214",
+        "agencyIds" : "SYPLRL",
+        "subscription" : "",
+        "suburb" : "Arundel",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "SYPLRL"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Address available on request",
+        "postcode" : "4214",
+        "suburb" : "Arundel",
+        "suburbAddress" : "Arundel, QLD 4214"
+      },
+      "details" : {
+        "price" : "Contact exclusive agent",
+        "streetAddress" : "Address available on request",
+        "suburbAddress" : "Arundel, QLD 4214"
+      },
+      "branding" : {
+        "color" : "#00263A",
+        "logo" : {
+          "alt" : "Crew Commercial -  Brisbane & Gold Coast Offices",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/60d7935d73339ba0535c3d5a47951a1e58b84bfad44d6213de7238a69623a2ba/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/60d7935d73339ba0535c3d5a47951a1e58b84bfad44d6213de7238a69623a2ba/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Arundel QLD 4214 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/07830896479b1b9007837ae7e6f122f2afd9d768c25967da649f8f1d1a6fef66/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/07830896479b1b9007837ae7e6f122f2afd9d768c25967da649f8f1d1a6fef66/image0.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/71268deeb080eed5922406b7b84eca5d2f47303610a81dad23859635fead1a5d/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/71268deeb080eed5922406b7b84eca5d2f47303610a81dad23859635fead1a5d/image1.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4f74d0c15f009f17708c685931777a807cd15226f042b21f328909a228e54458/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4f74d0c15f009f17708c685931777a807cd15226f042b21f328909a228e54458/image2.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/408401d236180a1de5ec968e724a639c95e49344c112dbbb18b99e3ba3be7d07/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/408401d236180a1de5ec968e724a639c95e49344c112dbbb18b99e3ba3be7d07/image3.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/228b2e2ddbefa6beb8f4352c856d3f13c31f6b090770f056f448497adf817c4f/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/228b2e2ddbefa6beb8f4352c856d3f13c31f6b090770f056f448497adf817c4f/image4.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/08aa1cbaa6ad7041e6e8f5c614c6ef7ac9946c387f732e87ebddbbc68d94cea6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/08aa1cbaa6ad7041e6e8f5c614c6ef7ac9946c387f732e87ebddbbc68d94cea6/image5.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/36c73f62f9b1743231e6f7f17b33925ace4a64272c39f35e8e5cce22d0113e91/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/36c73f62f9b1743231e6f7f17b33925ace4a64272c39f35e8e5cce22d0113e91/image6.jpg"
+        },
+        {
+          "alt" : "Arundel QLD 4214 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/48d30729a06eca8cc64308b94985eefff8c90ba5f53d4f0f579d06b571044be8/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/48d30729a06eca8cc64308b94985eefff8c90ba5f53d4f0f579d06b571044be8/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "VWPRWE",
+          "name" : "Civium Property Group - PHILLIP",
+          "salespeople" : [
+            {
+              "id" : "3343372",
+              "name" : "Lachlan O'Sullivan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a6a955f6329bf199dedcd8b13d430a2a53df13b94b61891c9182dcdedf91ac88/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a6a955f6329bf199dedcd8b13d430a2a53df13b94b61891c9182dcdedf91ac88/main.jpg"
+            },
+            {
+              "id" : "3175604",
+              "name" : "Connor Smith",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e6e622f56b455afa21093915b123f77f834c8f158c55f51a28034c604c516eb0/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e6e622f56b455afa21093915b123f77f834c8f158c55f51a28034c604c516eb0/main.jpg"
+            },
+            {
+              "id" : "62985",
+              "name" : "Andrew Smith",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b76e3b17b8e8b233c5543106d38f9ee0c2e6456f80fb3af6c3e3b911022d50fe/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b76e3b17b8e8b233c5543106d38f9ee0c2e6456f80fb3af6c3e3b911022d50fe/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 62,
+      "agents" : [
+        {
+          "name" : "Lachlan O'Sullivan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a6a955f6329bf199dedcd8b13d430a2a53df13b94b61891c9182dcdedf91ac88/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a6a955f6329bf199dedcd8b13d430a2a53df13b94b61891c9182dcdedf91ac88/main.jpg"
+        },
+        {
+          "name" : "Connor Smith",
+          "avatar" : "https://i1.au.reastatic.net/71x88/e6e622f56b455afa21093915b123f77f834c8f158c55f51a28034c604c516eb0/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/e6e622f56b455afa21093915b123f77f834c8f158c55f51a28034c604c516eb0/main.jpg"
+        },
+        {
+          "name" : "Andrew Smith",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b76e3b17b8e8b233c5543106d38f9ee0c2e6456f80fb3af6c3e3b911022d50fe/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b76e3b17b8e8b233c5543106d38f9ee0c2e6456f80fb3af6c3e3b911022d50fe/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "106 - 186 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Offices",
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "504456572",
+      "hasTour" : false,
+      "pdpUrl" : "/for-sale/property-high-society-1-grazier-lane-belconnen-act-2617-504456572?listingType=rent",
+      "title" : "FOR SALE or LEASE: Canberra's Biggest Mixed-Use Precinct",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for sale or lease:vacant",
+        "state" : "ACT",
+        "postcode" : "2617",
+        "agencyIds" : "VWPRWE",
+        "subscription" : "",
+        "suburb" : "Belconnen",
+        "imageCarousel" : {
+          "channel" : "for sale or lease:vacant",
+          "agencyIds" : "VWPRWE"
+        }
+      },
+      "address" : {
+        "state" : "ACT",
+        "streetAddress" : "High Society, 1 Grazier Lane",
+        "postcode" : "2617",
+        "suburb" : "Belconnen",
+        "suburbAddress" : "Belconnen, ACT 2617"
+      },
+      "details" : {
+        "price" : "Contact Agent | Contact Agent",
+        "streetAddress" : "High Society, 1 Grazier Lane",
+        "suburbAddress" : "Belconnen, ACT 2617"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Civium Property Group - PHILLIP",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/61c6d8d93412cc3c665318aa4c688adab23a8d3e10c98764d8551a2209f0aaa9/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/61c6d8d93412cc3c665318aa4c688adab23a8d3e10c98764d8551a2209f0aaa9/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/571af666c92ccfcaec371b3746ebd2dc1eb78b3408923977adf6fad4df232311/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/571af666c92ccfcaec371b3746ebd2dc1eb78b3408923977adf6fad4df232311/image0.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d2743ddcc337a08eeeb65dbfb1928a19bb7fa03987a7e8f7af9e2cf567b95b00/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d2743ddcc337a08eeeb65dbfb1928a19bb7fa03987a7e8f7af9e2cf567b95b00/image1.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d3b1dff1fc9fb58c29548e29c1110d5c72552d327030762bb5fd35d7718306aa/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d3b1dff1fc9fb58c29548e29c1110d5c72552d327030762bb5fd35d7718306aa/image2.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/46b6ec33ed7c30a840176d4c72e4c1e5c07e6768f4a730c3423b810f27df51a0/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/46b6ec33ed7c30a840176d4c72e4c1e5c07e6768f4a730c3423b810f27df51a0/image3.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dd4376a4115ccde46124d74e410711fbdd8ecc5c028d3da88f04f15d95a8bff2/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dd4376a4115ccde46124d74e410711fbdd8ecc5c028d3da88f04f15d95a8bff2/image4.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9535aac4a0b792bf15d43294b0bcb466d19ac0e4cbb93241d96df55b9091517d/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9535aac4a0b792bf15d43294b0bcb466d19ac0e4cbb93241d96df55b9091517d/image5.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/34713c992912664497876962214e041568cbd95e7519508ada5809dbd091ecc8/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34713c992912664497876962214e041568cbd95e7519508ada5809dbd091ecc8/image6.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8325479b4323b2b7b2a7bda0a65e896470f3ac494705939ea5709879d9293f13/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8325479b4323b2b7b2a7bda0a65e896470f3ac494705939ea5709879d9293f13/image7.jpg"
+        },
+        {
+          "alt" : "High Society, 1 Grazier Lane Belconnen ACT 2617 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a7dff0a8f182b365123e404001d08afa9bb94d5025c3c8e2afeb9fb7964923c/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1a7dff0a8f182b365123e404001d08afa9bb94d5025c3c8e2afeb9fb7964923c/image8.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "XLJTOW",
+          "name" : "LJ Hooker Commercial - Toowoomba",
+          "salespeople" : [
+            {
+              "id" : "2224922",
+              "name" : "Chris Stewart",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/5e5bf8aedc8e3855bdf59a27ead0ee4d448385f218252fbbee72b3588aa27dc8/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/5e5bf8aedc8e3855bdf59a27ead0ee4d448385f218252fbbee72b3588aa27dc8/main.jpg"
+            },
+            {
+              "id" : "3254300",
+              "name" : "Nicole McEwan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/400fda1ef40aff285134c91523c6fd0ed3ea405a970e6c55e843c5e16d3d309c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/400fda1ef40aff285134c91523c6fd0ed3ea405a970e6c55e843c5e16d3d309c/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 69,
+      "agents" : [
+        {
+          "name" : "Chris Stewart",
+          "avatar" : "https://i1.au.reastatic.net/71x88/5e5bf8aedc8e3855bdf59a27ead0ee4d448385f218252fbbee72b3588aa27dc8/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/5e5bf8aedc8e3855bdf59a27ead0ee4d448385f218252fbbee72b3588aa27dc8/main.jpg"
+        },
+        {
+          "name" : "Nicole McEwan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/400fda1ef40aff285134c91523c6fd0ed3ea405a970e6c55e843c5e16d3d309c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/400fda1ef40aff285134c91523c6fd0ed3ea405a970e6c55e843c5e16d3d309c/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "134 - 410 m²",
+        "propertyTypes" : [
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "504450908",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-527-539-south-street-glenvale-qld-4350-504450908",
+      "title" : "Brand-New Medical Development within Strong Growth Corridor",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4350",
+        "agencyIds" : "XLJTOW",
+        "subscription" : "",
+        "suburb" : "Glenvale",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XLJTOW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "527-539 South Street",
+        "postcode" : "4350",
+        "suburb" : "Glenvale",
+        "suburbAddress" : "Glenvale, QLD 4350"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "527-539 South Street",
+        "suburbAddress" : "Glenvale, QLD 4350"
+      },
+      "branding" : {
+        "color" : "#010502",
+        "logo" : {
+          "alt" : "LJ Hooker Commercial - Toowoomba",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/58a65c2a83f8246811e0fdcf02ed8e1f42d44ba43857b3c5d34e428a129ebced/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/58a65c2a83f8246811e0fdcf02ed8e1f42d44ba43857b3c5d34e428a129ebced/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/68c95567344d7100f89aeae241bf144a0b2bb0b506c37351ac3b73f4af6effab/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/68c95567344d7100f89aeae241bf144a0b2bb0b506c37351ac3b73f4af6effab/image0.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b8cd049563ee23cac8a40a96c0605ea43e468d54c8c558c08229c18d5cb9ec9a/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b8cd049563ee23cac8a40a96c0605ea43e468d54c8c558c08229c18d5cb9ec9a/image1.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cb7c35616a224b60b30227ec6ec35bdf38025b1b31b566002f93c170d6b09eba/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cb7c35616a224b60b30227ec6ec35bdf38025b1b31b566002f93c170d6b09eba/image2.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/22174c99d5b836f26db7eefacd0a6333052ed3aa14832bb905f279bdfc3617dc/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/22174c99d5b836f26db7eefacd0a6333052ed3aa14832bb905f279bdfc3617dc/image3.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/146d5aacbf776809421f46aaadc6b66e32fcbcd86ff2b2a7e90a50aa2be641d2/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/146d5aacbf776809421f46aaadc6b66e32fcbcd86ff2b2a7e90a50aa2be641d2/image4.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8289ac465f490f3fa5f41883b4d5026c579804839ff35629547c14a3ee3494cb/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8289ac465f490f3fa5f41883b4d5026c579804839ff35629547c14a3ee3494cb/image5.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f13e0f92f77d42b8ff93d8c0c4478e20e614692d8231e50098198d83a0f3bc25/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f13e0f92f77d42b8ff93d8c0c4478e20e614692d8231e50098198d83a0f3bc25/image6.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b21e829eb21bf28f1fd5a9f7eae26ea3a514ad2501154866c706aeda2fde8edb/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b21e829eb21bf28f1fd5a9f7eae26ea3a514ad2501154866c706aeda2fde8edb/image7.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/345b666c0f3b4fe8af8df5788cf6edb21a87c3eaffe81725b665be2b7d4fac1f/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/345b666c0f3b4fe8af8df5788cf6edb21a87c3eaffe81725b665be2b7d4fac1f/image8.jpg"
+        },
+        {
+          "alt" : "527-539 South Street Glenvale QLD 4350 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6c508b18d759e8c74c3b74a7bba7e1ab57d2165c8f68433daff015544a86abc9/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6c508b18d759e8c74c3b74a7bba7e1ab57d2165c8f68433daff015544a86abc9/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Total area of 1,594sqm - 3,182sqm",
+        "Situated on 5,460sqm site",
+        "Available individually or in-one-line"
+      ],
+      "agencies" : [
+        {
+          "id" : "UZJMXB",
+          "name" : "Modus Property Group",
+          "salespeople" : [
+            {
+              "id" : "3293132",
+              "name" : "Nick Bandiera",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 69,
+      "agents" : [
+        {
+          "name" : "Nick Bandiera",
+          "avatar" : "https://i1.au.reastatic.net/71x88/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/fcc9a51a5489a87919b6aff283e78a9d370c68d703d958fa53b8f27cdacb82ac/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "0.55 ha (1.35 acres)",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Land/Development"
+        ]
+      },
+      "id" : "504450876",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-26-30-griffin-crescent-brendale-qld-4500-504450876",
+      "title" : "Premium Industrial Development – Coming 2024",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4500",
+        "agencyIds" : "UZJMXB",
+        "subscription" : "",
+        "suburb" : "Brendale",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UZJMXB"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "26-30 Griffin Crescent",
+        "postcode" : "4500",
+        "suburb" : "Brendale",
+        "suburbAddress" : "Brendale, QLD 4500"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "26-30 Griffin Crescent",
+        "suburbAddress" : "Brendale, QLD 4500"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Modus Property Group",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/ac5c24e180d0d7fa0a9f68b549d5b1e2e923ea468c2bf71b3c999c72179dac2d/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ac5c24e180d0d7fa0a9f68b549d5b1e2e923ea468c2bf71b3c999c72179dac2d/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "26-30 Griffin Crescent Brendale QLD 4500 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5ee755849a4ca24584d4570e71c08a0be9cb7b1c1f44eafdafd21e8d01363e76/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5ee755849a4ca24584d4570e71c08a0be9cb7b1c1f44eafdafd21e8d01363e76/image0.jpg"
+        },
+        {
+          "alt" : "26-30 Griffin Crescent Brendale QLD 4500 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b022a7142d3408c10ab854f9fa70b3173c17e2718db22611480bda5984aeee92/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b022a7142d3408c10ab854f9fa70b3173c17e2718db22611480bda5984aeee92/image1.jpg"
+        },
+        {
+          "alt" : "26-30 Griffin Crescent Brendale QLD 4500 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/91dc85d6ce9e0290ca1fda665254d1eb36fe6b00741192e1722c06fb1ed0fd17/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/91dc85d6ce9e0290ca1fda665254d1eb36fe6b00741192e1722c06fb1ed0fd17/image2.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Great views",
+        "Brand new space",
+        "New EOT facilities"
+      ],
+      "agencies" : [
+        {
+          "id" : "ZOGWXF",
+          "name" : "CBRE - Melbourne",
+          "salespeople" : [
+            {
+              "id" : "3083091",
+              "name" : "Mathew Kent",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/6f28f71f52345cc1265242a9129c76d662544699ffb81c45d550c9a0fd8e63cb/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/6f28f71f52345cc1265242a9129c76d662544699ffb81c45d550c9a0fd8e63cb/main.jpg"
+            },
+            {
+              "id" : "796215",
+              "name" : "Anthony Park",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/0a6eb92531ae75ce1015497855b5204038a211df68651a12fd7e8a4a79bb7cb5/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/0a6eb92531ae75ce1015497855b5204038a211df68651a12fd7e8a4a79bb7cb5/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 325,
+      "agents" : [
+        {
+          "name" : "Mathew Kent",
+          "avatar" : "https://i1.au.reastatic.net/71x88/6f28f71f52345cc1265242a9129c76d662544699ffb81c45d550c9a0fd8e63cb/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/6f28f71f52345cc1265242a9129c76d662544699ffb81c45d550c9a0fd8e63cb/main.jpg"
+        },
+        {
+          "name" : "Anthony Park",
+          "avatar" : "https://i1.au.reastatic.net/71x88/0a6eb92531ae75ce1015497855b5204038a211df68651a12fd7e8a4a79bb7cb5/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/0a6eb92531ae75ce1015497855b5204038a211df68651a12fd7e8a4a79bb7cb5/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "200 - 3100 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504253640",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-12-clarke-street-sunshine-vic-3020-504253640",
+      "title" : "NEW A-GRADE OFFICE BUILDING LOCATED IN THE HEART OF SUNSHINE’S TOWN CENTRE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "VIC",
+        "postcode" : "3020",
+        "agencyIds" : "ZOGWXF",
+        "subscription" : "",
+        "suburb" : "Sunshine",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ZOGWXF"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "12 Clarke Street",
+        "postcode" : "3020",
+        "suburb" : "Sunshine",
+        "suburbAddress" : "Sunshine, VIC 3020"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "12 Clarke Street",
+        "suburbAddress" : "Sunshine, VIC 3020"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Melbourne",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b23a540706be2d0f634170cd6ccfa1437987561f7858b018c3d3435115b02809/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b23a540706be2d0f634170cd6ccfa1437987561f7858b018c3d3435115b02809/image0.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/10967473f0538d9be2a587366f880835c15f305e0bdf3728eb5cefe330d16404/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/10967473f0538d9be2a587366f880835c15f305e0bdf3728eb5cefe330d16404/image1.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a9035069b079ab64d2ed6490be771197fab748665ad5c59d35e4cbb7bffab516/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a9035069b079ab64d2ed6490be771197fab748665ad5c59d35e4cbb7bffab516/image2.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3a8d452edf3f3171ed9683ed43468671c173a94746c06aacddaee286a7b29bf0/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3a8d452edf3f3171ed9683ed43468671c173a94746c06aacddaee286a7b29bf0/image3.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/10581cbf2a47f4ff71ec9d3706720bbbac5c3ef139383c64de60bdf46f43631c/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/10581cbf2a47f4ff71ec9d3706720bbbac5c3ef139383c64de60bdf46f43631c/image4.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/df5f22598d931aad4fa47651ca6a11ba3e93c7c43a759fe3a592e161ddbb4f27/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/df5f22598d931aad4fa47651ca6a11ba3e93c7c43a759fe3a592e161ddbb4f27/image5.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5d20c5f493ff61e27a769624009931471feb97721baeddf0349096ae048da4a6/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5d20c5f493ff61e27a769624009931471feb97721baeddf0349096ae048da4a6/image6.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/10db5d21e1f843e99f65859e25ee792c8f33f5908b8738c47d4db2d116af80d5/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/10db5d21e1f843e99f65859e25ee792c8f33f5908b8738c47d4db2d116af80d5/image7.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/50c8384b4ec5b15cf9624df06ccc9340d556fe88a48e5607940542f3ddb59620/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50c8384b4ec5b15cf9624df06ccc9340d556fe88a48e5607940542f3ddb59620/image8.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8ba2072cd8623f3b799fa9918b698d6ad1681ffbf6b0a0371569043d01a9a486/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8ba2072cd8623f3b799fa9918b698d6ad1681ffbf6b0a0371569043d01a9a486/image9.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ea2b6c1f21f8f60f22d0a25df6265ee49769f6805b276d98da2c00898af2866b/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ea2b6c1f21f8f60f22d0a25df6265ee49769f6805b276d98da2c00898af2866b/image10.jpg"
+        },
+        {
+          "alt" : "12 Clarke Street Sunshine VIC 3020 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63708b5a3410f80191e3929b8d3e338e021e405df38ce21d01e8bcf51070caef/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63708b5a3410f80191e3929b8d3e338e021e405df38ce21d01e8bcf51070caef/image11.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Prominent signage available",
+        "Walking distance to Perth CBD",
+        "Generous Incentives Available"
+      ],
+      "agencies" : [
+        {
+          "id" : "BKPUDJ",
+          "name" : "CBRE - Perth  ",
+          "salespeople" : [
+            {
+              "id" : "2704518",
+              "name" : "Jordan Fitzgerald",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9e6e8fef238b2280bbb45cc14433f0ee1044a6c9fdb954757e85ed3a5509c16a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9e6e8fef238b2280bbb45cc14433f0ee1044a6c9fdb954757e85ed3a5509c16a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 3229,
+      "agents" : [
+        {
+          "name" : "Jordan Fitzgerald",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9e6e8fef238b2280bbb45cc14433f0ee1044a6c9fdb954757e85ed3a5509c16a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9e6e8fef238b2280bbb45cc14433f0ee1044a6c9fdb954757e85ed3a5509c16a/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "355 - 437 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "500525327",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-610-murray-street-west-perth-wa-6005-500525327",
+      "title" : "FULLY FITTED OFFICES AVAILABLE",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "WA",
+        "postcode" : "6005",
+        "agencyIds" : "BKPUDJ",
+        "subscription" : "",
+        "suburb" : "West Perth",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "BKPUDJ"
+        }
+      },
+      "address" : {
+        "state" : "WA",
+        "streetAddress" : "610 Murray Street",
+        "postcode" : "6005",
+        "suburb" : "West Perth",
+        "suburbAddress" : "West Perth, WA 6005"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "610 Murray Street",
+        "suburbAddress" : "West Perth, WA 6005"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Perth  ",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5ad6740e9cf7da5cf1b3d159d0322d6a957e6458d92232d0ca2651566dd8231b/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5ad6740e9cf7da5cf1b3d159d0322d6a957e6458d92232d0ca2651566dd8231b/image0.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aeb3d357303052ce4d222bf25d7729f468aab906b72c5052ca85ffaafced11d6/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aeb3d357303052ce4d222bf25d7729f468aab906b72c5052ca85ffaafced11d6/image1.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e5ff743365c4cda5043c36eb0f5ef8a57037a66323bd2418dcf70b1a4af0f727/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e5ff743365c4cda5043c36eb0f5ef8a57037a66323bd2418dcf70b1a4af0f727/image2.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c0009e8a72f56403e8806283dafb47f9d345e88d9906f868dcea12e4dc8a7181/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c0009e8a72f56403e8806283dafb47f9d345e88d9906f868dcea12e4dc8a7181/image3.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/df27328db8fe758d8564ec83f9a2fc0fc8d5f94a0c9bb373b97e66116ef75e1b/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/df27328db8fe758d8564ec83f9a2fc0fc8d5f94a0c9bb373b97e66116ef75e1b/image4.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/abae01d512ef2faf3eeff2348cc9ac8b450e187b685ccd92fdf400af2da351b8/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/abae01d512ef2faf3eeff2348cc9ac8b450e187b685ccd92fdf400af2da351b8/image5.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1736eed8c7681db677afef6ac72dc0adf34f6efbc49f1ab46cf2ff4787994a5d/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1736eed8c7681db677afef6ac72dc0adf34f6efbc49f1ab46cf2ff4787994a5d/image6.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5b607fe73a4dc2c4c7d5e8152e484679bbf829e4f06e849f65c2a02b7da56208/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5b607fe73a4dc2c4c7d5e8152e484679bbf829e4f06e849f65c2a02b7da56208/image7.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1d4b076ed00fab88f34f79b0f751cc14c3d96383368a48ac68265d87baacf487/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1d4b076ed00fab88f34f79b0f751cc14c3d96383368a48ac68265d87baacf487/image8.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56584ff799b2f87ffd69ebf1c398e8bb5c0d211a392f799d25e09acc2d24fdec/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56584ff799b2f87ffd69ebf1c398e8bb5c0d211a392f799d25e09acc2d24fdec/image9.jpg"
+        },
+        {
+          "alt" : "610 Murray Street West Perth WA 6005 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/034b85f627da5001bc8c6a4ddd4748d1d2866313a03418db51e6fafea91c6415/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/034b85f627da5001bc8c6a4ddd4748d1d2866313a03418db51e6fafea91c6415/image10.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "UJHZYK",
+          "name" : "JLL - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "2022658",
+              "name" : "Harry Homan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 41,
+      "agents" : [
+        {
+          "name" : "Harry Homan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "344 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504472376",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-43-clinker-street-darra-qld-4076-504472376",
+      "title" : "Dual Level Corporate Office Accommodation",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4076",
+        "agencyIds" : "UJHZYK",
+        "subscription" : "",
+        "suburb" : "Darra",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "UJHZYK"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "43 Clinker Street",
+        "postcode" : "4076",
+        "suburb" : "Darra",
+        "suburbAddress" : "Darra, QLD 4076"
+      },
+      "details" : {
+        "price" : "Please Contact JLL",
+        "streetAddress" : "43 Clinker Street",
+        "suburbAddress" : "Darra, QLD 4076"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "JLL - Brisbane",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/165fef8e20dc5e0bd06eb71b8f8e48f028081c2ef97662336546a75817cb43b5/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/165fef8e20dc5e0bd06eb71b8f8e48f028081c2ef97662336546a75817cb43b5/image0.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b541f6181f4417e972403c74f693eb2ff84d0b828e3be8211cbebce57ca45621/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b541f6181f4417e972403c74f693eb2ff84d0b828e3be8211cbebce57ca45621/image1.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5552e7d0677a23b2eaecaa0d5bda85c01cd5030bdc0837f29af9d20eea641ad8/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5552e7d0677a23b2eaecaa0d5bda85c01cd5030bdc0837f29af9d20eea641ad8/image2.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5d88273e08c5c496a18cdd034c88f3eb9edce5a78257737a243643d22c142e69/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5d88273e08c5c496a18cdd034c88f3eb9edce5a78257737a243643d22c142e69/image3.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c4101a98054c34e99322a22169d0ff4b46ae5df1c3a86d3ab7401a617c510292/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c4101a98054c34e99322a22169d0ff4b46ae5df1c3a86d3ab7401a617c510292/image4.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/de07a763a5025b6f0f83c8d2775fcb4df1932fd407cfe326a5f63ed2b0c809fc/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/de07a763a5025b6f0f83c8d2775fcb4df1932fd407cfe326a5f63ed2b0c809fc/image5.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7d336ab40748af04e85f3c84e34d88e1ca177798f852b10549fde556876c891c/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7d336ab40748af04e85f3c84e34d88e1ca177798f852b10549fde556876c891c/image6.jpg"
+        },
+        {
+          "alt" : "43 Clinker Street Darra QLD 4076 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ae4f79e918e0c9f35cd970790f7616194a56f1bb94c15a83d160c8704c391ac5/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ae4f79e918e0c9f35cd970790f7616194a56f1bb94c15a83d160c8704c391ac5/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "The epicentre of the North Sydney CBD",
+        "Plenty of accessible amenity",
+        "Ease of access to Sydney CBD"
+      ],
+      "agencies" : [
+        {
+          "id" : "HCHYKK",
+          "name" : "CBRE - Sydney North",
+          "salespeople" : [
+            {
+              "id" : "1534686",
+              "name" : "Rachel Vincent",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg"
+            },
+            {
+              "id" : "1530814",
+              "name" : "Michael Darcy",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "YOSLOV",
+          "name" : "Cushman & Wakefield - Sydney",
+          "salespeople" : [
+            {
+              "id" : "2473078",
+              "name" : "Steve Clapham",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7a35b32223817188f0e39e2d48814b07c423bc35ae77999a642fc5a5c8445d7c/main.jpg"
+            },
+            {
+              "id" : "2466158",
+              "name" : "Giuseppe Ruberto",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/0e086e3f5cd489ad1ef34fb8591582073689b167e6a39c26eb791db462353170/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 828,
+      "agents" : [
+        {
+          "name" : "Rachel Vincent",
+          "avatar" : "https://i1.au.reastatic.net/71x88/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/bfe3e7b2b17dfefb18212d3ca59bb7d3fb03a7932de523531794588015a80fb2/main.jpg"
+        },
+        {
+          "name" : "Michael Darcy",
+          "avatar" : "https://i1.au.reastatic.net/71x88/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/872204b439cf5047713b5270e4db4489c2709235f9e140603abe2e88f63f7785/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "250 - 2041 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "503918474",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-60-miller-street-north-sydney-nsw-2060-503918474",
+      "title" : "Iconic building in North Sydney",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "alt" : "Cushman & Wakefield - Sydney",
+          "logoSize" : "170x32",
+          "brandingColor" : "#e4002b"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Cushman & Wakefield - Sydney"
+      ],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2060",
+        "agencyIds" : "HCHYKK,YOSLOV",
+        "subscription" : "",
+        "suburb" : "North Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "HCHYKK,YOSLOV"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "60 Miller Street",
+        "postcode" : "2060",
+        "suburb" : "North Sydney",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "details" : {
+        "price" : "Please contact agents.",
+        "streetAddress" : "60 Miller Street",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "branding" : {
+        "color" : "#003f2d",
+        "logo" : {
+          "alt" : "CBRE - Sydney North",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1009722fc9a50821dfca119e68a3aed99daa5e5a141def23f286731b67d93d61/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2152f3a1effac2ab48eba4bc4644891235cd0040b8dad4e6e232dacef0fcd1d6/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2152f3a1effac2ab48eba4bc4644891235cd0040b8dad4e6e232dacef0fcd1d6/image0.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/639c72ea6db40742e8dc531a9cf1c65ea0aece52ccf8772bdbf5e81491d4de2e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/639c72ea6db40742e8dc531a9cf1c65ea0aece52ccf8772bdbf5e81491d4de2e/image1.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fa9493424ac9b310bfb741378e1982fd8aea3c0e3a38a4627e896f079584b629/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fa9493424ac9b310bfb741378e1982fd8aea3c0e3a38a4627e896f079584b629/image2.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ddfde78d628b0163639509c48f9838f74790c9f9fef52f0c6db394844b210d96/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ddfde78d628b0163639509c48f9838f74790c9f9fef52f0c6db394844b210d96/image3.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/72212e25eb21d744e3a611dbe0a26ae8be8c4bc960251c25c42498cbd3f53cb1/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/72212e25eb21d744e3a611dbe0a26ae8be8c4bc960251c25c42498cbd3f53cb1/image4.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/419c826b97480f97f169de0ade5dbb5c3705d92b90aa51bd814dbcf72adeef7a/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/419c826b97480f97f169de0ade5dbb5c3705d92b90aa51bd814dbcf72adeef7a/image5.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9a4f666a347b049fc9449df2fdc39c40fbe5953700d7fd60ae3a8468197b20d6/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9a4f666a347b049fc9449df2fdc39c40fbe5953700d7fd60ae3a8468197b20d6/image6.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bea32a6a9060745f9cb70ba0d6965c76a6b62912ad8c5d5dd2e16a9428bfdf9e/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bea32a6a9060745f9cb70ba0d6965c76a6b62912ad8c5d5dd2e16a9428bfdf9e/image7.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8942307bcb3da384ba10891f811069d994fb76b6276e2b7ac61879a0d6cd5e0a/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8942307bcb3da384ba10891f811069d994fb76b6276e2b7ac61879a0d6cd5e0a/image8.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1b08860f63d346063f7e776611437f5854bce93d2bc696f0364b337d63bd3ed6/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1b08860f63d346063f7e776611437f5854bce93d2bc696f0364b337d63bd3ed6/image9.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fd9400ba6351f1607ca714b332cf4385ac97face394b8a94e86a0275956494de/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fd9400ba6351f1607ca714b332cf4385ac97face394b8a94e86a0275956494de/image10.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/67ac8031c1539270991c9b193ae01fa735ee3c2f686925c22a7a139d82675558/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/67ac8031c1539270991c9b193ae01fa735ee3c2f686925c22a7a139d82675558/image11.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/330becc3fa51132da0e71096d78455d7b132c7ec76907200aa405bee288f28e9/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/330becc3fa51132da0e71096d78455d7b132c7ec76907200aa405bee288f28e9/image12.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8fbc9f2a54db3e316e95f0a7c0e9a04b9f1d2d1029fe595ad3bc5a2af160cdd5/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8fbc9f2a54db3e316e95f0a7c0e9a04b9f1d2d1029fe595ad3bc5a2af160cdd5/image13.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cbcc816f8b9f37b23b1a9e01e8431ac2faa54562ce7aef21fecfcc35587c3c21/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cbcc816f8b9f37b23b1a9e01e8431ac2faa54562ce7aef21fecfcc35587c3c21/image14.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2c5420ad8b82e11602aca56823f9b88618375065f57a46442bd3beb67d4096b2/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2c5420ad8b82e11602aca56823f9b88618375065f57a46442bd3beb67d4096b2/image15.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a9d1bfd5d303d39bbd0db07af4874212d98aecb94e07f1a09335b452cda182f7/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a9d1bfd5d303d39bbd0db07af4874212d98aecb94e07f1a09335b452cda182f7/image16.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/daf83eb9c78fa88b81d41df0a468e3c60c13be5b26ae6f7151170ce674cd940e/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/daf83eb9c78fa88b81d41df0a468e3c60c13be5b26ae6f7151170ce674cd940e/image17.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a0127b303f37116e7b9a3fba0524c704d1ac06b2ec43248abcfd2e0f42630c0e/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a0127b303f37116e7b9a3fba0524c704d1ac06b2ec43248abcfd2e0f42630c0e/image18.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9cb8d0c17d036a6bd4ccfea642caab6321126c423728da5c781a85244b8cefa7/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9cb8d0c17d036a6bd4ccfea642caab6321126c423728da5c781a85244b8cefa7/image19.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/92e6cb7e36a477bddc10504cc32331dfca92a5ddf9c12505fcc3b84dd947b107/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/92e6cb7e36a477bddc10504cc32331dfca92a5ddf9c12505fcc3b84dd947b107/image20.jpg"
+        },
+        {
+          "alt" : "60 Miller Street North Sydney NSW 2060 - Image 22",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/053f4e3aa27236ac3e79100e0b9d33e97028194b8d02835df08e75dcb99ddbb9/image21.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/053f4e3aa27236ac3e79100e0b9d33e97028194b8d02835df08e75dcb99ddbb9/image21.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Signage rights available (STCA)",
+        "Located alongside Darling Harbour",
+        "Short walk to Town Hall Station"
+      ],
+      "agencies" : [
+        {
+          "id" : "UTSWJZ",
+          "name" : "Colliers - Sydney",
+          "salespeople" : [
+            {
+              "id" : "60080",
+              "name" : "Jock Gilchrist",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e78f6dbed0f3086cc2a93b2bcabe90ef6fd34c3395614a3c9fa9fce2415aa22e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e78f6dbed0f3086cc2a93b2bcabe90ef6fd34c3395614a3c9fa9fce2415aa22e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 48,
+      "agents" : [
+        {
+          "name" : "Jock Gilchrist",
+          "avatar" : "https://i1.au.reastatic.net/71x88/e78f6dbed0f3086cc2a93b2bcabe90ef6fd34c3395614a3c9fa9fce2415aa22e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/e78f6dbed0f3086cc2a93b2bcabe90ef6fd34c3395614a3c9fa9fce2415aa22e/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1358 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504467444",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-corn-exchange-building-173-185-sussex-street-sydney-nsw-2000-504467444",
+      "title" : "Rare Character Offering in Sydney CBD",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2000",
+        "agencyIds" : "UTSWJZ",
+        "subscription" : "",
+        "suburb" : "Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UTSWJZ"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Corn Exchange Building 173-185 Sussex Street",
+        "postcode" : "2000",
+        "suburb" : "Sydney",
+        "suburbAddress" : "Sydney, NSW 2000"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Corn Exchange Building 173-185 Sussex Street",
+        "suburbAddress" : "Sydney, NSW 2000"
+      },
+      "branding" : {
+        "color" : "#25408f",
+        "logo" : {
+          "alt" : "Colliers - Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34229594904b963f0d733600ae1d2806ce327c663109786938165bd5b0f3cbfb/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f54fd132c75a9acf7c5bb93385f52d147d91282a019eefb06fe77c4e107248bd/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f54fd132c75a9acf7c5bb93385f52d147d91282a019eefb06fe77c4e107248bd/image0.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/06097131aed3f55c965679a8c6b175c7f88ed80541c37833d493b26650f437d4/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/06097131aed3f55c965679a8c6b175c7f88ed80541c37833d493b26650f437d4/image1.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fad16a89635126b27a7afb5f45b597e4cf99d4949cd8998ed2441bd5aa11660f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fad16a89635126b27a7afb5f45b597e4cf99d4949cd8998ed2441bd5aa11660f/image2.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4d944170b783a15ddbdab1c1fccc666a277696caa619e794763375c0f5947c88/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4d944170b783a15ddbdab1c1fccc666a277696caa619e794763375c0f5947c88/image3.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/462bc5f99c46e27a6a3e2933423371ca590f83c0dfe594f61c41957d367fefa2/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/462bc5f99c46e27a6a3e2933423371ca590f83c0dfe594f61c41957d367fefa2/image4.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c826640cd9792627ec3048ec2091c85854e407f35aa3afcfa4c8c5e872c37708/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c826640cd9792627ec3048ec2091c85854e407f35aa3afcfa4c8c5e872c37708/image5.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d7d519a6de34f124a8f3ab88f4c1bce9c9fb935586f887566c4c1e7ee8a3b954/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d7d519a6de34f124a8f3ab88f4c1bce9c9fb935586f887566c4c1e7ee8a3b954/image6.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/115242c709100b2d72b27afc8bbafcd251292522ac2aa5b36e6012598e844335/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/115242c709100b2d72b27afc8bbafcd251292522ac2aa5b36e6012598e844335/image7.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1dd491f8a9b30718bbf2d8502b0de0afbc60564ddd0121b7b568195bda73374d/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1dd491f8a9b30718bbf2d8502b0de0afbc60564ddd0121b7b568195bda73374d/image8.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0872b671ead6c83d3ace00e2c9f7ea1a2e1c1f93531692c140f7214bc367a4ee/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0872b671ead6c83d3ace00e2c9f7ea1a2e1c1f93531692c140f7214bc367a4ee/image9.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/79e2973568e9383f310fcfff92769da68fde92d70a445832b45f799a08747e09/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/79e2973568e9383f310fcfff92769da68fde92d70a445832b45f799a08747e09/image10.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4f8bc1b5bb94693c4daa61f0c908c27dcfceb8084dee3516ca13ce12969e3bb1/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4f8bc1b5bb94693c4daa61f0c908c27dcfceb8084dee3516ca13ce12969e3bb1/image11.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b328c8a50e5d5685af291241a835dfa73d2cc16a6babe95f373e464cbe20c5b8/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b328c8a50e5d5685af291241a835dfa73d2cc16a6babe95f373e464cbe20c5b8/image12.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8da9c080c79393fd216b3bf0a70f56d0de8fe430fe3d9afde3693d627a3ee407/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8da9c080c79393fd216b3bf0a70f56d0de8fe430fe3d9afde3693d627a3ee407/image13.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/39076c2ac05b998d743ae3b6003b65502c15bf656177c87e230bdb15900f25c2/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/39076c2ac05b998d743ae3b6003b65502c15bf656177c87e230bdb15900f25c2/image14.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6f4dc268d8a47ae619a203e3962c9d6b41ca854d9a5a14a0bca77cad2b75f0a6/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6f4dc268d8a47ae619a203e3962c9d6b41ca854d9a5a14a0bca77cad2b75f0a6/image15.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a4730d7243e77972adce3b3d11a2de490a0e6f6bfdea5925de2d645e142b206c/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a4730d7243e77972adce3b3d11a2de490a0e6f6bfdea5925de2d645e142b206c/image16.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bc058ace4385de63b7f1e7a1420784f94085a18eb87b721e30a146b9cab23bed/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc058ace4385de63b7f1e7a1420784f94085a18eb87b721e30a146b9cab23bed/image17.jpg"
+        },
+        {
+          "alt" : "Corn Exchange Building 173-185 Sussex Street Sydney NSW 2000 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/28dc1aee93e96183e4d496d2fa62237805fc6fc771e5baeeac7bf7c1af7ef61c/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/28dc1aee93e96183e4d496d2fa62237805fc6fc771e5baeeac7bf7c1af7ef61c/image18.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Private Full Floor Office Available",
+        "RACQ Owned and Managed",
+        "Central Edward Street Location"
+      ],
+      "agencies" : [
+        {
+          "id" : "UZJBVI",
+          "name" : "Caden Office Leasing - Brisbane City",
+          "salespeople" : [
+            {
+              "id" : "2615006",
+              "name" : "Angus Smith",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/51477b189eddff2bc9584b4854d9c342c6a8266975a93689b859edb5f6f0a4a6/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/51477b189eddff2bc9584b4854d9c342c6a8266975a93689b859edb5f6f0a4a6/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 1270,
+      "agents" : [
+        {
+          "name" : "Angus Smith",
+          "avatar" : "https://i1.au.reastatic.net/71x88/51477b189eddff2bc9584b4854d9c342c6a8266975a93689b859edb5f6f0a4a6/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/51477b189eddff2bc9584b4854d9c342c6a8266975a93689b859edb5f6f0a4a6/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "511 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting"
+        ]
+      },
+      "id" : "503580534",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-racq-house-level-10-60-edward-street-brisbane-city-qld-4000-503580534",
+      "title" : "EXPANSIVE 511sqm OPPORTUNITY AT 60 EDWARD STREET",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4000",
+        "agencyIds" : "UZJBVI",
+        "subscription" : "",
+        "suburb" : "Brisbane City",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UZJBVI"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "RACQ House, Level 10, 60  Edward Street",
+        "postcode" : "4000",
+        "suburb" : "Brisbane City",
+        "suburbAddress" : "Brisbane City, QLD 4000"
+      },
+      "details" : {
+        "price" : "$265,000 P.A. | $750 per m² P.A. excluding GST",
+        "streetAddress" : "RACQ House, Level 10, 60  Edward Street",
+        "suburbAddress" : "Brisbane City, QLD 4000"
+      },
+      "branding" : {
+        "color" : "#181818",
+        "logo" : {
+          "alt" : "Caden Office Leasing - Brisbane City",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/8e7803095083528f53d9ad45953a4492770f061a0911a0d4831b60202aa3b706/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e7803095083528f53d9ad45953a4492770f061a0911a0d4831b60202aa3b706/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8e5d6b9d39e62c36bf8f5e7b75ece93b0c1fc36ecbed49f3cbadeb435bc901c9/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e5d6b9d39e62c36bf8f5e7b75ece93b0c1fc36ecbed49f3cbadeb435bc901c9/image0.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/13978bec08a8f8c4a0ad44ad675180677665adc84fea563a447006056d270655/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/13978bec08a8f8c4a0ad44ad675180677665adc84fea563a447006056d270655/image1.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ea07cdb43a1643f88a62afa56b819a39f873698a9c2e6cbf95fc58e78a830446/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ea07cdb43a1643f88a62afa56b819a39f873698a9c2e6cbf95fc58e78a830446/image2.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f865028ad3c6662f56b31b2e71d0360c9d2942677b36430f64001e7d28d2fe90/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f865028ad3c6662f56b31b2e71d0360c9d2942677b36430f64001e7d28d2fe90/image3.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8e7e228cc06706b7f24568c829358e2896289cbd859a4d34347ca6e26c155373/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e7e228cc06706b7f24568c829358e2896289cbd859a4d34347ca6e26c155373/image4.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5bdf737c6a6881f15f0cc5e910c3a786c6e294f6211dc4172e0ed78ffd68a98f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5bdf737c6a6881f15f0cc5e910c3a786c6e294f6211dc4172e0ed78ffd68a98f/image5.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8bc5c26b9c64fa6a02357ad544d2689182c7d9d5869d1cd23c1f0fb964e0cac0/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8bc5c26b9c64fa6a02357ad544d2689182c7d9d5869d1cd23c1f0fb964e0cac0/image6.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a5578da26a970ae8d9a84825f311c1f2eacfa6e085509edb2a07d2eb895212dd/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a5578da26a970ae8d9a84825f311c1f2eacfa6e085509edb2a07d2eb895212dd/image7.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a94c175cb290f7a48553736742e1a558d869e870f974c5e92f7a2b676d94c926/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a94c175cb290f7a48553736742e1a558d869e870f974c5e92f7a2b676d94c926/image8.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b2b16f13290328ba16946fc0acddce866451bae0104b9db29e3649c5e07abd45/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b2b16f13290328ba16946fc0acddce866451bae0104b9db29e3649c5e07abd45/image9.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d091233145f2391779875a30ab097a5831827f8006d02702c137b3b935745510/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d091233145f2391779875a30ab097a5831827f8006d02702c137b3b935745510/image10.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7ee2f26464b19825874a5763c90d8f9c343e96b72667ea17d1e9c329b6502b38/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7ee2f26464b19825874a5763c90d8f9c343e96b72667ea17d1e9c329b6502b38/image11.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b108963d0fe3d03875c497036211953eaba4e3db74b06222c31e55443918c3a4/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b108963d0fe3d03875c497036211953eaba4e3db74b06222c31e55443918c3a4/image12.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cf01241d8743354c8de399ed14c5932c77aa7c3940b3596ffd021fe834138c27/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cf01241d8743354c8de399ed14c5932c77aa7c3940b3596ffd021fe834138c27/image13.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0cfe87ca3820b66286c8ff0287c44649843cd106288fc8be097cf4f46c863821/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0cfe87ca3820b66286c8ff0287c44649843cd106288fc8be097cf4f46c863821/image14.jpg"
+        },
+        {
+          "alt" : "RACQ House, Level 10, 60  Edward Street Brisbane City QLD 4000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8150c9376d9d5c9fdf8daf413e0fdee2a491ad30f3164e39cc00ab8c89787d03/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8150c9376d9d5c9fdf8daf413e0fdee2a491ad30f3164e39cc00ab8c89787d03/image15.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "QLD",
+    "floorArea" : "227 - 2423 m²",
+    "suburb" : "arundel",
+    "proptype" : "industrial_warehouse",
+    "region" : "north_gold_coast",
+    "postcode" : "4214",
+    "price" : "Contact exclusive agent"
+  }
+}

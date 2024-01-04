@@ -1,0 +1,1572 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "Exposure to 39,000 vehicles per day",
+        "Incentives available",
+        "71sqm to 142sqm available"
+      ],
+      "agencies" : [
+        {
+          "id" : "XRWXPZ",
+          "name" : "RWC  - QUEENSLAND     ",
+          "salespeople" : [
+            {
+              "id" : "1748518",
+              "name" : "Elliot Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+            },
+            {
+              "id" : "1476158",
+              "name" : "Stephen Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "XZATPW",
+          "name" : "Dexus",
+          "salespeople" : [
+            {
+              "id" : "1723630",
+              "name" : "Cameron Haddad",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 111,
+      "agents" : [
+        {
+          "name" : "Elliot Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+        },
+        {
+          "name" : "Stephen Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "71 - 142 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting",
+          "Offices"
+        ],
+        "carSpaces" : 29
+      },
+      "id" : "504418808",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-3201-old-cleveland-road-chandler-qld-4155-504418808",
+      "title" : "Last remaining vacancies at high performing service centre - rents from $700 per week + outgoings",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "logo" : "https://i1.au.reastatic.net/84x63/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "alt" : "Dexus",
+          "logoSize" : "84x63",
+          "brandingColor" : "#1e1d1c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Dexus"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4155",
+        "agencyIds" : "XRWXPZ,XZATPW",
+        "subscription" : "",
+        "suburb" : "Chandler",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XRWXPZ,XZATPW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "3201 Old Cleveland Road",
+        "postcode" : "4155",
+        "suburb" : "Chandler",
+        "suburbAddress" : "Chandler, QLD 4155"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "3201 Old Cleveland Road",
+        "suburbAddress" : "Chandler, QLD 4155"
+      },
+      "branding" : {
+        "color" : "#FFE512",
+        "logo" : {
+          "alt" : "RWC  - QUEENSLAND     ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ccd19700ad3bc5d0158ac62fd9089b4a3f2af30116454dddd32ec76d7d0624f8/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ccd19700ad3bc5d0158ac62fd9089b4a3f2af30116454dddd32ec76d7d0624f8/image0.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1aa4bba707610d8d68ec9ffae4778d1835555421f512531c1ad17a6ac43cf58a/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1aa4bba707610d8d68ec9ffae4778d1835555421f512531c1ad17a6ac43cf58a/image1.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d0393d1964b35f175198202affcec4e92448d794352dc6fe55213d1d308f40d6/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d0393d1964b35f175198202affcec4e92448d794352dc6fe55213d1d308f40d6/image2.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/68e8db83108c53d809fc6270f0a3e0e7f92c4fa835f70b56e66cc5d6ec579eb9/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/68e8db83108c53d809fc6270f0a3e0e7f92c4fa835f70b56e66cc5d6ec579eb9/image3.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/aab2adc7ffe27e02a6a64054456d72b1f001916bf40f2c113a7046dbb6277cf5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/aab2adc7ffe27e02a6a64054456d72b1f001916bf40f2c113a7046dbb6277cf5/image4.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/40f54340bcaa5612e642042b450ea0869592398ab0ea91eaafabe50135f9405d/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/40f54340bcaa5612e642042b450ea0869592398ab0ea91eaafabe50135f9405d/image5.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/25e46b0832f6b6084e217209acc0e633d3bc3c528aa2663ecff7e2b2ec69c7f3/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/25e46b0832f6b6084e217209acc0e633d3bc3c528aa2663ecff7e2b2ec69c7f3/image6.jpg"
+        },
+        {
+          "alt" : "3201 Old Cleveland Road Chandler QLD 4155 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e79cb7d5b5ecdbc021add9cbe2a79c23c996f82af02dcba30d45810589c0c026/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e79cb7d5b5ecdbc021add9cbe2a79c23c996f82af02dcba30d45810589c0c026/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Exposure to 27,400 vehicles per day",
+        "Incentives available",
+        "Extensive internal fitout in place"
+      ],
+      "agencies" : [
+        {
+          "id" : "XRWXPZ",
+          "name" : "RWC  - QUEENSLAND     ",
+          "salespeople" : [
+            {
+              "id" : "1748518",
+              "name" : "Elliot Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+            },
+            {
+              "id" : "1476158",
+              "name" : "Stephen Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "XZATPW",
+          "name" : "Dexus",
+          "salespeople" : [
+            {
+              "id" : "1723630",
+              "name" : "Cameron Haddad",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 111,
+      "agents" : [
+        {
+          "name" : "Elliot Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+        },
+        {
+          "name" : "Stephen Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "79 m²",
+        "propertyTypes" : [
+          "Retail"
+        ],
+        "carSpaces" : 34
+      },
+      "id" : "504418624",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-79-89-mulgrave-road-parramatta-park-qld-4870-504418624",
+      "title" : "Highly sought-after drive-thru for lease with existing fitout ",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "logo" : "https://i1.au.reastatic.net/84x63/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "alt" : "Dexus",
+          "logoSize" : "84x63",
+          "brandingColor" : "#1e1d1c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Dexus"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4870",
+        "agencyIds" : "XRWXPZ,XZATPW",
+        "subscription" : "",
+        "suburb" : "Parramatta Park",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XRWXPZ,XZATPW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "79-89 Mulgrave Road",
+        "postcode" : "4870",
+        "suburb" : "Parramatta Park",
+        "suburbAddress" : "Parramatta Park, QLD 4870"
+      },
+      "details" : {
+        "price" : "From $1000 per week plus outgoings",
+        "streetAddress" : "79-89 Mulgrave Road",
+        "suburbAddress" : "Parramatta Park, QLD 4870"
+      },
+      "branding" : {
+        "color" : "#FFE512",
+        "logo" : {
+          "alt" : "RWC  - QUEENSLAND     ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/744903a0d55c769da06e3416327fe681a584df1be5386a4139a07045cc06741b/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/744903a0d55c769da06e3416327fe681a584df1be5386a4139a07045cc06741b/image0.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/92a25ec9149e821836919e60b5a771f8c814840fe2fa42a348e413a85bbee5d1/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/92a25ec9149e821836919e60b5a771f8c814840fe2fa42a348e413a85bbee5d1/image1.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a235778af04d3ce87715ed0bfaaeed48d1f66a410740c5fdf3bc1861f1a2891e/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a235778af04d3ce87715ed0bfaaeed48d1f66a410740c5fdf3bc1861f1a2891e/image2.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5e40a31a618b4d70b067b04f9e43f6d44ce4b45d378ec4a7a1e9bc9213621a73/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5e40a31a618b4d70b067b04f9e43f6d44ce4b45d378ec4a7a1e9bc9213621a73/image3.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2e9ffd974aa36219c10cdb61c250d219168531746b23a122f567fe1721c65a81/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2e9ffd974aa36219c10cdb61c250d219168531746b23a122f567fe1721c65a81/image4.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1d7ee5083e39faef6b1a647ff27fcebae08dd6f9efb9d1ac5633d4fca9a8378c/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1d7ee5083e39faef6b1a647ff27fcebae08dd6f9efb9d1ac5633d4fca9a8378c/image5.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9625cc7dd200b593afef4d7f7f3ecd2f35c9b890386233f1c92b8c6a61122cd5/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9625cc7dd200b593afef4d7f7f3ecd2f35c9b890386233f1c92b8c6a61122cd5/image6.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8122ac35ed1bddc466857cba68307354ce6e0da24212e5276fdfd7148d56cae9/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8122ac35ed1bddc466857cba68307354ce6e0da24212e5276fdfd7148d56cae9/image7.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63d091a44257e9da6d7086ba41e116e78db67daba646a8489b8ee7c3a698fe56/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63d091a44257e9da6d7086ba41e116e78db67daba646a8489b8ee7c3a698fe56/image8.jpg"
+        },
+        {
+          "alt" : "79-89 Mulgrave Road Parramatta Park QLD 4870 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9b6236643a63206e4cd11cd01173b3fc326bf00bb5fc5dcd5cc5ecddfbb19af7/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9b6236643a63206e4cd11cd01173b3fc326bf00bb5fc5dcd5cc5ecddfbb19af7/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Exposure to 10,500 vehicles per day",
+        "Incentives available",
+        "Extensive internal fitout in place"
+      ],
+      "agencies" : [
+        {
+          "id" : "XRWXPZ",
+          "name" : "RWC  - QUEENSLAND     ",
+          "salespeople" : [
+            {
+              "id" : "1748518",
+              "name" : "Elliot Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+            },
+            {
+              "id" : "1476158",
+              "name" : "Stephen Kidd",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "XZATPW",
+          "name" : "Dexus",
+          "salespeople" : [
+            {
+              "id" : "1723630",
+              "name" : "Cameron Haddad",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/de0c89ac220d0d9a68b468237bccbf200dba07729a65530766579a7854a0063a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 111,
+      "agents" : [
+        {
+          "name" : "Elliot Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/34d4b434f002c81f5009571b8454dbc4e913f9a560edaef939acef1c0c039c26/main.jpg"
+        },
+        {
+          "name" : "Stephen Kidd",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f5ba1da1f94eb6236c93ec4448a73346698ecd8a68db6659a34ec1a31f122ac1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "121 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting",
+          "Offices"
+        ],
+        "carSpaces" : 34
+      },
+      "id" : "504417816",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-63-raceview-street-raceview-qld-4305-504417816",
+      "title" : "Last remaining vacancy - 121sqm for lease",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "logo" : "https://i1.au.reastatic.net/84x63/5bce0408af8b5f00be76eeeed27998367977b4f295359168060adfc32f42e165/large_commercial.gif",
+          "alt" : "Dexus",
+          "logoSize" : "84x63",
+          "brandingColor" : "#1e1d1c"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Dexus"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4305",
+        "agencyIds" : "XRWXPZ,XZATPW",
+        "subscription" : "",
+        "suburb" : "Raceview",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XRWXPZ,XZATPW"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "63 Raceview Street",
+        "postcode" : "4305",
+        "suburb" : "Raceview",
+        "suburbAddress" : "Raceview, QLD 4305"
+      },
+      "details" : {
+        "price" : "From $990 per week plus outgoings",
+        "streetAddress" : "63 Raceview Street",
+        "suburbAddress" : "Raceview, QLD 4305"
+      },
+      "branding" : {
+        "color" : "#FFE512",
+        "logo" : {
+          "alt" : "RWC  - QUEENSLAND     ",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/eae183b126ba170cbfe6fd19c080c65d08268ad29144afd30dc2403f810834d4/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7dec10a6468e47c466f33c8889540360b5639601de84891ad7628386d3a88c46/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7dec10a6468e47c466f33c8889540360b5639601de84891ad7628386d3a88c46/image0.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56e5c5a8b9468a84bd60bec66c2b8e09237e1a48bd2371fb614ebb0dfac0d7e5/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56e5c5a8b9468a84bd60bec66c2b8e09237e1a48bd2371fb614ebb0dfac0d7e5/image1.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c7418a33c266fc5f0eb19e3251b84acc1f89476b144ac9e0ae86781eba2dbff5/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c7418a33c266fc5f0eb19e3251b84acc1f89476b144ac9e0ae86781eba2dbff5/image2.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5393a4a809e250d0e53b9cc40c9e8ec97dd2c039829092ea4a1fa2d4e6670a56/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5393a4a809e250d0e53b9cc40c9e8ec97dd2c039829092ea4a1fa2d4e6670a56/image3.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/331ba6a04dc0075398aa9000f1c696004936f4634dcdf76c92735b96e77d54df/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/331ba6a04dc0075398aa9000f1c696004936f4634dcdf76c92735b96e77d54df/image4.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8dec76d123621cdfe5510220f140b7e3f8b0d932bc219e9065898d32a6194d1c/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8dec76d123621cdfe5510220f140b7e3f8b0d932bc219e9065898d32a6194d1c/image5.jpg"
+        },
+        {
+          "alt" : "63 Raceview Street Raceview QLD 4305 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e1103d1781bddec114e7f25415d7f9713aaa6440cfb029b0f3cf424311b9ad96/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e1103d1781bddec114e7f25415d7f9713aaa6440cfb029b0f3cf424311b9ad96/image6.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "At grade car parking",
+        "Prominent location on busy arterial road",
+        "Anchored by Woolworths Supermarket"
+      ],
+      "agencies" : [
+        {
+          "id" : "PPUFVZ",
+          "name" : "Handler Property",
+          "salespeople" : [
+            {
+              "id" : "3278764",
+              "name" : "Rebecca Steinmuller",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/eef167da08093885f599317507eeda3a76e217d2e958f6a9de77017a079d9154/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/eef167da08093885f599317507eeda3a76e217d2e958f6a9de77017a079d9154/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 153,
+      "agents" : [
+        {
+          "name" : "Rebecca Steinmuller",
+          "avatar" : "https://i1.au.reastatic.net/71x88/eef167da08093885f599317507eeda3a76e217d2e958f6a9de77017a079d9154/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/eef167da08093885f599317507eeda3a76e217d2e958f6a9de77017a079d9154/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "148 - 350 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504386816",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-woolworths-rothwell-763-deception-bay-road-rothwell-qld-4022-504386816",
+      "title" : "Woolworths Rothwell - Now Leasing",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4022",
+        "agencyIds" : "PPUFVZ",
+        "subscription" : "",
+        "suburb" : "Rothwell",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "PPUFVZ"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Woolworths Rothwell, 763 Deception Bay Road",
+        "postcode" : "4022",
+        "suburb" : "Rothwell",
+        "suburbAddress" : "Rothwell, QLD 4022"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Woolworths Rothwell, 763 Deception Bay Road",
+        "suburbAddress" : "Rothwell, QLD 4022"
+      },
+      "branding" : {
+        "color" : "#13284c",
+        "logo" : {
+          "alt" : "Handler Property",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/edd026a00601c4be0ec438bd6a610b97128d49821e7e4602a75624791ac6f604/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/edd026a00601c4be0ec438bd6a610b97128d49821e7e4602a75624791ac6f604/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Woolworths Rothwell, 763 Deception Bay Road Rothwell QLD 4022 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9815defb849594805d91fe787aed3ee64800bd43bc22167e5c2050af16c35154/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9815defb849594805d91fe787aed3ee64800bd43bc22167e5c2050af16c35154/image0.jpg"
+        },
+        {
+          "alt" : "Woolworths Rothwell, 763 Deception Bay Road Rothwell QLD 4022 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f3ef8e971cf9dfd1add74bb6c0d02628759b174a80232ba8093bdf691f152afc/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f3ef8e971cf9dfd1add74bb6c0d02628759b174a80232ba8093bdf691f152afc/image1.jpg"
+        },
+        {
+          "alt" : "Woolworths Rothwell, 763 Deception Bay Road Rothwell QLD 4022 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3b217f0f6a3303ab8e5bfd347d92708a039eae1e109862e4585c1379082e6a1b/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3b217f0f6a3303ab8e5bfd347d92708a039eae1e109862e4585c1379082e6a1b/image2.jpg"
+        },
+        {
+          "alt" : "Woolworths Rothwell, 763 Deception Bay Road Rothwell QLD 4022 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/49316b955768123b255f11958f9360f79c6914170e28cb84ec4d22f9f7a6c229/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/49316b955768123b255f11958f9360f79c6914170e28cb84ec4d22f9f7a6c229/image3.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "A North Sydney icon",
+        "Premium Grade Office Tower",
+        "Direct transport connections adjoining"
+      ],
+      "agencies" : [
+        {
+          "id" : "FBBABH",
+          "name" : "Mirvac - Commercial Sydney",
+          "salespeople" : [
+            {
+              "id" : "3322828",
+              "name" : "Emily Russell"
+            },
+            {
+              "id" : "3322800",
+              "name" : "Greg McManus"
+            }
+          ]
+        },
+        {
+          "id" : "HMHRBV",
+          "name" : "JLL - North Sydney",
+          "salespeople" : [
+            {
+              "id" : "2594346",
+              "name" : "Amy Cordiner",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/3e63a3acc8ed2c8ce1bfc7cb4a55de1dfcb65f69798a952220e98c19fe5cc10c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/3e63a3acc8ed2c8ce1bfc7cb4a55de1dfcb65f69798a952220e98c19fe5cc10c/main.jpg"
+            },
+            {
+              "id" : "68392",
+              "name" : "Paul Lynch",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9ce9d9ac555a452147577410ed9d153784d2dea222cc03dfdb7b428c29de7dae/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9ce9d9ac555a452147577410ed9d153784d2dea222cc03dfdb7b428c29de7dae/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 24,
+      "agents" : [],
+      "attributes" : {
+        "area" : "125 - 1381 m²",
+        "propertyTypes" : [
+          "Offices"
+        ],
+        "carSpaces" : 547
+      },
+      "id" : "504435776",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-101-miller-street-north-sydney-nsw-2060-504435776",
+      "title" : "North Sydney's most prestigious corporate address",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/3fdb3de4e4f4dd206e4d2c482a4c3912fc913f3d545c665bfc2b5856b8eb53ea/large_commercial.jpg",
+          "logo" : "https://i1.au.reastatic.net/84x63/3fdb3de4e4f4dd206e4d2c482a4c3912fc913f3d545c665bfc2b5856b8eb53ea/large_commercial.jpg",
+          "alt" : "JLL - North Sydney",
+          "logoSize" : "84x63",
+          "brandingColor" : "#000000"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "JLL - North Sydney"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2060",
+        "agencyIds" : "FBBABH,HMHRBV",
+        "subscription" : "",
+        "suburb" : "North Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "FBBABH,HMHRBV"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "101  Miller Street",
+        "postcode" : "2060",
+        "suburb" : "North Sydney",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "101  Miller Street",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "branding" : {
+        "color" : "#252849",
+        "logo" : {
+          "alt" : "Mirvac - Commercial Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/d51485c1cf0281061db162d0da024f9bf497ffc13018ec839125e6ed414b1b4d/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d51485c1cf0281061db162d0da024f9bf497ffc13018ec839125e6ed414b1b4d/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "101  Miller Street North Sydney NSW 2060 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a0475558e1b6982845162be94b7e723284fe94b589323bf7331765e9eecdab2d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a0475558e1b6982845162be94b7e723284fe94b589323bf7331765e9eecdab2d/image0.jpg"
+        },
+        {
+          "alt" : "101  Miller Street North Sydney NSW 2060 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/456ed4f3929bd8fce3094867c9cf178777b84734a0a703364523181dc02c5a37/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/456ed4f3929bd8fce3094867c9cf178777b84734a0a703364523181dc02c5a37/image1.jpg"
+        },
+        {
+          "alt" : "101  Miller Street North Sydney NSW 2060 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/288619cde9a1ceb0d772aa0161c0ce6743f31e8e1167d520126261a11796b8ac/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/288619cde9a1ceb0d772aa0161c0ce6743f31e8e1167d520126261a11796b8ac/image2.jpg"
+        },
+        {
+          "alt" : "101  Miller Street North Sydney NSW 2060 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/089716aa57bf186bbe7756a8b828b78e17685ee0ba3fa752234cd0a9da72059a/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/089716aa57bf186bbe7756a8b828b78e17685ee0ba3fa752234cd0a9da72059a/image3.jpg"
+        },
+        {
+          "alt" : "101  Miller Street North Sydney NSW 2060 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e04f10022791d46f0e35f496c277b39b29001c1f5066bc63721e913f74c50d91/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e04f10022791d46f0e35f496c277b39b29001c1f5066bc63721e913f74c50d91/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Polished concrete floors in boardroom",
+        "4 year old building",
+        "Clear span warehouse"
+      ],
+      "agencies" : [
+        {
+          "id" : "FACDAN",
+          "name" : "Facey Property - South East ",
+          "salespeople" : [
+            {
+              "id" : "76353",
+              "name" : "Matt O'Dea",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a3abd9a6d2dbbb74b852b0b2317afff84f37f7cbc73758008048c54380c24c29/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a3abd9a6d2dbbb74b852b0b2317afff84f37f7cbc73758008048c54380c24c29/main.jpg"
+            },
+            {
+              "id" : "3292780",
+              "name" : "Michael Firrito",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/089019b71c36189170aa8b9fe7415c4d734a9cb011fa80a8dccb86120c7ee7d0/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/089019b71c36189170aa8b9fe7415c4d734a9cb011fa80a8dccb86120c7ee7d0/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 27,
+      "agents" : [
+        {
+          "name" : "Matt O'Dea",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a3abd9a6d2dbbb74b852b0b2317afff84f37f7cbc73758008048c54380c24c29/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a3abd9a6d2dbbb74b852b0b2317afff84f37f7cbc73758008048c54380c24c29/main.jpg"
+        },
+        {
+          "name" : "Michael Firrito",
+          "avatar" : "https://i1.au.reastatic.net/71x88/089019b71c36189170aa8b9fe7415c4d734a9cb011fa80a8dccb86120c7ee7d0/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/089019b71c36189170aa8b9fe7415c4d734a9cb011fa80a8dccb86120c7ee7d0/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1307 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ],
+        "carSpaces" : 25
+      },
+      "id" : "504481352",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-unit-17-116-118-abbott-road-hallam-vic-3803-504481352",
+      "title" : "A modern beauty now available for lease",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3803",
+        "agencyIds" : "FACDAN",
+        "subscription" : "",
+        "suburb" : "Hallam",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "FACDAN"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "Unit 17, 116-118 Abbott Road",
+        "postcode" : "3803",
+        "suburb" : "Hallam",
+        "suburbAddress" : "Hallam, VIC 3803"
+      },
+      "details" : {
+        "price" : "$129,450 P.A. excluding GST",
+        "streetAddress" : "Unit 17, 116-118 Abbott Road",
+        "suburbAddress" : "Hallam, VIC 3803"
+      },
+      "branding" : {
+        "color" : "#e32b26",
+        "logo" : {
+          "alt" : "Facey Property - South East ",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/69e0a27b5ba5918fd9a0c3d7bad7ac308e83e78bc39c1ac7c053bba22b68b2df/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/69e0a27b5ba5918fd9a0c3d7bad7ac308e83e78bc39c1ac7c053bba22b68b2df/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5e373592efebac74a158303efc7bcbf4cd9c91ac12e7acbdbbcf54a65946388c/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5e373592efebac74a158303efc7bcbf4cd9c91ac12e7acbdbbcf54a65946388c/image0.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/63dc9b979373ab87b1068726fe57d2832326215c50e95b8b570a49a54776f3f3/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/63dc9b979373ab87b1068726fe57d2832326215c50e95b8b570a49a54776f3f3/image1.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3b652db306ceb0e59a6ad38191e5873cd6813bcbc92e6c71dac379562eace9d5/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3b652db306ceb0e59a6ad38191e5873cd6813bcbc92e6c71dac379562eace9d5/image2.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cde7036d0f9ae851a7fe3e836198b44fb4b9ac702974a323a81ab5e1000ec9ce/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cde7036d0f9ae851a7fe3e836198b44fb4b9ac702974a323a81ab5e1000ec9ce/image3.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a6f473c28f28ade45bdc44a930c306c739f0b2b3749c6c41aab3f1848671aed5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a6f473c28f28ade45bdc44a930c306c739f0b2b3749c6c41aab3f1848671aed5/image4.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8e7649399eea14a856aad3ad9867d3d0acf838888273310d99ad7d75311870e8/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8e7649399eea14a856aad3ad9867d3d0acf838888273310d99ad7d75311870e8/image5.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c33727e21428ca50824448a130abc70178e2ded1da11d0285cf21138c657c648/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c33727e21428ca50824448a130abc70178e2ded1da11d0285cf21138c657c648/image6.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4d980f411586441f2cf19b9dc7f415475d4e06e4ca8c4e2f1f53ea9d0c425e01/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4d980f411586441f2cf19b9dc7f415475d4e06e4ca8c4e2f1f53ea9d0c425e01/image7.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/69c2c0ae5acaafdfc54e22ec1361af4f1bd931bf8e8c056033f268e5a4d44638/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/69c2c0ae5acaafdfc54e22ec1361af4f1bd931bf8e8c056033f268e5a4d44638/image8.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/026f0cef3da3f39bcc79549914d14f26cb08d629aa90fe68d65d8ce04f724872/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/026f0cef3da3f39bcc79549914d14f26cb08d629aa90fe68d65d8ce04f724872/image9.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/81a6d77950d02f8d143dcd22b1588b055f6468be74400fdb2000371b0650194a/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/81a6d77950d02f8d143dcd22b1588b055f6468be74400fdb2000371b0650194a/image10.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9e345299dccb688687b98f7bf828e0f6c0810159c5f3900f03034418daa678e3/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9e345299dccb688687b98f7bf828e0f6c0810159c5f3900f03034418daa678e3/image11.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ebc1794e7aae9970543321ae13dd19218bb0156050fbd0a8c9d224e7bec60395/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ebc1794e7aae9970543321ae13dd19218bb0156050fbd0a8c9d224e7bec60395/image12.jpg"
+        },
+        {
+          "alt" : "Unit 17, 116-118 Abbott Road Hallam VIC 3803 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/59badad80e4324c1dd8a2b40ef477bc2def090995d46082236ec1be6686f2f61/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/59badad80e4324c1dd8a2b40ef477bc2def090995d46082236ec1be6686f2f61/image13.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "XLJSPT",
+          "name" : "LJ Hooker Commercial - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "716083",
+              "name" : "Manoli Nicolas",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b82689b069eb398c260a19ec6e739b68450c710745c3ba961704a8c589056dde/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b82689b069eb398c260a19ec6e739b68450c710745c3ba961704a8c589056dde/main.jpg"
+            },
+            {
+              "id" : "2926599",
+              "name" : "Tasmin Colquhoun",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/99639289f22aa2e8a16c6d3e4f0201553ddd55509247d7f4532780abceb218b1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/99639289f22aa2e8a16c6d3e4f0201553ddd55509247d7f4532780abceb218b1/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 83,
+      "agents" : [
+        {
+          "name" : "Manoli Nicolas",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b82689b069eb398c260a19ec6e739b68450c710745c3ba961704a8c589056dde/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b82689b069eb398c260a19ec6e739b68450c710745c3ba961704a8c589056dde/main.jpg"
+        },
+        {
+          "name" : "Tasmin Colquhoun",
+          "avatar" : "https://i1.au.reastatic.net/71x88/99639289f22aa2e8a16c6d3e4f0201553ddd55509247d7f4532780abceb218b1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/99639289f22aa2e8a16c6d3e4f0201553ddd55509247d7f4532780abceb218b1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "79 - 201 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting",
+          "Retail"
+        ]
+      },
+      "id" : "504440108",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-1-grand-plaza-drive-browns-plains-qld-4118-504440108",
+      "title" : "79 - 201sqm Medical/Retail/Office Ample Parking Onsite",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4118",
+        "agencyIds" : "XLJSPT",
+        "subscription" : "",
+        "suburb" : "Browns Plains",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XLJSPT"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "1 Grand Plaza Drive",
+        "postcode" : "4118",
+        "suburb" : "Browns Plains",
+        "suburbAddress" : "Browns Plains, QLD 4118"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "1 Grand Plaza Drive",
+        "suburbAddress" : "Browns Plains, QLD 4118"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "LJ Hooker Commercial - Brisbane",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/58a65c2a83f8246811e0fdcf02ed8e1f42d44ba43857b3c5d34e428a129ebced/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/58a65c2a83f8246811e0fdcf02ed8e1f42d44ba43857b3c5d34e428a129ebced/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5d1eaac04be8561e3dcda899d23437b9ba98c0707944013146da6235400370e2/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5d1eaac04be8561e3dcda899d23437b9ba98c0707944013146da6235400370e2/image0.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/20a388b187d8e1ae43325a3349d6be7eddaf4cbe90decd5b05e12f5a94413842/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/20a388b187d8e1ae43325a3349d6be7eddaf4cbe90decd5b05e12f5a94413842/image1.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/25597d3548c962952b40a37829bfbd97e86c48579a0f10a5f82effab428ef25e/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/25597d3548c962952b40a37829bfbd97e86c48579a0f10a5f82effab428ef25e/image2.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/66370738335841ff5284a3d54cddbac7ec0fbd2dfd8b588e43990a92aa90369c/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/66370738335841ff5284a3d54cddbac7ec0fbd2dfd8b588e43990a92aa90369c/image3.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/88043335b0b7fbba892f376c3288dc25fc4472acaaf1beab9d65875c4e30ddc5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/88043335b0b7fbba892f376c3288dc25fc4472acaaf1beab9d65875c4e30ddc5/image4.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/65eeb0e4deea86c3d3f940c594ef9016f68f8b65a5daede31e0fa52c03f4fbc8/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/65eeb0e4deea86c3d3f940c594ef9016f68f8b65a5daede31e0fa52c03f4fbc8/image5.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3ebcc3ce90571a346f45ea0b107a84696a1192eb8c9a11ca41d19e1d91138a2c/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3ebcc3ce90571a346f45ea0b107a84696a1192eb8c9a11ca41d19e1d91138a2c/image6.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b7b6b2728af2b3ab8f8159c1a730074e7c935c786b719698fb571dff737b9683/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b7b6b2728af2b3ab8f8159c1a730074e7c935c786b719698fb571dff737b9683/image7.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2685e24971bbc4c6dc6d552f1ac7a6c86e63fec5ae5eb50ff89355edb16127d1/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2685e24971bbc4c6dc6d552f1ac7a6c86e63fec5ae5eb50ff89355edb16127d1/image8.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f21ac481af35300f11ffc7e00333b0b31ab5ca56f322edd159f681cb16008019/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f21ac481af35300f11ffc7e00333b0b31ab5ca56f322edd159f681cb16008019/image9.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ed8238179bd05619e8e1564c685d53edd3ff90f547baf2e8695e58478f29dad5/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ed8238179bd05619e8e1564c685d53edd3ff90f547baf2e8695e58478f29dad5/image10.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b202a9e4f20e97a1428e04f1dd0acac648e4bcd5e8c8cbd4781bfc7d0a5c2ef7/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b202a9e4f20e97a1428e04f1dd0acac648e4bcd5e8c8cbd4781bfc7d0a5c2ef7/image11.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bf5a0a5d53b3edf02b87ca3f62ae3b92773f1b128ecada0084f46a9bbff080b6/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bf5a0a5d53b3edf02b87ca3f62ae3b92773f1b128ecada0084f46a9bbff080b6/image12.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/78d2c405d3be1b31108e54d814c24741e5cf3bf31a48e97a6025a2b6882716d9/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/78d2c405d3be1b31108e54d814c24741e5cf3bf31a48e97a6025a2b6882716d9/image13.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f5906133b3d9f0893fb453a792f6d06ecf42b12dc873be87cf8a51e189d4868a/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f5906133b3d9f0893fb453a792f6d06ecf42b12dc873be87cf8a51e189d4868a/image14.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb92c98ba01df77b3585bbf52ac88b13ff3b0329c20a19907cc0999b4267e7b9/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb92c98ba01df77b3585bbf52ac88b13ff3b0329c20a19907cc0999b4267e7b9/image15.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 17",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b1c5365f9c50d83f21d6f65f5f51a07e5051646256362ccb5ca6c995442ce39c/image16.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b1c5365f9c50d83f21d6f65f5f51a07e5051646256362ccb5ca6c995442ce39c/image16.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 18",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5e2cbf6e2642b44d7402b46ee7cb14934694ba7222520dd9212d0f3f005de35a/image17.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5e2cbf6e2642b44d7402b46ee7cb14934694ba7222520dd9212d0f3f005de35a/image17.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 19",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/292243ac08bc1196fcdf16ca274088faa0c2e8d248f9f8b3f7a435be17400f42/image18.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/292243ac08bc1196fcdf16ca274088faa0c2e8d248f9f8b3f7a435be17400f42/image18.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 20",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b797ca535404a97340f5c6d085b84e58c1f87cb381749fbada2255f39a8d9a61/image19.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b797ca535404a97340f5c6d085b84e58c1f87cb381749fbada2255f39a8d9a61/image19.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 21",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0df7174959a070eae6a27c9267f98f7a247b721fe9a6c5483a02f39913415077/image20.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0df7174959a070eae6a27c9267f98f7a247b721fe9a6c5483a02f39913415077/image20.jpg"
+        },
+        {
+          "alt" : "1 Grand Plaza Drive Browns Plains QLD 4118 - Image 22",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1779fb3d20d3350bf6fceb092e55d727e0c526f3fe92318daea0b099a2cd4f49/image21.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1779fb3d20d3350bf6fceb092e55d727e0c526f3fe92318daea0b099a2cd4f49/image21.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Plug n’ Play",
+        "1,657 sqm",
+        "Staff Will Love The Location"
+      ],
+      "agencies" : [
+        {
+          "id" : "XFNCHA",
+          "name" : "Shead Property - Chatswood",
+          "salespeople" : [
+            {
+              "id" : "2389890",
+              "name" : "Bill Geroulis",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/32728a6bc4f55b274dfd5934b45a9822082095e663eca7e74a20167ea2bdbe97/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/32728a6bc4f55b274dfd5934b45a9822082095e663eca7e74a20167ea2bdbe97/main.jpg"
+            },
+            {
+              "id" : "2390614",
+              "name" : "Ivor (Shu) Zhou",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/bc447e7a49c445578ebd5759bc4b6f82f875d7b5ee2d97bffe1e2ec27a2e17b4/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/bc447e7a49c445578ebd5759bc4b6f82f875d7b5ee2d97bffe1e2ec27a2e17b4/main.jpg"
+            },
+            {
+              "id" : "3049259",
+              "name" : "Linus Lifson",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/15e2d22b30c1b5e0eb907bcaa4f460c3ad835eafc11b62deeb956afe9260ceac/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/15e2d22b30c1b5e0eb907bcaa4f460c3ad835eafc11b62deeb956afe9260ceac/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 83,
+      "agents" : [
+        {
+          "name" : "Bill Geroulis",
+          "avatar" : "https://i1.au.reastatic.net/71x88/32728a6bc4f55b274dfd5934b45a9822082095e663eca7e74a20167ea2bdbe97/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/32728a6bc4f55b274dfd5934b45a9822082095e663eca7e74a20167ea2bdbe97/main.jpg"
+        },
+        {
+          "name" : "Ivor (Shu) Zhou",
+          "avatar" : "https://i1.au.reastatic.net/71x88/bc447e7a49c445578ebd5759bc4b6f82f875d7b5ee2d97bffe1e2ec27a2e17b4/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/bc447e7a49c445578ebd5759bc4b6f82f875d7b5ee2d97bffe1e2ec27a2e17b4/main.jpg"
+        },
+        {
+          "name" : "Linus Lifson",
+          "avatar" : "https://i1.au.reastatic.net/71x88/15e2d22b30c1b5e0eb907bcaa4f460c3ad835eafc11b62deeb956afe9260ceac/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/15e2d22b30c1b5e0eb907bcaa4f460c3ad835eafc11b62deeb956afe9260ceac/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1657 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504439504",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-60-archer-street-chatswood-nsw-2067-504439504",
+      "title" : "Large Space - Superb Location - Circa 3 Year Lease ",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2067",
+        "agencyIds" : "XFNCHA",
+        "subscription" : "",
+        "suburb" : "Chatswood",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "XFNCHA"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "60 Archer Street",
+        "postcode" : "2067",
+        "suburb" : "Chatswood",
+        "suburbAddress" : "Chatswood, NSW 2067"
+      },
+      "details" : {
+        "price" : "For Lease – Contact Agent",
+        "streetAddress" : "60 Archer Street",
+        "suburbAddress" : "Chatswood, NSW 2067"
+      },
+      "branding" : {
+        "color" : "#00B5B0",
+        "logo" : {
+          "alt" : "Shead Property - Chatswood",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/ca4530040aef6899b9eebc653dc491341b2248c4df54e84a1bf4224f6142c96c/large.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ca4530040aef6899b9eebc653dc491341b2248c4df54e84a1bf4224f6142c96c/large.gif",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/603ef97d4e37d842221676613f7149f98076459953227b728c0191a172875778/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/603ef97d4e37d842221676613f7149f98076459953227b728c0191a172875778/image0.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/25f3003e2da2ff3289db4bc9c63e0cbb0f9811e4df31c0ec00ba7c4b5dd5a1bc/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/25f3003e2da2ff3289db4bc9c63e0cbb0f9811e4df31c0ec00ba7c4b5dd5a1bc/image1.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7703762f60b87fc28703e4d87ce3a3681834846c68a7baa9b0f367ff5ea46d6f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7703762f60b87fc28703e4d87ce3a3681834846c68a7baa9b0f367ff5ea46d6f/image2.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/65b9baaa7445e40410dd20712631a839a6c8c8f7d0bce9ad7b2572e9a2beaea9/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/65b9baaa7445e40410dd20712631a839a6c8c8f7d0bce9ad7b2572e9a2beaea9/image3.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b6d704d890b9feccdcfb7d41d96187ffb274047345d323fd59fa86ee97f98cdd/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b6d704d890b9feccdcfb7d41d96187ffb274047345d323fd59fa86ee97f98cdd/image4.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a1d3ab7b10b045013b9cacc4f7d62c0b9be0e1d19972cc4bd57df684151f0f46/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a1d3ab7b10b045013b9cacc4f7d62c0b9be0e1d19972cc4bd57df684151f0f46/image5.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f2560cd5d4971844ce4e688fced7b3605c7e9d65986cdbe7c278df48f767c11e/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f2560cd5d4971844ce4e688fced7b3605c7e9d65986cdbe7c278df48f767c11e/image6.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/74ab8c1e603cf0448d3193f6b2024a47bdc3edc4dbcfd4a66694d7a4517efeca/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/74ab8c1e603cf0448d3193f6b2024a47bdc3edc4dbcfd4a66694d7a4517efeca/image7.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9efad623d6afeb8625da5bbd8754302dea2706d98f8a3ac63960e1e935ce6d5c/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9efad623d6afeb8625da5bbd8754302dea2706d98f8a3ac63960e1e935ce6d5c/image8.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cd4c61fc37e08080a457f1959f0d9abeb58ac8f752f3b8eee03fd847c152287e/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cd4c61fc37e08080a457f1959f0d9abeb58ac8f752f3b8eee03fd847c152287e/image9.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/da00ec495558de022b4cb7b46a507a7f51407ba52994c3aae86055a6852278a1/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/da00ec495558de022b4cb7b46a507a7f51407ba52994c3aae86055a6852278a1/image10.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b5f7ac40705bfa81f3d25d44571c77a81b7e403dddcbd04f23648ea4b77bd187/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b5f7ac40705bfa81f3d25d44571c77a81b7e403dddcbd04f23648ea4b77bd187/image11.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d86e9214f51d04c488ab1c21d4475cda5c5c86ce89b33d9a087ab53dc8ae0564/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d86e9214f51d04c488ab1c21d4475cda5c5c86ce89b33d9a087ab53dc8ae0564/image12.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fc455eb17ad29e3bdd70c94fb640f070236ce580917cf8b6cfe8cf51e49c21fa/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fc455eb17ad29e3bdd70c94fb640f070236ce580917cf8b6cfe8cf51e49c21fa/image13.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7e6d7375bd3e9fae39cd7cb02eabdaf9393e5745f39a1624c92649925f520866/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7e6d7375bd3e9fae39cd7cb02eabdaf9393e5745f39a1624c92649925f520866/image14.jpg"
+        },
+        {
+          "alt" : "60 Archer Street Chatswood NSW 2067 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e43ce85d43386858d165cc88f43d8717d8f8e05bf43944ea917d37801d559726/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e43ce85d43386858d165cc88f43d8717d8f8e05bf43944ea917d37801d559726/image15.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Excellent exposure to Pacific Highway",
+        "Great natural light and views ",
+        "On site café & gym"
+      ],
+      "agencies" : [
+        {
+          "id" : "SFZQCS",
+          "name" : "One Commercial - SYDNEY",
+          "salespeople" : [
+            {
+              "id" : "2836682",
+              "name" : "Arland Domingo",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/88f27ede30c163e4193a2ba9c2a2856071c564f65cb65c6708805302b5224a13/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/88f27ede30c163e4193a2ba9c2a2856071c564f65cb65c6708805302b5224a13/main.jpg"
+            },
+            {
+              "id" : "3062835",
+              "name" : "Chris Noll",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b3f5943a5188b9c082715aafed992f92fb8ec4cd9473f2190b2f4f53a2d01a9a/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b3f5943a5188b9c082715aafed992f92fb8ec4cd9473f2190b2f4f53a2d01a9a/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 273,
+      "agents" : [
+        {
+          "name" : "Arland Domingo",
+          "avatar" : "https://i1.au.reastatic.net/71x88/88f27ede30c163e4193a2ba9c2a2856071c564f65cb65c6708805302b5224a13/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/88f27ede30c163e4193a2ba9c2a2856071c564f65cb65c6708805302b5224a13/main.jpg"
+        },
+        {
+          "name" : "Chris Noll",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b3f5943a5188b9c082715aafed992f92fb8ec4cd9473f2190b2f4f53a2d01a9a/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b3f5943a5188b9c082715aafed992f92fb8ec4cd9473f2190b2f4f53a2d01a9a/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "91 - 1256 m²",
+        "propertyTypes" : [
+          "Offices",
+          "Medical/Consulting",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504296476",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-407-pacific-highway-artarmon-nsw-2064-504296476",
+      "title" : "Optimal Exposure - Stunning Views ",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2064",
+        "agencyIds" : "SFZQCS",
+        "subscription" : "",
+        "suburb" : "Artarmon",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "SFZQCS"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "407 Pacific Highway",
+        "postcode" : "2064",
+        "suburb" : "Artarmon",
+        "suburbAddress" : "Artarmon, NSW 2064"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "407 Pacific Highway",
+        "suburbAddress" : "Artarmon, NSW 2064"
+      },
+      "branding" : {
+        "color" : "#fdd700",
+        "logo" : {
+          "alt" : "One Commercial - SYDNEY",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/fd5a68e00cd6fcfade049b76d1d3e6c93257d281f195ce0d6d23b21466013827/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fd5a68e00cd6fcfade049b76d1d3e6c93257d281f195ce0d6d23b21466013827/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f8c14d4553bfca9cb77fb833cd97a5f0e9b3210f40a7173048dcf4a4a0cf5862/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f8c14d4553bfca9cb77fb833cd97a5f0e9b3210f40a7173048dcf4a4a0cf5862/image0.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/35891108d75960aad57ab7b0776084aa7e57520fa7807b8dbee2f5de7f0bd87e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/35891108d75960aad57ab7b0776084aa7e57520fa7807b8dbee2f5de7f0bd87e/image1.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0918cb0cd5acf6d2ef49b99bae9d46c803de14c5294d4db21d50ca065fcc1b0a/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0918cb0cd5acf6d2ef49b99bae9d46c803de14c5294d4db21d50ca065fcc1b0a/image2.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/226cd4859e051df1015e4c75ef0fe69588db3102df787b0f63a2fcd8fe3ae68c/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/226cd4859e051df1015e4c75ef0fe69588db3102df787b0f63a2fcd8fe3ae68c/image3.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2bc8b64dc887b89a604da9eec377a8c82c02963d03c8193508bd411edcd5d8ff/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2bc8b64dc887b89a604da9eec377a8c82c02963d03c8193508bd411edcd5d8ff/image4.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ed993156bf6669393eb85255091fe50c9637019f9d5715a165dee2d494595f1/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ed993156bf6669393eb85255091fe50c9637019f9d5715a165dee2d494595f1/image5.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/43e72cf4bb4a9991eb785e0df7dda6c766be6b467ff4510c844ffe2586d5dcb9/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/43e72cf4bb4a9991eb785e0df7dda6c766be6b467ff4510c844ffe2586d5dcb9/image6.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b7238bee6a3b4360b4a9e76e42e7047f2594f2d8491f3902de9f232b291d70a4/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b7238bee6a3b4360b4a9e76e42e7047f2594f2d8491f3902de9f232b291d70a4/image7.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9e39ca8becabe5532bde395741a8cac418cfdf2b4379b16cc5dd2641ec087601/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9e39ca8becabe5532bde395741a8cac418cfdf2b4379b16cc5dd2641ec087601/image8.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5667d55f92e87761671ef3256de96f31c11388ca0ef7e5f4d912d18cf8f18046/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5667d55f92e87761671ef3256de96f31c11388ca0ef7e5f4d912d18cf8f18046/image9.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dcced4797db95908ff4c94e9187267fb5fc0de1501d6abdd36e43bccdc478ade/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dcced4797db95908ff4c94e9187267fb5fc0de1501d6abdd36e43bccdc478ade/image10.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9471f2a825d6561742970ce3acddbb220e1d8841dfddb9e7422f0ef99c91c821/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9471f2a825d6561742970ce3acddbb220e1d8841dfddb9e7422f0ef99c91c821/image11.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/34464ca287ea32283d3390ff9400d9f7e6c3e474aff5d3d249222220dbfd7ab4/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/34464ca287ea32283d3390ff9400d9f7e6c3e474aff5d3d249222220dbfd7ab4/image12.jpg"
+        },
+        {
+          "alt" : "407 Pacific Highway Artarmon NSW 2064 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ab78fafa7bf8163c6e4b33dcfa106ec1485c2ebab038c5dcebd7bdc2a33e6d3/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ab78fafa7bf8163c6e4b33dcfa106ec1485c2ebab038c5dcebd7bdc2a33e6d3/image13.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Medical & office suites",
+        "Extensively refurbished in 2021",
+        "CBD views"
+      ],
+      "agencies" : [
+        {
+          "id" : "UVIZRA",
+          "name" : "Aegis Property Group Pty Ltd",
+          "salespeople" : [
+            {
+              "id" : "2171954",
+              "name" : "Mitch Connell",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/0b96a4e3db5baf90a4e60c7af953d938b6c1d05437ce41739412f5f0eaab826f/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/0b96a4e3db5baf90a4e60c7af953d938b6c1d05437ce41739412f5f0eaab826f/main.jpg"
+            },
+            {
+              "id" : "2963179",
+              "name" : "Will Cooper",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/25708b839494e644f99be6a8bea106df9078f6c0fa22073aa21aedb8ba10cda0/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/25708b839494e644f99be6a8bea106df9078f6c0fa22073aa21aedb8ba10cda0/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 451,
+      "agents" : [
+        {
+          "name" : "Mitch Connell",
+          "avatar" : "https://i1.au.reastatic.net/71x88/0b96a4e3db5baf90a4e60c7af953d938b6c1d05437ce41739412f5f0eaab826f/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/0b96a4e3db5baf90a4e60c7af953d938b6c1d05437ce41739412f5f0eaab826f/main.jpg"
+        },
+        {
+          "name" : "Will Cooper",
+          "avatar" : "https://i1.au.reastatic.net/71x88/25708b839494e644f99be6a8bea106df9078f6c0fa22073aa21aedb8ba10cda0/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/25708b839494e644f99be6a8bea106df9078f6c0fa22073aa21aedb8ba10cda0/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "400 - 600 m²",
+        "propertyTypes" : [
+          "Offices"
+        ],
+        "carSpaces" : 15
+      },
+      "id" : "504176219",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-203-wharf-street-spring-hill-qld-4000-504176219",
+      "title" : "PREMIER INNER NORTH OFFICE OPPORTUNITY",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "QLD",
+        "postcode" : "4000",
+        "agencyIds" : "UVIZRA",
+        "subscription" : "",
+        "suburb" : "Spring Hill",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "UVIZRA"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "203 Wharf Street",
+        "postcode" : "4000",
+        "suburb" : "Spring Hill",
+        "suburbAddress" : "Spring Hill, QLD 4000"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "203 Wharf Street",
+        "suburbAddress" : "Spring Hill, QLD 4000"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Aegis Property Group Pty Ltd",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/50658d11dbf3f0ac28fff9c31d11950291a40921a8430b01919d4a2d344ec30a/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/50658d11dbf3f0ac28fff9c31d11950291a40921a8430b01919d4a2d344ec30a/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cd0723fc598e556b9d3948545b44d16767300cfdd6b1c3b46dfb57a3f862ec6d/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cd0723fc598e556b9d3948545b44d16767300cfdd6b1c3b46dfb57a3f862ec6d/image0.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dcfee896af31a9f64b6a8fadc9377c0de9975d42c33a4e3ce1e1548bc8e78019/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dcfee896af31a9f64b6a8fadc9377c0de9975d42c33a4e3ce1e1548bc8e78019/image1.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f33e0d5009124ba2bfe66a750d6114c9ca1ae8121de40d8b7b827fd803c9a23c/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f33e0d5009124ba2bfe66a750d6114c9ca1ae8121de40d8b7b827fd803c9a23c/image2.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a62c73ed60c855262cac38e7f2d46fd936c71f2ce90acc0ac1eb889fe0332065/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a62c73ed60c855262cac38e7f2d46fd936c71f2ce90acc0ac1eb889fe0332065/image3.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a25d81da7a0ba7637828068716b0bf1db85d55499437b0722915fa14d81e30de/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a25d81da7a0ba7637828068716b0bf1db85d55499437b0722915fa14d81e30de/image4.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2ea847e99175d9f28c9f945268dd700a0d077194092f6784a949a13b38ce0ff6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2ea847e99175d9f28c9f945268dd700a0d077194092f6784a949a13b38ce0ff6/image5.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bb511945e9c9e11cb5a3a721b4f4e2530053496af312846e954060e003958e9d/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bb511945e9c9e11cb5a3a721b4f4e2530053496af312846e954060e003958e9d/image6.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b64ce207d0f601d3ceb9d5c546b8a9536c85a2ea8ced42fcbdcc2389afeecc9a/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b64ce207d0f601d3ceb9d5c546b8a9536c85a2ea8ced42fcbdcc2389afeecc9a/image7.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/97cc775852c1722f53ec5473a1ae7ba7f6c5476f5e433a553eef21024a96f9bd/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/97cc775852c1722f53ec5473a1ae7ba7f6c5476f5e433a553eef21024a96f9bd/image8.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d9cdf06abf2eedb49416c35ee11bb72af3950f4c1ed3362e7fc181a22b725bb4/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d9cdf06abf2eedb49416c35ee11bb72af3950f4c1ed3362e7fc181a22b725bb4/image9.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f6b92d1979550dea7a0825b8aecd6041a6bf0d45e9fd480fab2296dc6a9184a8/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f6b92d1979550dea7a0825b8aecd6041a6bf0d45e9fd480fab2296dc6a9184a8/image10.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/17d275f01ae5ed46171facdf1f47b009788b9236a05b31cd98e70cf1fa3ad1d0/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/17d275f01ae5ed46171facdf1f47b009788b9236a05b31cd98e70cf1fa3ad1d0/image11.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fcc5da5e19b500b8535e3e61b5aa96382ee48f075512e48421230fc303574093/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fcc5da5e19b500b8535e3e61b5aa96382ee48f075512e48421230fc303574093/image12.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 14",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5b0ddb5e58f19f5ae8fef15119d4c4db2113e0ff6de71dbd1deb7aef4227e2c7/image13.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5b0ddb5e58f19f5ae8fef15119d4c4db2113e0ff6de71dbd1deb7aef4227e2c7/image13.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 15",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/023b66552afaad8f2028f0a39b9cbd008ef7618470a06d83a2dbf442fc155115/image14.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/023b66552afaad8f2028f0a39b9cbd008ef7618470a06d83a2dbf442fc155115/image14.jpg"
+        },
+        {
+          "alt" : "203 Wharf Street Spring Hill QLD 4000 - Image 16",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/fb5dbc0396a65c747b8d99bcae3d13a6cb2972f8c0aaeb53e2d30a6e5eb3a834/image15.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/fb5dbc0396a65c747b8d99bcae3d13a6cb2972f8c0aaeb53e2d30a6e5eb3a834/image15.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "QLD",
+    "floorArea" : "71 - 142 m²",
+    "landArea" : "0.48 ha (1.19 acres)",
+    "carSpaces" : 29,
+    "suburb" : "chandler",
+    "proptype" : "retail",
+    "region" : "redland",
+    "postcode" : "4155",
+    "price" : "Contact Agent"
+  }
+}

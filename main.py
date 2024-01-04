@@ -1,6 +1,7 @@
 import httpx
 import asyncio
 import json
+import os
 
 
 headers = {
@@ -22,13 +23,14 @@ headers = {
     'sec-ch-ua-platform': '"Windows"',
 }
 
+page_no = 1
 json_data = {
     'channel': 'rent',
     'filters': {
         'within-radius': 'includesurrounding',
         'surrounding-suburbs': True,
     },
-    'page': 1,
+    'page': {page_no},
     'page-size': 10,
 }
 
@@ -43,19 +45,28 @@ async def fetch_data():
 
 
 async def main():
-    response = await fetch_data()
-    # Check if response is cached.
-    if json_data["page"] in response_cache:
-        print('Response is cached.')
-        response = response_cache[json_data["page"]]
-    else:
-        # If not in the cache, fetch the data and store it in the cache.
-        print('Response is not cached.')
-        response = await fetch_data()
-        response_cache[json_data["page"]] = response
-    # Save response to file. Filename is the page number.
-    with open(f'{json_data["page"]}.json', 'w', encoding='utf-8') as f:
-        f.write(response.text)
+    # Loop through the pages. Increasing the page number by 1.
+    for page_no in range(1, 10):
+        json_data["page"] = page_no
+        filename = f'{json_data["page"]}.json'
+
+        # Check if the file exists.
+        if os.path.exists(filename):
+            print(f'File {filename} already exists.')
+            continue
+
+        # Check if response is cached.
+        if json_data["page"] in response_cache:
+            print(f'Response for page {json_data["page"]} is cached.')
+            response = response_cache[json_data["page"]]
+        else:
+            # If not in the cache, fetch the data and store it in the cache.
+            print(f'Response for {json_data["page"]} not cached.')
+            response = await fetch_data()
+            response_cache[json_data["page"]] = response
+        # Save response to file. Filename is the page number.
+        with open(f'{json_data["page"]}.json', 'w', encoding='utf-8') as f:
+            f.write(response.text)
 
 
 if __name__ == '__main__':

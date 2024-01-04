@@ -1,0 +1,1301 @@
+{
+  "listings" : [
+    {
+      "highlights" : [
+        "Construction Commenced",
+        "Childcare and Retail Development",
+        "PC Anticipated for Q3 2024"
+      ],
+      "agencies" : [
+        {
+          "id" : "IREGOW",
+          "name" : "Neim - CARLTON",
+          "salespeople" : [
+            {
+              "id" : "2813582",
+              "name" : "Arton Meka",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/71ea40021296587a2416ed12d0ff4669eab790a9382a13c1e7ceac0d42026e1e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/71ea40021296587a2416ed12d0ff4669eab790a9382a13c1e7ceac0d42026e1e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 55,
+      "agents" : [
+        {
+          "name" : "Arton Meka",
+          "avatar" : "https://i1.au.reastatic.net/71x88/71ea40021296587a2416ed12d0ff4669eab790a9382a13c1e7ceac0d42026e1e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/71ea40021296587a2416ed12d0ff4669eab790a9382a13c1e7ceac0d42026e1e/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "77 - 300 m²",
+        "propertyTypes" : [
+          "Retail",
+          "Medical/Consulting",
+          "Offices"
+        ],
+        "carSpaces" : 59
+      },
+      "id" : "504461880",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-the-square-ashbury-364-horseshoe-bend-road-armstrong-creek-vic-3217-504461880",
+      "title" : "Welcome to The Square Ashbury - Construction Commenced!",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "VIC",
+        "postcode" : "3217",
+        "agencyIds" : "IREGOW",
+        "subscription" : "",
+        "suburb" : "Armstrong Creek",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "IREGOW"
+        }
+      },
+      "address" : {
+        "state" : "VIC",
+        "streetAddress" : "The Square Ashbury, 364 Horseshoe Bend Road",
+        "postcode" : "3217",
+        "suburb" : "Armstrong Creek",
+        "suburbAddress" : "Armstrong Creek, VIC 3217"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "The Square Ashbury, 364 Horseshoe Bend Road",
+        "suburbAddress" : "Armstrong Creek, VIC 3217"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "Neim - CARLTON",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/dc662b6f8184d21e9bb9727e8c251f29f9bd271d12a25dac6ed98e633936de69/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dc662b6f8184d21e9bb9727e8c251f29f9bd271d12a25dac6ed98e633936de69/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e06118d4026c67070f039623ec9d9bd0b65ad30b26b3f7574d77a37d9086db14/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e06118d4026c67070f039623ec9d9bd0b65ad30b26b3f7574d77a37d9086db14/image0.jpg"
+        },
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f2305be35d8ec5dab3888f884f63ccf3114b03657ef441b8674a0002ae0e4e80/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f2305be35d8ec5dab3888f884f63ccf3114b03657ef441b8674a0002ae0e4e80/image1.jpg"
+        },
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/2c791251f856b0ec4fec42676313936a35be3f3a08165b0d0e06ca9691733dfd/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/2c791251f856b0ec4fec42676313936a35be3f3a08165b0d0e06ca9691733dfd/image2.jpg"
+        },
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d658e1a5d4ba036dd75651baf6084ec5282ce9c05d9eed6b46b809b550dadf83/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d658e1a5d4ba036dd75651baf6084ec5282ce9c05d9eed6b46b809b550dadf83/image3.jpg"
+        },
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a248d05462168a4b8a647b51c34f3e3d12cf613053bce2c02a2d64e6b1b73726/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a248d05462168a4b8a647b51c34f3e3d12cf613053bce2c02a2d64e6b1b73726/image4.jpg"
+        },
+        {
+          "alt" : "The Square Ashbury, 364 Horseshoe Bend Road Armstrong Creek VIC 3217 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7e81d28e81e1e2797246f7a7c8a987f7270fe19a56ddb60399f65feada969508/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7e81d28e81e1e2797246f7a7c8a987f7270fe19a56ddb60399f65feada969508/image5.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Newly-fitted Suites from 208sqm",
+        "End of Trip Facilities",
+        "A Grade Building Amenities"
+      ],
+      "agencies" : [
+        {
+          "id" : "FIEKWH",
+          "name" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "salespeople" : [
+            {
+              "id" : "104341",
+              "name" : "Chris Bailey",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg"
+            },
+            {
+              "id" : "2898074",
+              "name" : "Nathan McVeigh",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/346d8924d41c9d1adab520751590e23dae9ae0cdd6bdabf14dddd36e737060e2/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/346d8924d41c9d1adab520751590e23dae9ae0cdd6bdabf14dddd36e737060e2/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 280,
+      "agents" : [
+        {
+          "name" : "Chris Bailey",
+          "avatar" : "https://i1.au.reastatic.net/71x88/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/8f8f27a29beed207d9fd62cd9b8ad3ef736958734af344bbcd416524d74b7e84/main.jpg"
+        },
+        {
+          "name" : "Nathan McVeigh",
+          "avatar" : "https://i1.au.reastatic.net/71x88/346d8924d41c9d1adab520751590e23dae9ae0cdd6bdabf14dddd36e737060e2/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/346d8924d41c9d1adab520751590e23dae9ae0cdd6bdabf14dddd36e737060e2/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "84 - 1592 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504291156",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-4-dawn-fraser-avenue-sydney-olympic-park-nsw-2127-504291156",
+      "title" : "Dynamic A-Grade Headquarters",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2127",
+        "agencyIds" : "FIEKWH",
+        "subscription" : "",
+        "suburb" : "Sydney Olympic Park",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "FIEKWH"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "4 Dawn Fraser Avenue",
+        "postcode" : "2127",
+        "suburb" : "Sydney Olympic Park",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "details" : {
+        "price" : "Please contact agent",
+        "streetAddress" : "4 Dawn Fraser Avenue",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "branding" : {
+        "color" : "#0054a6",
+        "logo" : {
+          "alt" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b13e45cc631195027c15df6c3f928a2bbf0fd705dd2bae7209ed0b79df4cef60/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b13e45cc631195027c15df6c3f928a2bbf0fd705dd2bae7209ed0b79df4cef60/image0.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4d71d0cf1c6501cf156628a52f79211ddf16600e2cc65d49350870d73fe3b771/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4d71d0cf1c6501cf156628a52f79211ddf16600e2cc65d49350870d73fe3b771/image1.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/5b054da30f2e4da0a26a1defbb44622307f96fec3adcd9fad835bdb23c914f8f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/5b054da30f2e4da0a26a1defbb44622307f96fec3adcd9fad835bdb23c914f8f/image2.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/615a984609ad07060e9932fd6408794ed7bd9a544391542fd49928f027f73db6/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/615a984609ad07060e9932fd6408794ed7bd9a544391542fd49928f027f73db6/image3.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b4df2b002d904d89d54e672beb09a7d1878dde9c67f8e24ed4a86e9cf86e7ce1/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b4df2b002d904d89d54e672beb09a7d1878dde9c67f8e24ed4a86e9cf86e7ce1/image4.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/31270fbf32538604434af9e8fee1ca4a445c8963b575efc12f5c8389772a846f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/31270fbf32538604434af9e8fee1ca4a445c8963b575efc12f5c8389772a846f/image5.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/81f4da79265944a408942280aa002db9d9173f213be291ee1cc63149c2854b6d/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/81f4da79265944a408942280aa002db9d9173f213be291ee1cc63149c2854b6d/image6.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/d953e5f427bb730bd5d6c2bec0ce0235828afb00787d7103f679f3fe9b6880c1/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/d953e5f427bb730bd5d6c2bec0ce0235828afb00787d7103f679f3fe9b6880c1/image7.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/68c4dc1923a5d465b18123fac3b368275dd72e5cb3e7e5a029e3babfc3576fb8/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/68c4dc1923a5d465b18123fac3b368275dd72e5cb3e7e5a029e3babfc3576fb8/image8.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b1e868b69964fb4e8f79d829408592a8e8b22a1870c039b9448dc21db0e2a79a/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b1e868b69964fb4e8f79d829408592a8e8b22a1870c039b9448dc21db0e2a79a/image9.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 11",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/61b34d7b1281a2056baf3403200cfa777fe05787a811e79e14d67a42bc10fe17/image10.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/61b34d7b1281a2056baf3403200cfa777fe05787a811e79e14d67a42bc10fe17/image10.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 12",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/dfc0923ab3e31e61ce797c8069d72d6dc7e5b06a2743f7c706e541aafd962054/image11.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/dfc0923ab3e31e61ce797c8069d72d6dc7e5b06a2743f7c706e541aafd962054/image11.jpg"
+        },
+        {
+          "alt" : "4 Dawn Fraser Avenue Sydney Olympic Park NSW 2127 - Image 13",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f99eb7a9774a63e1a99f37f806b2381ef8c2b6bf7bf977fbaed35f9577883adb/image12.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f99eb7a9774a63e1a99f37f806b2381ef8c2b6bf7bf977fbaed35f9577883adb/image12.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Turn key office",
+        "Creative space",
+        "Available now"
+      ],
+      "agencies" : [
+        {
+          "id" : "DOKEAV",
+          "name" : "CI Australia Pty Limited",
+          "salespeople" : [
+            {
+              "id" : "3174892",
+              "name" : "Lana Asscher",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7f7f3ef79e2642b0d99b2fc231f397ac2f3ba464542aef96118b01c40b7499a3/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7f7f3ef79e2642b0d99b2fc231f397ac2f3ba464542aef96118b01c40b7499a3/main.jpg"
+            }
+          ]
+        },
+        {
+          "id" : "PUOUSE",
+          "name" : "Hartigan Bolt - North Sydney",
+          "salespeople" : [
+            {
+              "id" : "83596",
+              "name" : "Drew Divers",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/651d9fcbafbb37ed8a8dfeff34265ea2851ded276f9cd1f650f36575ac75faaf/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/651d9fcbafbb37ed8a8dfeff34265ea2851ded276f9cd1f650f36575ac75faaf/main.jpg"
+            },
+            {
+              "id" : "3056995",
+              "name" : "Yool Yool",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/16a2e57c9cd473236c45cda19185e84499d76a47e5b1436d96145044e9fe24f3/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 477,
+      "agents" : [
+        {
+          "name" : "Lana Asscher",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7f7f3ef79e2642b0d99b2fc231f397ac2f3ba464542aef96118b01c40b7499a3/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7f7f3ef79e2642b0d99b2fc231f397ac2f3ba464542aef96118b01c40b7499a3/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "294 - 376 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "503289146",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-53-walker-street-north-sydney-nsw-2060-503289146",
+      "title" : "Turn Key Creative Office Suite - Very close to train station",
+      "conjunctionalAgencies" : [
+        {
+          "logoUrlTemplate" : "https://i1.au.reastatic.net{options}/bc7bf88decdfcc5da461971f72be68ddf17ad3ceb48567d726eea53a489dc826/large.jpg",
+          "logo" : "https://i1.au.reastatic.net/170x32/bc7bf88decdfcc5da461971f72be68ddf17ad3ceb48567d726eea53a489dc826/large.jpg",
+          "alt" : "Hartigan Bolt - North Sydney",
+          "logoSize" : "170x32",
+          "brandingColor" : "#00535e"
+        }
+      ],
+      "product" : "eliteplus",
+      "otherAgencies" : [
+        "Hartigan Bolt - North Sydney"
+      ],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2060",
+        "agencyIds" : "DOKEAV,PUOUSE",
+        "subscription" : "",
+        "suburb" : "North Sydney",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "DOKEAV,PUOUSE"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "53 Walker Street",
+        "postcode" : "2060",
+        "suburb" : "North Sydney",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "53 Walker Street",
+        "suburbAddress" : "North Sydney, NSW 2060"
+      },
+      "branding" : {
+        "color" : "#242021",
+        "logo" : {
+          "alt" : "CI Australia Pty Limited",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/3c2277dde459e41ac6d9d6c8d64210ea7a06a0e025bcb74a67c45901d1efdcd3/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3c2277dde459e41ac6d9d6c8d64210ea7a06a0e025bcb74a67c45901d1efdcd3/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "53 Walker Street North Sydney NSW 2060 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e33b89d47327345c5d72033593532852dadd88ae9272f4fc06107410b2482dbb/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e33b89d47327345c5d72033593532852dadd88ae9272f4fc06107410b2482dbb/image0.jpg"
+        },
+        {
+          "alt" : "53 Walker Street North Sydney NSW 2060 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b6bd6a4f040ea5bb725334d33d0b87216e1bb21e18cbdb7966e700500f918011/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b6bd6a4f040ea5bb725334d33d0b87216e1bb21e18cbdb7966e700500f918011/image1.jpg"
+        },
+        {
+          "alt" : "53 Walker Street North Sydney NSW 2060 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/542d99a0590114ac2bf7aa346542faa5d79ee8614ac026832994672907cc0148/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/542d99a0590114ac2bf7aa346542faa5d79ee8614ac026832994672907cc0148/image2.jpg"
+        },
+        {
+          "alt" : "53 Walker Street North Sydney NSW 2060 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7599a2fe84150f942288ff9f5bb40aa9a259d5f5f2ed60c77f5840bf12df570a/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7599a2fe84150f942288ff9f5bb40aa9a259d5f5f2ed60c77f5840bf12df570a/image3.jpg"
+        },
+        {
+          "alt" : "53 Walker Street North Sydney NSW 2060 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/46428048987d5b095200dab7811e52fc3709c063905d43de17573b0912d8e74f/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/46428048987d5b095200dab7811e52fc3709c063905d43de17573b0912d8e74f/image4.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "UJHZYK",
+          "name" : "JLL - Brisbane",
+          "salespeople" : [
+            {
+              "id" : "2022658",
+              "name" : "Harry Homan",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg"
+            },
+            {
+              "id" : "770763",
+              "name" : "Sam Stewart",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/14e7ffc63727b504ce783fc3a07e50be4e374cd0ea54818d74d628f722f68f9e/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/14e7ffc63727b504ce783fc3a07e50be4e374cd0ea54818d74d628f722f68f9e/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 188,
+      "agents" : [
+        {
+          "name" : "Harry Homan",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7b8f1d81cfcd51ceaf778a86b6214dfdf1af7066a1368c6febd4ae3292a5816b/main.jpg"
+        },
+        {
+          "name" : "Sam Stewart",
+          "avatar" : "https://i1.au.reastatic.net/71x88/14e7ffc63727b504ce783fc3a07e50be4e374cd0ea54818d74d628f722f68f9e/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/14e7ffc63727b504ce783fc3a07e50be4e374cd0ea54818d74d628f722f68f9e/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "2408 - 8613 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Offices",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504360572",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-pinnacle-east-372-402-progress-road-wacol-qld-4076-504360572",
+      "title" : "Brand New First Class Industrial Estate with Progress Road Exposure",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "QLD",
+        "postcode" : "4076",
+        "agencyIds" : "UJHZYK",
+        "subscription" : "",
+        "suburb" : "Wacol",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "UJHZYK"
+        }
+      },
+      "address" : {
+        "state" : "QLD",
+        "streetAddress" : "Pinnacle East, 372 - 402 Progress Road",
+        "postcode" : "4076",
+        "suburb" : "Wacol",
+        "suburbAddress" : "Wacol, QLD 4076"
+      },
+      "details" : {
+        "price" : "Please Contact JLL",
+        "streetAddress" : "Pinnacle East, 372 - 402 Progress Road",
+        "suburbAddress" : "Wacol, QLD 4076"
+      },
+      "branding" : {
+        "color" : "#000000",
+        "logo" : {
+          "alt" : "JLL - Brisbane",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/886cdb0164e123d675510ebbd11ca649e23c8dc665619e21744b7b6c7d5b7e9e/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/75c163651f812eb712c36c150662619452de048fd051a3ccd05b049d97cd2e00/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/75c163651f812eb712c36c150662619452de048fd051a3ccd05b049d97cd2e00/image0.jpg"
+        },
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/6adbbcb416000bb0d3d28f8a23eb8c12e3770d85c06b441a54e60c7b94bd5252/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/6adbbcb416000bb0d3d28f8a23eb8c12e3770d85c06b441a54e60c7b94bd5252/image1.jpg"
+        },
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/76ade5defc7d4738ddffd36b9eeb45ce5d8fff62f95afbe00774f9ccf5489799/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/76ade5defc7d4738ddffd36b9eeb45ce5d8fff62f95afbe00774f9ccf5489799/image2.jpg"
+        },
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/a5052938df67a45c2e958a4503fccb9a896191097b893cfa578b811b9cf082ac/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/a5052938df67a45c2e958a4503fccb9a896191097b893cfa578b811b9cf082ac/image3.jpg"
+        },
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/13cf83f081332947ed5cffe85cb0baf914411c8775f966d6bbf1f0b163843204/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/13cf83f081332947ed5cffe85cb0baf914411c8775f966d6bbf1f0b163843204/image4.jpg"
+        },
+        {
+          "alt" : "Pinnacle East, 372 - 402 Progress Road Wacol QLD 4076 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3c38c90d3f976d017ecd6fd2cf365cadd5a1ecbd2e4154163bbb7593310053f6/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3c38c90d3f976d017ecd6fd2cf365cadd5a1ecbd2e4154163bbb7593310053f6/image5.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [],
+      "agencies" : [
+        {
+          "id" : "ABCADF",
+          "name" : "McGees Property - Adelaide (RLA 1722)",
+          "salespeople" : [
+            {
+              "id" : "729523",
+              "name" : "Tim Pozza",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/0b42604b42e421d4d5af36a751e402f83b4720ed0e2190c0be5a5391522bd749/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/0b42604b42e421d4d5af36a751e402f83b4720ed0e2190c0be5a5391522bd749/main.jpg"
+            },
+            {
+              "id" : "2976199",
+              "name" : "Michael Conley",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/ded65103535260465eb56aab985bd989983e921035335fbc9607127d3e4311c1/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/ded65103535260465eb56aab985bd989983e921035335fbc9607127d3e4311c1/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 27,
+      "agents" : [
+        {
+          "name" : "Tim Pozza",
+          "avatar" : "https://i1.au.reastatic.net/71x88/0b42604b42e421d4d5af36a751e402f83b4720ed0e2190c0be5a5391522bd749/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/0b42604b42e421d4d5af36a751e402f83b4720ed0e2190c0be5a5391522bd749/main.jpg"
+        },
+        {
+          "name" : "Michael Conley",
+          "avatar" : "https://i1.au.reastatic.net/71x88/ded65103535260465eb56aab985bd989983e921035335fbc9607127d3e4311c1/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/ded65103535260465eb56aab985bd989983e921035335fbc9607127d3e4311c1/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "200 m²",
+        "propertyTypes" : [
+          "Medical/Consulting",
+          "Offices"
+        ]
+      },
+      "id" : "504481248",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-60-north-terrace-kent-town-sa-5067-504481248",
+      "title" : "Quality Standalone Office/Consulting",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5067",
+        "agencyIds" : "ABCADF",
+        "subscription" : "",
+        "suburb" : "Kent Town",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "ABCADF"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "60 North Terrace",
+        "postcode" : "5067",
+        "suburb" : "Kent Town",
+        "suburbAddress" : "Kent Town, SA 5067"
+      },
+      "details" : {
+        "price" : "Contact Agents",
+        "streetAddress" : "60 North Terrace",
+        "suburbAddress" : "Kent Town, SA 5067"
+      },
+      "branding" : {
+        "color" : "#003882",
+        "logo" : {
+          "alt" : "McGees Property - Adelaide (RLA 1722)",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/9db100ac93194a4f02bd9deb9e79776a5c5130fcf837cecc6e56c6fee48da299/large.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9db100ac93194a4f02bd9deb9e79776a5c5130fcf837cecc6e56c6fee48da299/large.gif",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/77dbe22ab4097418af4940c17d94220abe8b02dd0f39ef89a635b7c2c6057c85/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/77dbe22ab4097418af4940c17d94220abe8b02dd0f39ef89a635b7c2c6057c85/image0.jpg"
+        },
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/09dcfc77390f1ffa117d5c9730456836533e952c8f221484e85322ae649ef71e/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/09dcfc77390f1ffa117d5c9730456836533e952c8f221484e85322ae649ef71e/image1.jpg"
+        },
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/37be40146e85ce5d5c01c0692ce54fb2af62eea22a43d2ab7f0c29610d3a5fd6/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/37be40146e85ce5d5c01c0692ce54fb2af62eea22a43d2ab7f0c29610d3a5fd6/image2.jpg"
+        },
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/21d90b1d6326a2babbca14458a5293d8afe2a180a315cd8eb38721489feb57ae/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/21d90b1d6326a2babbca14458a5293d8afe2a180a315cd8eb38721489feb57ae/image3.jpg"
+        },
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8037232cca4d8b41dd871d6dc77fb19b2eea5390ba8c09378926d9727e2b8cd9/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8037232cca4d8b41dd871d6dc77fb19b2eea5390ba8c09378926d9727e2b8cd9/image4.jpg"
+        },
+        {
+          "alt" : "60 North Terrace Kent Town SA 5067 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8cb0edb38db8538176a92f266bb016aa090a2a07c3dbbb5617f6509319818d2f/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8cb0edb38db8538176a92f266bb016aa090a2a07c3dbbb5617f6509319818d2f/image5.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Flexible areas from 4,000 – 40,000 sqm",
+        "Available Q1 2024",
+        "Huge power available"
+      ],
+      "agencies" : [
+        {
+          "id" : "GDYSUI",
+          "name" : "CBRE - Western Sydney",
+          "salespeople" : [
+            {
+              "id" : "1001647",
+              "name" : "Tom Rourke",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/b9fab8917a140545d0b40520e60cfb8ef25ca0b5588c604ce7db76e50d4d71b4/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/b9fab8917a140545d0b40520e60cfb8ef25ca0b5588c604ce7db76e50d4d71b4/main.jpg"
+            },
+            {
+              "id" : "1519826",
+              "name" : "Adam Tresidder",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/9845464c9d2d2da8fb01503cf5fcb12124a49812526b618ed47a5707fbe9f75c/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/9845464c9d2d2da8fb01503cf5fcb12124a49812526b618ed47a5707fbe9f75c/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 34,
+      "agents" : [
+        {
+          "name" : "Tom Rourke",
+          "avatar" : "https://i1.au.reastatic.net/71x88/b9fab8917a140545d0b40520e60cfb8ef25ca0b5588c604ce7db76e50d4d71b4/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/b9fab8917a140545d0b40520e60cfb8ef25ca0b5588c604ce7db76e50d4d71b4/main.jpg"
+        },
+        {
+          "name" : "Adam Tresidder",
+          "avatar" : "https://i1.au.reastatic.net/71x88/9845464c9d2d2da8fb01503cf5fcb12124a49812526b618ed47a5707fbe9f75c/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/9845464c9d2d2da8fb01503cf5fcb12124a49812526b618ed47a5707fbe9f75c/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "4000 - 40000 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse",
+          "Showrooms/Bulky Goods"
+        ]
+      },
+      "id" : "504476740",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-8-priddle-street-warwick-farm-nsw-2170-504476740",
+      "title" : "FLEXIBLE WAREHOUSE OPTIONS",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2170",
+        "agencyIds" : "GDYSUI",
+        "subscription" : "",
+        "suburb" : "Warwick Farm",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "GDYSUI"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "8 Priddle Street",
+        "postcode" : "2170",
+        "suburb" : "Warwick Farm",
+        "suburbAddress" : "Warwick Farm, NSW 2170"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "8 Priddle Street",
+        "suburbAddress" : "Warwick Farm, NSW 2170"
+      },
+      "branding" : {
+        "color" : "#012a2d",
+        "logo" : {
+          "alt" : "CBRE - Western Sydney",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0c721d2cdf43a13be82cda83476d0eb910ec9a2770f31fad6c6298007fd8ded8/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/7d998ba80adcd23cd4592f653be982d5c9d235661472c9022fef17219768114a/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/7d998ba80adcd23cd4592f653be982d5c9d235661472c9022fef17219768114a/image0.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/84d2b5f97da0e1acc331c2dbd0e06dbe250a48062b6e8c3976cc32fbc57cca24/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/84d2b5f97da0e1acc331c2dbd0e06dbe250a48062b6e8c3976cc32fbc57cca24/image1.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e785b575aaba354588db33c2dd224ccc6a1a9d30369eda922e774156f89c272e/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e785b575aaba354588db33c2dd224ccc6a1a9d30369eda922e774156f89c272e/image2.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0efd213f71e401451d2095053ef641f3d6012448fb0b448f0169f00ac6199497/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0efd213f71e401451d2095053ef641f3d6012448fb0b448f0169f00ac6199497/image3.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/426d25ce3acfa8ff021aac41dc5402408007470d7fc88710159f19dab39fbb13/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/426d25ce3acfa8ff021aac41dc5402408007470d7fc88710159f19dab39fbb13/image4.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/21922f54ce240b6a7550d6ddfa6eea56660ccf9cd041a342d15cc2706535cefb/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/21922f54ce240b6a7550d6ddfa6eea56660ccf9cd041a342d15cc2706535cefb/image5.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c6bcb5048d2d29b375699759adcdadea5fd8f475e2ce7c6c7343773737c608b4/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c6bcb5048d2d29b375699759adcdadea5fd8f475e2ce7c6c7343773737c608b4/image6.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/cbaa9043859c8eb255edbb8fbe2a5854e08d434078895696204a3e71585bd10e/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/cbaa9043859c8eb255edbb8fbe2a5854e08d434078895696204a3e71585bd10e/image7.jpg"
+        },
+        {
+          "alt" : "8 Priddle Street Warwick Farm NSW 2170 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c6bcb5048d2d29b375699759adcdadea5fd8f475e2ce7c6c7343773737c608b4/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c6bcb5048d2d29b375699759adcdadea5fd8f475e2ce7c6c7343773737c608b4/image8.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "High Clearance Storage 1,110m²",
+        "Modern Office With Full Fitout",
+        "Ample Car Parking Spaces"
+      ],
+      "agencies" : [
+        {
+          "id" : "FIEKWH",
+          "name" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "salespeople" : [
+            {
+              "id" : "58749",
+              "name" : "Jason Wright",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg"
+            },
+            {
+              "id" : "1515914",
+              "name" : "Tim Paxton",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/443825d930fc25541e544df6bf4d3e8d1c7e1f086d004372ecfc5702e282d1b5/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/443825d930fc25541e544df6bf4d3e8d1c7e1f086d004372ecfc5702e282d1b5/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 262,
+      "agents" : [
+        {
+          "name" : "Jason Wright",
+          "avatar" : "https://i1.au.reastatic.net/71x88/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/e50c69b089d4ac1d4da225a0020e3f5202d77ecd0a9172a81f7b23e05c9834a7/main.jpg"
+        },
+        {
+          "name" : "Tim Paxton",
+          "avatar" : "https://i1.au.reastatic.net/71x88/443825d930fc25541e544df6bf4d3e8d1c7e1f086d004372ecfc5702e282d1b5/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/443825d930fc25541e544df6bf4d3e8d1c7e1f086d004372ecfc5702e282d1b5/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "3013 m²",
+        "propertyTypes" : [
+          "Offices"
+        ]
+      },
+      "id" : "504302836",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-3-figtree-drive-sydney-olympic-park-nsw-2127-504302836",
+      "title" : "Excellent Rental Incentives - Storage Area & Quality Office Remaining",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2127",
+        "agencyIds" : "FIEKWH",
+        "subscription" : "",
+        "suburb" : "Sydney Olympic Park",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "FIEKWH"
+        }
+      },
+      "video" : {
+        "url" : "https://vimeo.com/606948611"
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "3 Figtree Drive",
+        "postcode" : "2127",
+        "suburb" : "Sydney Olympic Park",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "3 Figtree Drive",
+        "suburbAddress" : "Sydney Olympic Park, NSW 2127"
+      },
+      "branding" : {
+        "color" : "#0054a6",
+        "logo" : {
+          "alt" : "GJS Property - SYDNEY OLYMPIC PARK",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f349e2d440efbc99887b76ee44e879d9e2277f299275d7951249b222b4062558/large.gif",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/e0ded681e1909d46b321a1860e3b253a616842394c49c32f7019354f3704ec96/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/e0ded681e1909d46b321a1860e3b253a616842394c49c32f7019354f3704ec96/image0.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f8a461155fed92b310c16057b5f90cdff8f4146ca5399b2a02a017b82066767d/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f8a461155fed92b310c16057b5f90cdff8f4146ca5399b2a02a017b82066767d/image1.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/900621acfc5800e1f190c9284d0a05d58a63c4bcafac54c631c83adfe199219f/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/900621acfc5800e1f190c9284d0a05d58a63c4bcafac54c631c83adfe199219f/image2.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/beb277d7a6ee157a997ad3d87e80fdce6ea3c9b1db8484e3714d8c43f1655647/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/beb277d7a6ee157a997ad3d87e80fdce6ea3c9b1db8484e3714d8c43f1655647/image3.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/c28cfadb955acae67bfad437a78d1a81fa9ba0194dfa719e465c9d832440646d/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/c28cfadb955acae67bfad437a78d1a81fa9ba0194dfa719e465c9d832440646d/image4.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f0bac3443333d7cbabaf3d4ff462cb94796c94529f2ab11a49457ba6e772ae43/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f0bac3443333d7cbabaf3d4ff462cb94796c94529f2ab11a49457ba6e772ae43/image5.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/4a4432ede3c29370cd49606881488d17eec1efc9310f7a011b93cf01820bd79b/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/4a4432ede3c29370cd49606881488d17eec1efc9310f7a011b93cf01820bd79b/image6.jpg"
+        },
+        {
+          "alt" : "3 Figtree Drive Sydney Olympic Park NSW 2127 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/90d50ae5220cae41594424f73417c37dedce301ab40bac95dd1b16401f8cb54b/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/90d50ae5220cae41594424f73417c37dedce301ab40bac95dd1b16401f8cb54b/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Office Warehouse 398sqm",
+        "Occupy From Early 2023",
+        "Available with 319 Main North Road"
+      ],
+      "agencies" : [
+        {
+          "id" : "HUXDZG",
+          "name" : "Leedwell Property (RLA 222531) - ADELAIDE",
+          "salespeople" : [
+            {
+              "id" : "1252567",
+              "name" : "Jamie Forwood",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/eb9983de36144fe225ac45f041f820f60fa84f6c057b6842df20f0068227cb26/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/eb9983de36144fe225ac45f041f820f60fa84f6c057b6842df20f0068227cb26/main.jpg"
+            },
+            {
+              "id" : "3065975",
+              "name" : "Will Goode",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/a0ecf1e8a607d3ccf16b01a65c8e4f93ed706a4da9a7cbf612eabb69dff856f7/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/a0ecf1e8a607d3ccf16b01a65c8e4f93ed706a4da9a7cbf612eabb69dff856f7/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 405,
+      "agents" : [
+        {
+          "name" : "Jamie Forwood",
+          "avatar" : "https://i1.au.reastatic.net/71x88/eb9983de36144fe225ac45f041f820f60fa84f6c057b6842df20f0068227cb26/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/eb9983de36144fe225ac45f041f820f60fa84f6c057b6842df20f0068227cb26/main.jpg"
+        },
+        {
+          "name" : "Will Goode",
+          "avatar" : "https://i1.au.reastatic.net/71x88/a0ecf1e8a607d3ccf16b01a65c8e4f93ed706a4da9a7cbf612eabb69dff856f7/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/a0ecf1e8a607d3ccf16b01a65c8e4f93ed706a4da9a7cbf612eabb69dff856f7/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "398 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504212196",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-321-main-north-road-enfield-sa-5085-504212196",
+      "title" : "High Exposure Office Warehouse",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "SA",
+        "postcode" : "5085",
+        "agencyIds" : "HUXDZG",
+        "subscription" : "",
+        "suburb" : "Enfield",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "HUXDZG"
+        }
+      },
+      "address" : {
+        "state" : "SA",
+        "streetAddress" : "321 Main North Road",
+        "postcode" : "5085",
+        "suburb" : "Enfield",
+        "suburbAddress" : "Enfield, SA 5085"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "321 Main North Road",
+        "suburbAddress" : "Enfield, SA 5085"
+      },
+      "branding" : {
+        "color" : "#ced2d6",
+        "logo" : {
+          "alt" : "Leedwell Property (RLA 222531) - ADELAIDE",
+          "url" : "https://i1.au.reastatic.net/84x63-fit/69c1ca45b2742577f654b4becf5c5ee512e1ddcababd4151bcfbc2144404d252/large_commercial.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/69c1ca45b2742577f654b4becf5c5ee512e1ddcababd4151bcfbc2144404d252/large_commercial.jpg",
+          "size" : "84x63"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/f87884ae0002256a3ce0a4be977042187c109ae4fe54d68c0d1b5222a7a57f18/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/f87884ae0002256a3ce0a4be977042187c109ae4fe54d68c0d1b5222a7a57f18/image0.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/52400cdef5b96c956102f5fe856ce285b196949bad5ef44985f9350c4105ade9/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/52400cdef5b96c956102f5fe856ce285b196949bad5ef44985f9350c4105ade9/image1.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/b24e8e9a5bcd44115bf764538aa3e60cc122e07913dfd6a1e9453b2edcdbf5d4/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/b24e8e9a5bcd44115bf764538aa3e60cc122e07913dfd6a1e9453b2edcdbf5d4/image2.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3e22ac36189eb4ec5c42faa201c76247b55b5c3e31ccf0d0ce8ccdb14afcbfcd/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3e22ac36189eb4ec5c42faa201c76247b55b5c3e31ccf0d0ce8ccdb14afcbfcd/image3.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ad75b249af473de7bc11b7fc7519e1b4ecc7d27d3e0f391b386d2147d8a221c3/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ad75b249af473de7bc11b7fc7519e1b4ecc7d27d3e0f391b386d2147d8a221c3/image4.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/97cf57d5f4cba0d271f536bfc5b1cc98cf2d402849584bcf68580480ab298e68/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/97cf57d5f4cba0d271f536bfc5b1cc98cf2d402849584bcf68580480ab298e68/image5.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/39c972dd7eb625d8fb597293c6ffb3762c9732cf9766f09aac19864da17273db/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/39c972dd7eb625d8fb597293c6ffb3762c9732cf9766f09aac19864da17273db/image6.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/1a6ffda1e0fb902b5269cb73072e506ea8493102b344fa7191cc158798d54599/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/1a6ffda1e0fb902b5269cb73072e506ea8493102b344fa7191cc158798d54599/image7.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 9",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/3ea79966aa4f4c982a3955b4cdea75b01b1e4317541d00df878675dda39b0017/image8.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/3ea79966aa4f4c982a3955b4cdea75b01b1e4317541d00df878675dda39b0017/image8.jpg"
+        },
+        {
+          "alt" : "321 Main North Road Enfield SA 5085 - Image 10",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/8f6dc5c26acd91832a99c252419df7fd1cdbba8876dd9a9b9450fc8d1833485f/image9.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/8f6dc5c26acd91832a99c252419df7fd1cdbba8876dd9a9b9450fc8d1833485f/image9.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "1,000-5,000 3PL pallet spaces available",
+        "Up to 5,000 sqm* available",
+        "Long or short term periods available"
+      ],
+      "agencies" : [
+        {
+          "id" : "ABCSYI",
+          "name" : "Cushman & Wakefield - Parramatta",
+          "salespeople" : [
+            {
+              "id" : "3187628",
+              "name" : "Fab Dalfonso",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/d1b1e0fbbfc0143ebba43f4323f49310826c7ffa7db7c7b12f907f8667c67be9/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/d1b1e0fbbfc0143ebba43f4323f49310826c7ffa7db7c7b12f907f8667c67be9/main.jpg"
+            },
+            {
+              "id" : "3187640",
+              "name" : "Kieran Tsipidis",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f89f82e7e278658da8abbc2be9e801ae4100fedb155f2303e6817508592eeb51/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f89f82e7e278658da8abbc2be9e801ae4100fedb155f2303e6817508592eeb51/main.jpg"
+            },
+            {
+              "id" : "3187616",
+              "name" : "Aston Dalfonso",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/f9876a6a0ed4c011559ff902a93bc8a465125a5af62726e8eaaad7aa51862232/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/f9876a6a0ed4c011559ff902a93bc8a465125a5af62726e8eaaad7aa51862232/main.jpg"
+            },
+            {
+              "id" : "3325480",
+              "name" : "Dean La Delfa",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/de80aa22aa0c72c72cde5fb1f61d587c28f001e2e1b153ed01c6894d213e8139/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/de80aa22aa0c72c72cde5fb1f61d587c28f001e2e1b153ed01c6894d213e8139/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 21,
+      "agents" : [
+        {
+          "name" : "Fab Dalfonso",
+          "avatar" : "https://i1.au.reastatic.net/71x88/d1b1e0fbbfc0143ebba43f4323f49310826c7ffa7db7c7b12f907f8667c67be9/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/d1b1e0fbbfc0143ebba43f4323f49310826c7ffa7db7c7b12f907f8667c67be9/main.jpg"
+        },
+        {
+          "name" : "Kieran Tsipidis",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f89f82e7e278658da8abbc2be9e801ae4100fedb155f2303e6817508592eeb51/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f89f82e7e278658da8abbc2be9e801ae4100fedb155f2303e6817508592eeb51/main.jpg"
+        },
+        {
+          "name" : "Aston Dalfonso",
+          "avatar" : "https://i1.au.reastatic.net/71x88/f9876a6a0ed4c011559ff902a93bc8a465125a5af62726e8eaaad7aa51862232/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/f9876a6a0ed4c011559ff902a93bc8a465125a5af62726e8eaaad7aa51862232/main.jpg"
+        },
+        {
+          "name" : "Dean La Delfa",
+          "avatar" : "https://i1.au.reastatic.net/71x88/de80aa22aa0c72c72cde5fb1f61d587c28f001e2e1b153ed01c6894d213e8139/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/de80aa22aa0c72c72cde5fb1f61d587c28f001e2e1b153ed01c6894d213e8139/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "1000 - 5000 m²",
+        "propertyTypes" : [
+          "Industrial/Warehouse"
+        ]
+      },
+      "id" : "504485160",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-prestons-nsw-2170-504485160",
+      "title" : "3PL Pallet Space Available",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "tenureType" : "vacant",
+        "channel" : "for lease:vacant",
+        "state" : "NSW",
+        "postcode" : "2170",
+        "agencyIds" : "ABCSYI",
+        "subscription" : "",
+        "suburb" : "Prestons",
+        "imageCarousel" : {
+          "channel" : "for lease:vacant",
+          "agencyIds" : "ABCSYI"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Address available on request",
+        "postcode" : "2170",
+        "suburb" : "Prestons",
+        "suburbAddress" : "Prestons, NSW 2170"
+      },
+      "details" : {
+        "price" : "Contact listed agents",
+        "streetAddress" : "Address available on request",
+        "suburbAddress" : "Prestons, NSW 2170"
+      },
+      "branding" : {
+        "color" : "#e4002b",
+        "logo" : {
+          "alt" : "Cushman & Wakefield - Parramatta",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0320647c19ee7074e0315db8ed69bce7c3e2b548c160d8fb947cfc9c7dabd5d8/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Prestons NSW 2170 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/debf21efb60744c227661ea1e3e092d8baab026b18eac2e773a454c037dae2dc/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/debf21efb60744c227661ea1e3e092d8baab026b18eac2e773a454c037dae2dc/image0.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ca3fcc1bc4d2d86d562b0ebb98d99e108a9664ed6ea6c349a21048630b4bec45/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ca3fcc1bc4d2d86d562b0ebb98d99e108a9664ed6ea6c349a21048630b4bec45/image1.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/bc2d3368f911ebaa5b55ed02c0f385072edc18145f6140e76eadc61e95aed8df/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/bc2d3368f911ebaa5b55ed02c0f385072edc18145f6140e76eadc61e95aed8df/image2.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/ec390e9152d1519f79147fef1b72c74e8a1188b2dd367dd54bf14916fcb41472/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ec390e9152d1519f79147fef1b72c74e8a1188b2dd367dd54bf14916fcb41472/image3.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/52b36ac7e9246f9aeaedbceab78dcc086f8bb8f2721d0a2c632d0b9940caff20/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/52b36ac7e9246f9aeaedbceab78dcc086f8bb8f2721d0a2c632d0b9940caff20/image4.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 6",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/9a3c3ca92f6c8091314a9de8011e04e725f9170afb698b5b5611ef9782f27552/image5.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/9a3c3ca92f6c8091314a9de8011e04e725f9170afb698b5b5611ef9782f27552/image5.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 7",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/64ad43734ea611a448725a7d0eb1da258143dc5929d11b7769d5ac02f1e0acfb/image6.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/64ad43734ea611a448725a7d0eb1da258143dc5929d11b7769d5ac02f1e0acfb/image6.jpg"
+        },
+        {
+          "alt" : "Prestons NSW 2170 - Image 8",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/0cd9c616455ae7515fde9dc60f552764330a4fcca65e433a7ed565af9bfec5a5/image7.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/0cd9c616455ae7515fde9dc60f552764330a4fcca65e433a7ed565af9bfec5a5/image7.jpg"
+        }
+      ]
+    },
+    {
+      "highlights" : [
+        "Established Business Park",
+        "Prime Location",
+        "Ample Car Parking onsite"
+      ],
+      "agencies" : [
+        {
+          "id" : "TDXNZN",
+          "name" : "Gibbens Group - WEST GOSFORD",
+          "salespeople" : [
+            {
+              "id" : "1818818",
+              "name" : "Matthew Gibbens",
+              "imagePath" : "https://i1.au.reastatic.net/71x88/7bf97369f17bc0df36c286d2ba000be6c49d49d2349f70567e03c3af1865b317/main.jpg",
+              "imageUrlTemplate" : "https://i1.au.reastatic.net{options}/7bf97369f17bc0df36c286d2ba000be6c49d49d2349f70567e03c3af1865b317/main.jpg"
+            }
+          ]
+        }
+      ],
+      "daysActive" : 167,
+      "agents" : [
+        {
+          "name" : "Matthew Gibbens",
+          "avatar" : "https://i1.au.reastatic.net/71x88/7bf97369f17bc0df36c286d2ba000be6c49d49d2349f70567e03c3af1865b317/main.jpg",
+          "avatarUrlTemplate" : "https://i1.au.reastatic.net{options}/7bf97369f17bc0df36c286d2ba000be6c49d49d2349f70567e03c3af1865b317/main.jpg"
+        }
+      ],
+      "attributes" : {
+        "area" : "185 m²",
+        "propertyTypes" : [
+          "Retail"
+        ]
+      },
+      "id" : "504375664",
+      "hasTour" : false,
+      "pdpUrl" : "/for-lease/property-suite-3-392-398-manns-road-west-gosford-nsw-2250-504375664",
+      "title" : "Modern Office in Premium Business Precinct",
+      "conjunctionalAgencies" : [],
+      "product" : "eliteplus",
+      "otherAgencies" : [],
+      "omniture" : {
+        "channel" : "for lease",
+        "state" : "NSW",
+        "postcode" : "2250",
+        "agencyIds" : "TDXNZN",
+        "subscription" : "",
+        "suburb" : "West Gosford",
+        "imageCarousel" : {
+          "channel" : "for lease",
+          "agencyIds" : "TDXNZN"
+        }
+      },
+      "address" : {
+        "state" : "NSW",
+        "streetAddress" : "Suite 3 , 392-398 Manns Road",
+        "postcode" : "2250",
+        "suburb" : "West Gosford",
+        "suburbAddress" : "West Gosford, NSW 2250"
+      },
+      "details" : {
+        "price" : "Contact Agent",
+        "streetAddress" : "Suite 3 , 392-398 Manns Road",
+        "suburbAddress" : "West Gosford, NSW 2250"
+      },
+      "branding" : {
+        "color" : "#5fc13e",
+        "logo" : {
+          "alt" : "Gibbens Group - WEST GOSFORD",
+          "url" : "https://i1.au.reastatic.net/170x32-fit/ebbea85e231df5169fa7678bcf578131561ef37614db07f8337959cfc2f9bc8a/large.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/ebbea85e231df5169fa7678bcf578131561ef37614db07f8337959cfc2f9bc8a/large.jpg",
+          "size" : "170x32"
+        }
+      },
+      "photos" : [
+        {
+          "alt" : "Suite 3 , 392-398 Manns Road West Gosford NSW 2250 - Image 1",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/56c769b3f163010a030891033b014040ecfc178c3ecf233769996727052a19f2/image0.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/56c769b3f163010a030891033b014040ecfc178c3ecf233769996727052a19f2/image0.jpg"
+        },
+        {
+          "alt" : "Suite 3 , 392-398 Manns Road West Gosford NSW 2250 - Image 2",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/912b9b6072f844cdf6f4bb5c8c5536407b5619644ff69f2a6aa17dfac76c662c/image1.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/912b9b6072f844cdf6f4bb5c8c5536407b5619644ff69f2a6aa17dfac76c662c/image1.jpg"
+        },
+        {
+          "alt" : "Suite 3 , 392-398 Manns Road West Gosford NSW 2250 - Image 3",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/02bca7906e3fe98d9f095073a813a855ff552d27583407e2119f6243825c7376/image2.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/02bca7906e3fe98d9f095073a813a855ff552d27583407e2119f6243825c7376/image2.jpg"
+        },
+        {
+          "alt" : "Suite 3 , 392-398 Manns Road West Gosford NSW 2250 - Image 4",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/93583200cf1a0e62e2e9d524a0ce72a9892d80697c06a42cd6fe7f827c8308b5/image3.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/93583200cf1a0e62e2e9d524a0ce72a9892d80697c06a42cd6fe7f827c8308b5/image3.jpg"
+        },
+        {
+          "alt" : "Suite 3 , 392-398 Manns Road West Gosford NSW 2250 - Image 5",
+          "url" : "https://i1.au.reastatic.net/712x480-smart=85,r=33,g=40,b=46,quality=60,progressive/189a6ec887aced1b29b78ab73694d82c173dd348bfe857657f9aa31231562fd5/image4.jpg",
+          "urlTemplate" : "https://i1.au.reastatic.net{options}/189a6ec887aced1b29b78ab73694d82c173dd348bfe857657f9aa31231562fd5/image4.jpg"
+        }
+      ]
+    }
+  ],
+  "surroundingSuburbListings" : [],
+  "resolvedLocations" : [],
+  "availableResults" : 2839,
+  "advertising" : {
+    "channel" : "lease",
+    "state" : "VIC",
+    "floorArea" : "77 - 300 m²",
+    "landArea" : "0.49 ha (1.22 acres)",
+    "carSpaces" : 59,
+    "suburb" : "armstrongcreek",
+    "proptype" : "retail",
+    "region" : "bellarine_peninsula",
+    "postcode" : "3217",
+    "price" : "Contact Agent"
+  }
+}
